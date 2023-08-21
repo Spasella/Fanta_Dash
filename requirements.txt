@@ -50,7 +50,7 @@ openpyxl==3.1.2
 outcome==1.2.0
 packaging==23.1
 pandas==1.02.01
-pandasai==0.8.4
+pandasai==1.0.8
 pandasql==0.7.3
 parso==0.8.3
 pefile==2023.2.7
