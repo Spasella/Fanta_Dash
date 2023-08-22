@@ -785,6 +785,7 @@ stats2_players1 = dbc.Row([
 
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.CYBORG])
+server = app.server
 
 
 
