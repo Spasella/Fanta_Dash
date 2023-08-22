@@ -1,0 +1,2589 @@
+Stagione,Id,Ruolo,Giocatori,Squadra,Presenze,Media Voto,Fanta Media,Goal Fatti,Goal Subiti,Rigori Parati,Rigori Calciati,Rigori Segnati,Rigori Sbagliati,Assist,Ammonizioni,Espulsioni,Autogoal
+2022-2023,572,Portiere,Meret,Napoli,34,6.18,5.56,0,24,1,0,0,0,0,0,0,0
+2022-2023,2814,Portiere,Provedel,Lazio,38,6.28,5.47,0,30,0,0,0,0,0,1,0,0
+2022-2023,4312,Portiere,Maignan,Milan,22,6.18,5.36,0,21,1,0,0,0,0,0,0,0
+2022-2023,4964,Portiere,Vicario,Empoli,31,6.45,5.24,0,39,1,0,0,0,0,3,0,0
+2022-2023,453,Portiere,Szczesny,Juventus,28,6.11,5.18,0,26,0,0,0,0,0,0,0,0
+2022-2023,133,Portiere,Skorupski,Bologna,37,6.16,4.95,0,49,2,0,0,0,0,4,0,0
+2022-2023,2134,Portiere,Falcone,Lecce,38,6.22,5.07,0,46,1,0,0,0,0,2,0,0
+2022-2023,2211,Portiere,Silvestri,Udinese,38,6.24,4.97,0,48,0,0,0,0,0,0,0,0
+2022-2023,4270,Portiere,Rui Patricio,Roma,35,6.01,5.09,0,35,1,0,0,0,0,1,0,0
+2022-2023,5876,Portiere,Di Gregorio,Monza,37,6.27,4.97,0,49,0,0,0,0,1,0,0,0
+2022-2023,2170,Portiere,Milinkovic-Savic V.,Torino,38,6.03,4.89,0,41,0,0,0,0,0,4,0,0
+2022-2023,5830,Portiere,Onana,Inter,24,6.12,5.02,0,24,0,0,0,0,0,1,0,1
+2022-2023,4,Portiere,Sportiello,Atalanta,15,6.07,4.67,0,21,0,0,0,0,0,0,0,0
+2022-2023,1917,Portiere,Dragowski,Spezia,34,6.24,4.75,0,54,1,0,0,0,1,1,0,0
+2022-2023,2815,Portiere,Terracciano,Fiorentina,29,5.97,4.74,0,38,1,0,0,0,0,1,0,0
+2022-2023,4431,Portiere,Carnesecchi,Cremonese,27,6.37,4.65,0,47,0,0,0,0,1,1,0,0
+2022-2023,4957,Portiere,Montipo',Verona,37,6.23,4.7,0,59,1,0,0,0,0,1,0,0
+2022-2023,6120,Portiere,Ochoa,Salernitana,20,6.35,4.82,0,33,1,0,0,0,0,1,0,0
+2022-2023,218,Portiere,Perin,Juventus,11,6.36,6,0,7,1,0,0,0,0,0,0,0
+2022-2023,2294,Portiere,Cerofolini,Fiorentina,5,6.1,5.5,0,3,0,0,0,0,0,0,0,0
+2022-2023,2792,Portiere,Musso,Atalanta,23,6.04,4.76,0,27,0,0,0,0,0,1,0,1
+2022-2023,159,Portiere,Sepe,Salernitana,17,6.29,5.15,0,27,3,0,0,0,0,3,0,0
+2022-2023,250,Portiere,Handanovic,Inter,14,6.18,4.89,0,18,0,0,0,0,0,0,0,0
+2022-2023,509,Portiere,Consigli,Sassuolo,35,6.03,4.46,0,55,0,0,0,0,0,0,0,0
+2022-2023,761,Portiere,Audero,Sampdoria,25,6.34,4.92,0,39,2,0,0,0,0,1,0,1
+2022-2023,610,Portiere,Gollini,Napoli,7,6.14,5.29,0,6,0,0,0,0,0,0,0,0
+2022-2023,673,Portiere,Perisan,Empoli,7,6.29,5,0,9,0,0,0,0,0,0,0,0
+2022-2023,160,Portiere,Tatarusanu,Milan,16,5.88,4.5,0,22,0,0,0,0,0,0,0,0
+2022-2023,1889,Portiere,Cordaz,Inter,1,7,7,0,0,0,0,0,0,0,0,0,0
+2022-2023,5005,Portiere,Zoet,Spezia,5,6.1,5.2,0,4,0,0,0,0,0,1,0,0
+2022-2023,5841,Portiere,Svilar,Roma,3,6,4.83,0,3,0,0,0,0,0,1,0,0
+2022-2023,1843,Portiere,Radu I.,Cremonese,9,6.11,4,0,19,0,0,0,0,0,0,0,0
+2022-2023,42,Portiere,Sarr M.,Cremonese,2,6.25,4.75,0,3,0,0,0,0,0,0,0,0
+2022-2023,510,Portiere,Pegolo,Sassuolo,2,6,4.5,0,3,0,0,0,0,0,0,0,0
+2022-2023,4977,Portiere,Ravaglia,Sampdoria,9,6.22,3.67,0,23,0,0,0,0,0,0,0,0
+2022-2023,6135,Portiere,Turk,Sampdoria,4,6.25,4,0,9,0,0,0,0,0,0,0,0
+2022-2023,41,Portiere,Mirante,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,217,Portiere,Lamanna,Monza,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,220,Portiere,Ujkani,Empoli,1,5.5,4.5,0,1,0,0,0,0,0,0,0,0
+2022-2023,316,Portiere,Berisha,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,318,Portiere,Marchetti,Spezia,1,5.5,3.5,0,2,0,0,0,0,0,0,0,0
+2022-2023,511,Portiere,Perilli,Verona,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2022-2023,543,Portiere,Padelli,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,799,Portiere,Bardi,Bologna,1,6,6,0,0,0,0,0,0,0,0,0,0
+2022-2023,1930,Portiere,Pinsoglio,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,1947,Portiere,Fiorillo,Salernitana,1,6,4,0,2,0,0,0,0,0,0,0,0
+2022-2023,2127,Portiere,Satalino,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,2178,Portiere,Cragno,Monza,1,5.5,2.5,0,3,0,0,0,0,0,0,0,0
+2022-2023,2179,Portiere,Sirigu,Fiorentina,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2022-2023,2297,Portiere,Rossi F.,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,2722,Portiere,Ravaglia F.,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,2790,Portiere,Rosati,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,2845,Portiere,Contini,Sampdoria,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,4351,Portiere,Brancolini,Lecce,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,4468,Portiere,Bleve,Lecce,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,4491,Portiere,Berardi A.,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,4518,Portiere,Russo A.,Sassuolo,1,5,2,0,3,0,0,0,0,0,0,0,0
+2022-2023,4525,Portiere,Gemello,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5304,Portiere,Boer,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5333,Portiere,Gasparini,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5448,Portiere,Furlan,Empoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5502,Portiere,Adamonis,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5518,Portiere,Marfella,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5528,Portiere,Zovko,Spezia,1,5.5,3.5,0,2,0,0,0,0,0,0,0,0
+2022-2023,5682,Portiere,Molla,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5704,Portiere,Russo,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5707,Portiere,Piana,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5822,Portiere,Bagnolini,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5832,Portiere,Luis Maximiano,Lazio,1,4,3,0,0,0,0,0,0,0,0,1,0
+2022-2023,5853,Portiere,Sorrentino A.,Monza,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5887,Portiere,Ciezkowski,Cremonese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5889,Portiere,Micai,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5890,Portiere,Chiesa M.,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,6029,Portiere,Saro,Cremonese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,6125,Portiere,Vasquez D.,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,6184,Portiere,Martinelli T.,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5877,Difensore,Carlos Augusto,Monza,35,6.19,6.79,6,0,0,0,0,0,5,4,0,0
+2022-2023,254,Difensore,Dimarco,Inter,33,6.23,6.71,4,0,0,0,0,0,4,0,0,0
+2022-2023,6066,Difensore,Posch,Bologna,30,6.13,6.7,6,0,0,0,0,0,2,6,0,0
+2022-2023,2816,Difensore,Di Lorenzo,Napoli,37,6.24,6.57,3,0,0,0,0,0,4,2,0,0
+2022-2023,554,Difensore,Zappacosta,Atalanta,21,6.02,6.55,4,0,0,0,0,0,1,4,0,0
+2022-2023,4237,Difensore,Danilo,Juventus,37,6.22,6.47,3,0,0,0,0,0,3,5,0,0
+2022-2023,4245,Difensore,Smalling,Roma,32,6.33,6.53,3,0,0,0,0,0,1,7,0,0
+2022-2023,4998,Difensore,Molina N.,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5892,Difensore,Kim,Napoli,35,6.23,6.39,2,0,0,0,0,0,2,5,0,0
+2022-2023,460,Difensore,Romagnoli,Lazio,34,6.13,6.22,2,0,0,0,0,0,0,6,0,0
+2022-2023,4292,Difensore,Hernandez T.,Milan,32,6.03,6.33,4,0,0,1,1,0,3,7,0,1
+2022-2023,5355,Difensore,Udogie,Udinese,33,6.08,6.39,3,0,0,0,0,0,4,5,0,0
+2022-2023,5480,Difensore,Ebuehi,Empoli,25,6.12,6.52,2,0,0,0,0,0,4,0,0,0
+2022-2023,5481,Difensore,Mazzocchi,Salernitana,27,6.11,6.41,2,0,0,0,0,0,3,2,0,0
+2022-2023,5862,Difensore,Valeri,Cremonese,37,5.86,6.09,2,0,0,0,0,0,4,3,0,0
+2022-2023,4409,Difensore,Rrahmani,Napoli,28,6.11,6.32,2,0,0,0,0,0,1,2,0,0
+2022-2023,5527,Difensore,Zanoli,Sampdoria,20,5.98,6.3,2,0,0,0,0,0,2,3,0,0
+2022-2023,5851,Difensore,Doig,Verona,21,6.02,6.48,2,0,0,0,0,0,4,1,0,0
+2022-2023,2160,Difensore,Gosens,Inter,25,5.9,6.24,3,0,0,0,0,0,0,2,0,0
+2022-2023,2724,Difensore,Buongiorno,Torino,34,6.16,6.19,1,0,0,0,0,0,2,8,0,0
+2022-2023,2788,Difensore,Bremer,Juventus,30,6.07,6.37,4,0,0,0,0,0,0,6,0,0
+2022-2023,5835,Difensore,Baschirotto,Lecce,37,6.14,6.3,3,0,0,0,0,0,0,6,0,0
+2022-2023,6041,Difensore,Schuurs,Torino,29,6.22,6.21,0,0,0,0,0,0,2,5,0,0
+2022-2023,1852,Difensore,Spinazzola,Roma,25,6,6.22,1,0,0,0,0,0,4,3,0,0
+2022-2023,2296,Difensore,Mancini,Roma,35,6.06,6.09,1,0,0,0,0,0,2,7,0,0
+2022-2023,4751,Difensore,Tomori,Milan,33,5.97,5.98,1,0,0,0,0,0,0,5,0,0
+2022-2023,5449,Difensore,Parisi,Empoli,33,6.17,6.17,2,0,0,0,0,0,0,10,1,0
+2022-2023,5840,Difensore,Olivera,Napoli,25,6.06,6.3,2,0,0,0,0,0,1,2,0,0
+2022-2023,140,Difensore,Hysaj,Lazio,30,5.9,5.98,1,0,0,0,0,0,1,3,0,0
+2022-2023,252,Difensore,Biraghi,Fiorentina,32,6.09,6.23,2,0,0,1,0,1,4,1,0,1
+2022-2023,393,Difensore,Luperto,Empoli,36,5.92,6,2,0,0,0,0,0,0,2,2,0
+2022-2023,695,Difensore,Toloi,Atalanta,32,5.91,5.97,2,0,0,0,0,0,0,8,0,0
+2022-2023,2120,Difensore,Bastoni,Inter,29,5.93,5.95,0,0,0,0,0,0,2,3,0,0
+2022-2023,2141,Difensore,Depaoli,Verona,33,5.8,5.89,2,0,0,0,0,0,1,8,0,0
+2022-2023,2525,Difensore,Darmian,Inter,27,6,6.13,1,0,0,0,0,0,2,3,0,0
+2022-2023,4421,Difensore,Augello,Sampdoria,37,5.74,6,2,0,0,0,0,0,5,3,0,0
+2022-2023,5332,Difensore,Bastoni S.,Spezia,18,6.14,6.5,2,0,0,0,0,0,4,7,0,0
+2022-2023,5375,Difensore,Maehle,Atalanta,30,5.82,6.07,3,0,0,0,0,0,2,5,1,0
+2022-2023,5498,Difensore,Casale,Lazio,29,6.07,6.1,1,0,0,0,0,0,1,6,0,0
+2022-2023,5513,Difensore,Dumfries,Inter,34,5.91,6,1,0,0,0,0,0,4,4,0,1
+2022-2023,5526,Difensore,Scalvini,Atalanta,32,5.88,5.95,2,0,0,0,0,0,0,7,0,0
+2022-2023,5675,Difensore,Theate,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5677,Difensore,Perez N.,Udinese,34,5.93,5.91,2,0,0,0,0,0,0,7,1,1
+2022-2023,5847,Difensore,Bijol,Udinese,32,6.09,6.25,3,0,0,0,0,0,1,10,0,0
+2022-2023,142,Difensore,Mario Rui,Napoli,22,6.27,6.41,0,0,0,0,0,0,5,2,1,0
+2022-2023,513,Difensore,Acerbi,Inter,31,6.03,6,0,0,0,0,0,0,1,4,0,0
+2022-2023,581,Difensore,Faraoni,Verona,21,5.83,6.05,2,0,0,0,0,0,2,7,0,0
+2022-2023,2164,Difensore,Milenkovic,Fiorentina,27,5.98,6.09,2,0,0,0,0,0,1,4,0,1
+2022-2023,2169,Difensore,Rodriguez R.,Torino,34,6.1,6.06,0,0,0,0,0,0,0,3,0,0
+2022-2023,2739,Difensore,Reca,Spezia,29,5.91,5.93,1,0,0,0,0,0,0,5,0,0
+2022-2023,4530,Difensore,Kyriakopoulos,Bologna,21,6.12,6.29,1,0,0,0,0,0,3,5,0,0
+2022-2023,4899,Difensore,Singo,Torino,28,6.02,6.12,2,0,0,0,0,0,1,8,0,0
+2022-2023,4904,Difensore,Mari',Monza,29,5.91,5.95,1,0,0,0,0,0,0,4,0,0
+2022-2023,5520,Difensore,Cambiaso,Bologna,30,5.95,6.02,0,0,0,0,0,0,3,2,0,0
+2022-2023,5885,Difensore,Dodo',Fiorentina,33,5.88,5.98,1,0,0,0,0,0,3,3,1,0
+2022-2023,49,Difensore,Masina,Udinese,12,5.88,6.29,2,0,0,0,0,0,0,2,0,0
+2022-2023,226,Difensore,Izzo,Monza,29,6.09,6.02,1,0,0,0,0,0,0,10,0,0
+2022-2023,357,Difensore,Calabria,Milan,23,5.98,6.11,1,0,0,0,0,0,3,6,0,0
+2022-2023,798,Difensore,Skriniar,Inter,21,5.83,5.62,0,0,0,0,0,0,0,3,1,1
+2022-2023,2847,Difensore,Sernicola,Cremonese,31,5.95,6.03,2,0,0,0,0,0,2,11,0,0
+2022-2023,4375,Difensore,Terzic,Fiorentina,17,6.21,6.38,1,0,0,0,0,0,1,2,0,0
+2022-2023,4412,Difensore,Rodrigo Becao,Udinese,28,6.09,6.04,2,0,0,0,0,0,1,11,1,1
+2022-2023,4897,Difensore,Pirola,Salernitana,25,5.7,5.86,2,0,0,0,0,0,0,4,0,0
+2022-2023,4958,Difensore,Caldirola,Monza,30,6.05,6.15,2,0,0,0,0,0,0,6,0,0
+2022-2023,256,Difensore,Juan Jesus,Napoli,13,6.08,6.23,1,0,0,0,0,0,0,2,0,0
+2022-2023,286,Difensore,Bonucci,Juventus,12,5.96,5.92,1,0,0,1,0,1,0,1,0,0
+2022-2023,322,Difensore,De Vrij,Inter,24,5.98,6.02,1,0,0,0,0,0,0,4,0,0
+2022-2023,787,Difensore,Djimsiti,Atalanta,22,5.86,5.84,0,0,0,0,0,0,1,3,0,0
+2022-2023,2188,Difensore,Marusic,Lazio,33,5.94,5.85,0,0,0,0,0,0,2,8,1,0
+2022-2023,2869,Difensore,Djidji,Torino,32,5.89,5.94,1,0,0,0,0,0,0,3,0,0
+2022-2023,4331,Difensore,Ibanez,Roma,33,5.77,5.82,3,0,0,0,0,0,0,9,1,1
+2022-2023,4976,Difensore,Kalulu,Milan,32,5.75,5.78,1,0,0,0,0,0,0,4,0,0
+2022-2023,4994,Difensore,Vojvoda,Torino,28,5.96,6.09,0,0,0,0,0,0,5,3,0,0
+2022-2023,5239,Difensore,Llorente D.,Roma,8,6,6,0,0,0,0,0,0,0,0,0,0
+2022-2023,5323,Difensore,Martinez Quarta,Fiorentina,27,6.04,6.07,1,0,0,0,0,0,1,6,0,0
+2022-2023,5693,Difensore,Kiwior,Spezia,17,6,5.91,0,0,0,0,0,0,0,3,0,0
+2022-2023,5867,Difensore,Gendrey,Lecce,36,5.85,5.82,0,0,0,0,0,0,1,4,0,0
+2022-2023,6046,Difensore,Hien,Verona,32,6,5.86,0,0,0,0,0,0,0,9,0,0
+2022-2023,327,Difensore,Patric,Lazio,17,6.06,6.03,0,0,0,0,0,0,0,1,0,0
+2022-2023,660,Difensore,Gyomber,Salernitana,24,6.15,6.08,0,0,0,0,0,0,1,5,0,0
+2022-2023,2318,Difensore,Rogerio,Sassuolo,35,5.74,5.73,0,0,0,0,0,0,3,5,1,0
+2022-2023,2583,Difensore,Umtiti,Lecce,24,6,5.83,0,0,0,0,0,0,0,8,0,0
+2022-2023,2870,Difensore,Troost-Ekong,Salernitana,8,5.94,6.25,1,0,0,0,0,0,0,1,0,0
+2022-2023,4329,Difensore,Nikolaou,Spezia,34,5.75,5.69,1,0,0,0,0,0,0,8,1,0
+2022-2023,4332,Difensore,Demiral,Atalanta,22,5.93,5.95,1,0,0,0,0,0,0,5,0,0
+2022-2023,4385,Difensore,Lazaro,Torino,20,5.95,6,0,0,0,0,0,0,3,4,0,0
+2022-2023,4433,Difensore,Zortea,Sassuolo,15,5.87,5.97,1,0,0,0,0,0,1,5,0,0
+2022-2023,4719,Difensore,Ampadu,Spezia,31,6,5.85,0,0,0,0,0,0,1,9,1,0
+2022-2023,5514,Difensore,Vasquez,Cremonese,24,5.9,5.88,1,0,0,0,0,0,0,7,0,0
+2022-2023,5532,Difensore,Bradaric,Salernitana,30,5.73,5.75,0,0,0,0,0,0,3,5,0,0
+2022-2023,5718,Difensore,Viti,Empoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,6027,Difensore,Lochoshvili,Cremonese,24,5.81,5.9,1,0,0,0,0,0,1,4,0,0
+2022-2023,6047,Difensore,Ehizibue,Udinese,21,5.88,6.02,2,0,0,0,0,0,0,7,0,0
+2022-2023,6055,Difensore,Thiaw,Milan,18,5.89,5.75,0,0,0,0,0,0,0,5,0,0
+2022-2023,253,Difensore,D'ambrosio,Inter,14,5.89,5.89,0,0,0,0,0,0,2,2,1,0
+2022-2023,272,Difensore,Medel,Bologna,23,5.96,5.89,0,0,0,0,0,0,1,5,0,0
+2022-2023,487,Difensore,De Silvestri,Bologna,12,5.92,5.96,1,0,0,0,0,0,0,1,0,1
+2022-2023,1891,Difensore,Ceccherini,Verona,20,5.9,5.92,2,0,0,0,0,0,0,9,1,0
+2022-2023,1895,Difensore,Ferrari G.,Sassuolo,27,5.83,5.87,1,0,0,0,0,0,0,5,0,0
+2022-2023,2653,Difensore,Lykogiannis,Bologna,20,5.92,6.15,2,0,0,0,0,0,0,3,0,0
+2022-2023,2784,Difensore,Colley,Sampdoria,16,5.72,5.75,1,0,0,0,0,0,0,5,0,0
+2022-2023,2865,Difensore,Aina,Torino,16,5.97,6.06,1,0,0,0,0,0,1,5,0,0
+2022-2023,4378,Difensore,Ranieri L.,Fiorentina,8,6.12,6.06,0,0,0,0,0,0,0,1,0,0
+2022-2023,4426,Difensore,Toljan,Sassuolo,31,5.65,5.63,0,0,0,0,0,0,1,3,0,0
+2022-2023,4502,Difensore,Gallo,Lecce,31,5.87,5.69,0,0,0,0,0,0,1,3,1,2
+2022-2023,4887,Difensore,Bellanova,Inter,11,5.86,5.86,0,0,0,0,0,0,0,0,0,0
+2022-2023,4891,Difensore,Soumaoro,Bologna,23,5.93,5.83,0,0,0,0,0,0,0,3,1,0
+2022-2023,5010,Difensore,Ismajli,Empoli,25,5.98,5.84,0,0,0,0,0,0,0,3,0,1
+2022-2023,5017,Difensore,Ballo-Toure',Milan,7,5.71,6.14,1,0,0,0,0,0,0,0,0,0
+2022-2023,5316,Difensore,Amione,Sampdoria,27,5.65,5.59,1,0,0,0,0,0,1,9,1,0
+2022-2023,5678,Difensore,Holm,Spezia,19,6.08,6.18,1,0,0,0,0,0,1,4,0,0
+2022-2023,5831,Difensore,Gatti,Juventus,16,5.78,5.66,0,0,0,0,0,0,0,4,0,0
+2022-2023,5838,Difensore,Birindelli,Monza,30,5.82,5.75,0,0,0,0,0,0,2,8,0,0
+2022-2023,5848,Difensore,Ebosele,Udinese,10,5.95,5.95,0,0,0,0,0,0,1,4,0,0
+2022-2023,5856,Difensore,Sambia,Salernitana,15,5.8,5.83,0,0,0,0,0,0,1,3,0,0
+2022-2023,6042,Difensore,Lucumi',Bologna,33,5.91,5.76,0,0,0,0,0,0,1,8,0,1
+2022-2023,45,Difensore,Ferrari A.,Cremonese,27,5.63,5.52,0,0,0,0,0,0,0,6,0,0
+2022-2023,261,Difensore,Ranocchia,Monza,1,5,5,0,0,0,0,0,0,0,0,0,0
+2022-2023,640,Difensore,Chiriches,Cremonese,15,5.97,5.77,0,0,0,0,0,0,0,2,0,1
+2022-2023,729,Difensore,Pereira P.,Monza,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,2181,Difensore,Palomino,Atalanta,14,5.89,5.82,1,0,0,0,0,0,0,4,0,1
+2022-2023,2192,Difensore,Bonifazi,Bologna,12,5.71,5.62,0,0,0,0,0,0,0,2,0,0
+2022-2023,2263,Difensore,Lazzari,Lazio,27,5.98,5.76,0,0,0,0,0,0,0,8,0,1
+2022-2023,2280,Difensore,Nuytinck,Sampdoria,24,5.75,5.69,0,0,0,0,0,0,1,5,0,0
+2022-2023,2758,Difensore,Gunter,Sampdoria,23,5.67,5.74,1,0,0,0,0,0,1,5,0,0
+2022-2023,2769,Difensore,Magnani,Verona,24,5.83,5.6,0,0,0,0,0,0,1,7,1,1
+2022-2023,4323,Difensore,Zeegelaar,Udinese,6,5.67,5.92,1,0,0,0,0,0,0,1,1,0
+2022-2023,4407,Difensore,Igor,Fiorentina,26,5.83,5.63,0,0,0,0,0,0,0,8,1,0
+2022-2023,4493,Difensore,Dawidowicz,Verona,22,5.8,5.8,1,0,0,0,0,0,1,6,1,0
+2022-2023,4657,Difensore,Celik,Roma,21,5.69,5.57,0,0,0,0,0,0,1,5,1,0
+2022-2023,5450,Difensore,Stojanovic,Empoli,24,5.79,5.77,0,0,0,0,0,0,1,3,0,0
+2022-2023,5475,Difensore,Amian,Spezia,30,5.53,5.42,0,0,0,0,0,0,0,5,1,0
+2022-2023,5554,Difensore,Daniliuc,Salernitana,27,5.76,5.57,0,0,0,0,0,0,0,10,0,0
+2022-2023,5793,Difensore,Kasius,Bologna,6,6,6.25,0,0,0,0,0,0,2,1,0,0
+2022-2023,6002,Difensore,Aiwu,Cremonese,22,5.77,5.7,0,0,0,0,0,0,0,3,0,0
+2022-2023,6153,Difensore,Wisniewski,Spezia,11,5.68,5.45,1,0,0,0,0,0,0,3,0,2
+2022-2023,244,Difensore,Ghiglione,Cremonese,12,5.83,6,1,0,0,0,0,0,1,4,0,0
+2022-2023,294,Difensore,Rugani,Juventus,7,6,6,0,0,0,0,0,0,0,0,0,0
+2022-2023,358,Difensore,De Sciglio,Juventus,17,5.85,5.85,0,0,0,0,0,0,0,0,0,0
+2022-2023,612,Difensore,Bianchetti,Cremonese,25,5.68,5.7,1,0,0,0,0,0,0,5,0,0
+2022-2023,662,Difensore,Alex Sandro,Juventus,23,5.63,5.54,0,0,0,0,0,0,1,4,1,0
+2022-2023,1868,Difensore,Murru,Sampdoria,17,5.59,5.5,0,0,0,0,0,0,0,3,0,0
+2022-2023,1898,Difensore,Sampirisi,Monza,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,2104,Difensore,Bereszynski,Napoli,18,5.61,5.61,0,0,0,0,0,0,1,2,0,0
+2022-2023,2130,Difensore,Hateboer,Atalanta,17,5.85,5.88,1,0,0,0,0,0,1,7,0,0
+2022-2023,2174,Difensore,Venuti,Fiorentina,16,5.81,5.75,0,0,0,0,0,0,0,2,0,0
+2022-2023,2184,Difensore,Gravillon,Torino,5,6,5.8,0,0,0,0,0,0,0,2,0,0
+2022-2023,2300,Difensore,Leverbe,Sampdoria,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,2312,Difensore,Hristov,Spezia,8,5.69,5.69,0,0,0,0,0,0,0,0,0,0
+2022-2023,2355,Difensore,Marlon,Monza,24,5.6,5.33,0,0,0,0,0,0,0,7,1,1
+2022-2023,2633,Difensore,Kjaer,Milan,14,5.93,5.79,0,0,0,0,0,0,0,4,0,0
+2022-2023,2728,Difensore,Pellegrini Lu.,Lazio,3,6,5.67,0,0,0,0,0,0,0,3,0,0
+2022-2023,2745,Difensore,Calabresi,Lecce,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,4374,Difensore,Walukiewicz,Empoli,9,5.78,5.78,0,0,0,0,0,0,0,0,0,0
+2022-2023,4432,Difensore,Okoli,Atalanta,14,5.75,5.64,0,0,0,0,0,0,0,3,0,0
+2022-2023,4758,Difensore,Benkovic,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,4934,Difensore,Lovato,Salernitana,15,5.57,5.5,0,0,0,0,0,0,0,2,0,0
+2022-2023,4946,Difensore,Frabotta,Lecce,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,4979,Difensore,Ayhan,Sassuolo,8,5.5,5.44,0,0,0,0,0,0,0,1,0,0
+2022-2023,4982,Difensore,Erlic,Sassuolo,27,5.81,5.7,0,0,0,0,0,0,0,2,0,1
+2022-2023,5479,Difensore,Ceccaroni,Lecce,2,6,6,0,0,0,0,0,0,0,0,0,0
+2022-2023,5764,Difensore,Coppola D.,Verona,16,5.75,5.59,0,0,0,0,0,0,0,5,0,0
+2022-2023,5804,Difensore,Cacace,Empoli,10,5.7,5.65,0,0,0,0,0,0,0,1,0,0
+2022-2023,5860,Difensore,Ravanelli,Cremonese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5891,Difensore,Quagliata,Cremonese,16,5.75,5.75,0,0,0,0,0,0,1,0,1,0
+2022-2023,6021,Difensore,Abankwah,Udinese,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2022-2023,6023,Difensore,Guessand A.,Udinese,1,6,6,0,0,0,0,0,0,0,0,0,0
+2022-2023,6039,Difensore,Cabal,Verona,9,5.67,5.5,0,0,0,0,0,0,0,3,0,0
+2022-2023,52,Difensore,Oikonomou,Sampdoria,6,5.67,5.42,0,0,0,0,0,0,0,3,0,0
+2022-2023,73,Difensore,Gagliolo,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,118,Difensore,Radovanovic,Salernitana,10,5.5,5.35,0,0,0,0,0,0,0,1,1,0
+2022-2023,139,Difensore,Dermaku,Lecce,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2022-2023,144,Difensore,Tonelli,Empoli,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2022-2023,259,Difensore,Murillo,Sampdoria,16,5.56,5.25,0,0,0,0,0,0,0,4,1,1
+2022-2023,770,Difensore,Pezzella Giu.,Lecce,14,5.86,5.86,0,0,0,0,0,0,1,2,0,0
+2022-2023,2016,Difensore,Fazio,Salernitana,12,5.62,5.75,1,0,0,0,0,0,0,1,1,0
+2022-2023,2180,Difensore,Karsdorp,Roma,12,5.71,5.71,0,0,0,0,0,0,0,0,0,0
+2022-2023,2252,Difensore,Marchizza,Sassuolo,5,6,5.9,0,0,0,0,0,0,0,1,0,0
+2022-2023,2279,Difensore,Romagna,Sassuolo,1,5,5,0,0,0,0,0,0,0,0,0,0
+2022-2023,2446,Difensore,Donati,Monza,8,5.81,5.94,1,0,0,0,0,0,0,2,1,0
+2022-2023,2668,Difensore,Retsos,Verona,2,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2022-2023,2746,Difensore,Dijks,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,4401,Difensore,Gabbia,Milan,9,5.5,5.39,0,0,0,0,0,0,0,2,0,0
+2022-2023,4960,Difensore,Tuia,Lecce,7,6.07,6,0,0,0,0,0,0,0,1,0,0
+2022-2023,4983,Difensore,Ferrer,Spezia,3,5.67,5.67,0,0,0,0,0,0,0,0,0,0
+2022-2023,5313,Difensore,Dest,Milan,7,5.57,5.57,0,0,0,0,0,0,0,0,0,0
+2022-2023,5354,Difensore,Ruggeri,Atalanta,10,5.9,5.85,0,0,0,0,0,0,1,3,0,0
+2022-2023,5399,Difensore,Antov,Monza,6,5.5,5.33,0,0,0,0,0,0,0,2,0,0
+2022-2023,5603,Difensore,Pongracic,Lecce,9,6.17,6.06,0,0,0,0,0,0,0,2,0,0
+2022-2023,5686,Difensore,Soppy,Atalanta,12,5.67,5.79,0,0,0,0,0,0,3,3,0,0
+2022-2023,5747,Difensore,Ruan,Sassuolo,21,5.48,5.05,0,0,0,0,0,0,0,9,3,1
+2022-2023,5750,Difensore,Ostigard,Napoli,6,6.08,6,0,0,0,0,0,0,0,1,0,0
+2022-2023,5833,Difensore,Gila,Lazio,3,5.83,5.83,0,0,0,0,0,0,0,0,0,0
+2022-2023,5846,Difensore,Bayeye,Torino,1,5,5,0,0,0,0,0,0,0,0,0,0
+2022-2023,6013,Difensore,Barbieri,Juventus,2,5.25,5.25,0,0,0,0,0,0,0,0,0,0
+2022-2023,6028,Difensore,Bronn,Salernitana,21,5.5,5.36,0,0,0,0,0,0,0,4,1,0
+2022-2023,6064,Difensore,Hendry,Cremonese,3,5.67,5.5,0,0,0,0,0,0,0,1,0,0
+2022-2023,11,Difensore,Conti,Sampdoria,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2022-2023,50,Difensore,Mbaye,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,76,Difensore,Romagnoli S.,Lecce,4,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2022-2023,84,Difensore,Marrone,Monza,2,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2022-2023,329,Difensore,Radu,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,360,Difensore,Paletta,Monza,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,454,Difensore,Capradossi,Spezia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,464,Difensore,Florenzi,Milan,4,5.88,5.75,0,0,0,0,0,0,0,1,0,0
+2022-2023,630,Difensore,Sala,Spezia,3,5.83,5.83,0,0,0,0,0,0,0,1,0,0
+2022-2023,633,Difensore,Fares,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,1847,Difensore,Caldara,Spezia,16,5.53,5.22,0,0,0,0,0,0,0,6,0,1
+2022-2023,2064,Difensore,Veseli,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,2208,Difensore,Jaroszynski,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,2453,Difensore,Nastasic,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,2737,Difensore,Bettella,Monza,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,4438,Difensore,Cassandro,Lecce,1,6,6,0,0,0,0,0,0,0,0,0,0
+2022-2023,4495,Difensore,Kumbulla,Roma,6,5.67,5.42,0,0,0,0,0,0,0,1,1,0
+2022-2023,4519,Difensore,Cetin,Lecce,1,5,5,0,0,0,0,0,0,0,0,0,0
+2022-2023,4521,Difensore,Muldur,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,4870,Difensore,Adopo,Torino,4,6.12,6,0,0,0,0,0,0,0,1,0,0
+2022-2023,4925,Difensore,Carboni,Monza,3,5.17,5.17,0,0,0,0,0,0,0,0,0,0
+2022-2023,4945,Difensore,Calafiori,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,4985,Difensore,Vignali,Spezia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5424,Difensore,Amey,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5456,Difensore,Ferrarini,Monza,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5461,Difensore,Kamenovic,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5503,Difensore,Kechrida,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5509,Difensore,Vina,Roma,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2022-2023,5691,Difensore,Zima,Torino,8,5.88,5.88,0,0,0,0,0,0,0,0,0,0
+2022-2023,5739,Difensore,De Winter,Empoli,13,5.73,5.62,0,0,0,0,0,0,0,3,0,0
+2022-2023,5740,Difensore,Zanotti,Inter,1,6,6,0,0,0,0,0,0,0,0,0,0
+2022-2023,5762,Difensore,Motoc,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5820,Difensore,Bertola,Spezia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5849,Difensore,Buta,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5859,Difensore,Ndiaye,Cremonese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5861,Difensore,Fiordaliso,Cremonese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5994,Difensore,Ebosse,Udinese,15,5.7,5.6,0,0,0,0,0,0,0,3,0,0
+2022-2023,6043,Difensore,Sosa,Bologna,9,5.33,5.22,0,0,0,0,0,0,0,2,0,0
+2022-2023,6056,Difensore,Guarino,Empoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,6118,Difensore,Moutinho J.,Spezia,2,6,6,0,0,0,0,0,0,0,0,0,0
+2022-2023,6139,Difensore,Zeefuik,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,6149,Difensore,Carboni F.,Monza,2,6.25,6.25,0,0,0,0,0,0,0,0,0,0
+2022-2023,5839,Centrocampista,Kvaratskhelia,Napoli,34,6.59,7.93,12,0,0,2,2,0,10,1,0,0
+2022-2023,632,Centrocampista,Zaccagni,Lazio,35,6.46,7.36,10,0,0,1,1,0,6,9,0,0
+2022-2023,645,Centrocampista,Milinkovic-Savic,Lazio,36,6.18,7.01,9,0,0,0,0,0,8,10,0,0
+2022-2023,335,Centrocampista,Felipe Anderson,Lazio,38,6.14,6.89,9,0,0,0,0,0,3,3,0,0
+2022-2023,795,Centrocampista,El Shaarawy,Roma,27,6.26,7.02,7,0,0,0,0,0,1,3,0,0
+2022-2023,2379,Centrocampista,Rabiot,Juventus,32,6.22,6.95,8,0,0,0,0,0,4,9,0,0
+2022-2023,2085,Centrocampista,Luis Alberto,Lazio,34,6.26,6.85,6,0,0,2,1,1,7,4,0,0
+2022-2023,2167,Centrocampista,Orsolini,Bologna,32,6.11,7.05,11,0,0,3,3,0,2,6,2,0
+2022-2023,4486,Centrocampista,Strefezza,Lecce,34,6.12,6.78,8,0,0,3,2,1,4,5,0,0
+2022-2023,5685,Centrocampista,Koopmeiners,Atalanta,33,6.29,7.06,10,0,0,4,2,2,5,7,0,0
+2022-2023,1870,Centrocampista,Barella,Inter,35,6.23,6.83,6,0,0,0,0,0,6,6,0,0
+2022-2023,5687,Centrocampista,Vlasic,Torino,34,6.16,6.76,5,0,0,0,0,0,6,1,0,0
+2022-2023,152,Centrocampista,Zielinski,Napoli,37,6.18,6.59,3,0,0,0,0,0,8,3,0,0
+2022-2023,302,Centrocampista,Pereyra,Udinese,34,6.13,6.56,5,0,0,1,0,1,6,7,0,0
+2022-2023,332,Centrocampista,Candreva,Salernitana,35,6.07,6.74,7,0,0,0,0,0,4,1,1,0
+2022-2023,2848,Centrocampista,Frattesi,Sassuolo,36,6.19,6.72,7,0,0,0,0,0,0,4,0,0
+2022-2023,4825,Centrocampista,Diaz B.,Milan,33,6.11,6.76,6,0,0,0,0,0,5,3,0,0
+2022-2023,5001,Centrocampista,Miranchuk,Torino,28,6.14,6.75,4,0,0,0,0,0,5,0,0,0
+2022-2023,5858,Centrocampista,Ferguson,Bologna,31,6.26,6.87,7,0,0,0,0,0,0,4,0,0
+2022-2023,5880,Centrocampista,Ciurria,Monza,35,6.21,6.84,6,0,0,0,0,0,6,4,0,0
+2022-2023,236,Centrocampista,Lazovic,Verona,30,6.22,6.78,4,0,0,0,0,0,5,0,0,0
+2022-2023,2194,Centrocampista,Calhanoglu,Inter,33,6.26,6.64,3,0,0,1,1,0,5,3,0,0
+2022-2023,4479,Centrocampista,Elmas,Napoli,34,6.12,6.66,6,0,0,1,1,0,3,5,0,0
+2022-2023,5850,Centrocampista,Lovric,Udinese,37,6.09,6.61,5,0,0,0,0,0,6,4,0,0
+2022-2023,2775,Centrocampista,Ruiz,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,4220,Centrocampista,Zambo Anguissa,Napoli,36,6.11,6.46,3,0,0,0,0,0,5,3,0,0
+2022-2023,5119,Centrocampista,Samardzic,Udinese,33,6.11,6.64,5,0,0,0,0,0,3,1,0,0
+2022-2023,5823,Centrocampista,Baldanzi,Empoli,26,6.15,6.58,4,0,0,0,0,0,0,2,0,0
+2022-2023,367,Centrocampista,Bonaventura,Fiorentina,28,6.2,6.66,5,0,0,0,0,0,1,4,1,0
+2022-2023,2741,Centrocampista,Pessina,Monza,35,6.14,6.57,5,0,0,3,3,0,3,6,0,0
+2022-2023,4449,Centrocampista,Tonali,Milan,33,6.2,6.48,2,0,0,0,0,0,7,7,0,0
+2022-2023,4711,Centrocampista,Kostic,Juventus,36,5.97,6.46,3,0,0,0,0,0,10,3,0,0
+2022-2023,265,Centrocampista,Brozovic,Inter,26,6.1,6.46,3,0,0,0,0,0,5,9,0,0
+2022-2023,376,Centrocampista,Verdi,Verona,23,6.02,6.63,5,0,0,1,1,0,0,3,0,0
+2022-2023,2002,Centrocampista,Chiesa,Juventus,21,6.07,6.55,2,0,0,0,0,0,5,2,0,0
+2022-2023,4287,Centrocampista,Lobotka,Napoli,38,6.3,6.38,1,0,0,0,0,0,1,2,0,0
+2022-2023,4465,Centrocampista,Fagioli,Juventus,23,6.07,6.52,3,0,0,0,0,0,3,3,0,0
+2022-2023,4427,Centrocampista,Malinovskyi,Atalanta,12,6.08,6.46,1,0,0,0,0,0,2,2,0,0
+2022-2023,4970,Centrocampista,Messias,Milan,25,5.88,6.5,5,0,0,0,0,0,2,3,0,0
+2022-2023,5878,Centrocampista,Colpani,Monza,24,6.17,6.69,4,0,0,0,0,0,1,1,0,0
+2022-2023,530,Centrocampista,Pellegrini Lo.,Roma,32,6.08,6.44,4,0,0,3,2,1,5,5,0,0
+2022-2023,536,Centrocampista,Politano,Napoli,24,6.12,6.44,3,0,0,3,2,1,2,1,0,0
+2022-2023,2077,Centrocampista,Pasalic,Atalanta,32,5.8,6.25,5,0,0,0,0,0,1,3,0,0
+2022-2023,2528,Centrocampista,Matic,Roma,34,6.12,6.28,2,0,0,0,0,0,2,5,0,0
+2022-2023,2529,Centrocampista,Mkhitaryan,Inter,31,6.05,6.34,3,0,0,0,0,0,2,4,0,0
+2022-2023,2638,Centrocampista,Wijnaldum,Roma,10,6.05,6.65,2,0,0,0,0,0,0,0,0,0
+2022-2023,2818,Centrocampista,Bennacer,Milan,28,6.12,6.36,2,0,0,0,0,0,3,5,0,0
+2022-2023,4658,Centrocampista,Ikone',Fiorentina,30,5.98,6.38,4,0,0,0,0,0,2,4,0,0
+2022-2023,4869,Centrocampista,Dominguez,Bologna,31,6.27,6.47,3,0,0,0,0,0,2,10,0,0
+2022-2023,4978,Centrocampista,Damsgaard,Sampdoria,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5063,Centrocampista,Radonjic,Torino,26,6.04,6.38,2,0,0,0,0,0,3,1,0,0
+2022-2023,6054,Centrocampista,Moro N.,Bologna,25,6.04,6.3,1,0,0,0,0,0,4,1,0,0
+2022-2023,22,Centrocampista,De Roon,Atalanta,34,6.03,6.19,3,0,0,0,0,0,0,7,0,0
+2022-2023,150,Centrocampista,Saponara,Fiorentina,26,6.04,6.54,4,0,0,0,0,0,3,4,0,0
+2022-2023,303,Centrocampista,Pogba,Juventus,5,6,6,0,0,0,0,0,0,0,0,0,0
+2022-2023,2009,Centrocampista,Lukic,Torino,15,6,6.27,2,0,0,1,1,0,0,4,0,0
+2022-2023,5007,Centrocampista,Ilic,Torino,25,6.1,6.38,2,0,0,0,0,0,3,4,0,0
+2022-2023,5453,Centrocampista,Ricci S.,Torino,28,6.23,6.38,2,0,0,0,0,0,1,6,0,0
+2022-2023,5504,Centrocampista,Coulibaly L.,Salernitana,35,6,6.17,3,0,0,0,0,0,3,12,0,0
+2022-2023,5511,Centrocampista,Matheus Henrique,Sassuolo,30,5.9,6.27,4,0,0,0,0,0,1,4,0,0
+2022-2023,1933,Centrocampista,Mandragora,Fiorentina,28,6.02,6.23,2,0,0,0,0,0,4,8,0,0
+2022-2023,1978,Centrocampista,Sensi,Monza,28,6.16,6.38,3,0,0,0,0,0,1,8,0,0
+2022-2023,2172,Centrocampista,Barak,Fiorentina,28,5.77,5.91,2,0,0,0,0,0,0,4,0,0
+2022-2023,2215,Centrocampista,Veretout,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,6061,Centrocampista,Oudin,Lecce,26,5.88,6.19,3,0,0,0,0,0,0,3,0,0
+2022-2023,827,Centrocampista,Locatelli,Juventus,31,6.03,5.97,0,0,0,0,0,0,2,8,0,0
+2022-2023,2117,Centrocampista,Kastanos,Salernitana,22,6.02,6.2,2,0,0,0,0,0,0,4,0,0
+2022-2023,2432,Centrocampista,Zakaria,Juventus,2,5.75,5.75,0,0,0,0,0,0,0,0,0,0
+2022-2023,4377,Centrocampista,Castrovilli,Fiorentina,12,6.04,6.5,2,0,0,0,0,0,1,3,0,0
+2022-2023,4459,Centrocampista,Rovella,Monza,26,6.13,6.19,1,0,0,0,0,0,2,6,1,0
+2022-2023,4892,Centrocampista,Saelemaekers,Milan,29,5.88,6.14,2,0,0,0,0,0,2,1,0,0
+2022-2023,4965,Centrocampista,Marin,Empoli,32,6,6.22,2,0,0,0,0,0,4,7,0,0
+2022-2023,5422,Centrocampista,Zalewski,Roma,32,5.83,6,2,0,0,0,0,0,1,3,0,0
+2022-2023,5451,Centrocampista,Bajrami,Sassuolo,36,5.81,5.99,2,0,0,0,0,0,1,1,0,0
+2022-2023,5792,Centrocampista,Ederson D.s.,Atalanta,34,5.76,5.82,1,0,0,0,0,0,1,4,0,0
+2022-2023,5870,Centrocampista,Hjulmand,Lecce,35,6.16,6.1,0,0,0,0,0,0,3,9,1,0
+2022-2023,5995,Centrocampista,De Ketelaere,Milan,28,5.77,5.77,0,0,0,0,0,0,1,2,0,0
+2022-2023,6025,Centrocampista,Vilhena,Salernitana,32,5.69,6.02,4,0,0,0,0,0,1,5,0,0
+2022-2023,6112,Centrocampista,Iling-Junior,Juventus,8,6.12,6.56,1,0,0,0,0,0,1,1,0,0
+2022-2023,181,Centrocampista,Vecino,Lazio,31,5.95,6.05,2,0,0,0,0,0,0,6,0,0
+2022-2023,788,Centrocampista,Freuler,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,2766,Centrocampista,Zaniolo,Roma,13,5.77,5.85,1,0,0,0,0,0,0,4,0,0
+2022-2023,2825,Centrocampista,Bourabia,Spezia,37,5.86,5.96,1,0,0,0,0,0,2,3,0,0
+2022-2023,2857,Centrocampista,Traore' Hj.,Sassuolo,11,5.73,5.95,0,0,0,0,0,0,3,1,0,0
+2022-2023,4896,Centrocampista,Maldini,Spezia,16,5.97,6.31,2,0,0,0,0,0,0,1,0,0
+2022-2023,5423,Centrocampista,Bove,Roma,17,5.91,6.03,1,0,0,0,0,0,0,2,0,0
+2022-2023,5844,Centrocampista,Thorstvedt,Sassuolo,26,5.96,6.15,2,0,0,0,0,0,1,5,0,0
+2022-2023,779,Centrocampista,Cristante,Roma,36,6,5.9,1,0,0,1,0,1,1,7,1,0
+2022-2023,2253,Centrocampista,Bandinelli,Empoli,35,5.86,5.89,2,0,0,0,0,0,0,10,0,0
+2022-2023,2392,Centrocampista,Walace,Udinese,37,5.97,5.92,0,0,0,0,0,0,1,6,0,0
+2022-2023,2625,Centrocampista,Soriano,Bologna,23,5.98,6.22,1,0,0,0,0,0,3,1,0,0
+2022-2023,4393,Centrocampista,Schouten,Bologna,31,6.02,5.97,0,0,0,0,0,0,2,3,0,1
+2022-2023,4515,Centrocampista,Agudelo,Spezia,33,5.85,5.8,0,0,0,0,0,0,1,5,0,0
+2022-2023,5286,Centrocampista,Akpa Akpro,Empoli,23,5.89,5.85,1,0,0,0,0,0,1,6,2,0
+2022-2023,5329,Centrocampista,Makengo,Udinese,15,6,6,0,0,0,0,0,0,1,2,0,0
+2022-2023,5688,Centrocampista,Harroui,Sassuolo,17,5.97,6.26,2,0,0,0,0,0,0,2,0,0
+2022-2023,5869,Centrocampista,Blin,Lecce,34,5.88,5.85,1,0,0,0,0,0,0,8,0,0
+2022-2023,333,Centrocampista,Cataldi,Lazio,28,5.96,5.91,0,0,0,0,0,0,1,5,0,0
+2022-2023,526,Centrocampista,Duncan,Fiorentina,19,5.79,5.87,1,0,0,0,0,0,0,3,0,0
+2022-2023,697,Centrocampista,Cuadrado,Juventus,30,5.9,5.97,1,0,0,0,0,0,3,6,1,0
+2022-2023,2008,Centrocampista,Linetty,Torino,29,5.84,5.83,1,0,0,0,0,0,0,8,0,0
+2022-2023,2144,Centrocampista,Coulibaly M.,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,2778,Centrocampista,Stulac,Empoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,2839,Centrocampista,Sottil,Fiorentina,16,5.88,5.97,0,0,0,0,0,0,2,1,0,0
+2022-2023,4178,Centrocampista,Ascacibar,Cremonese,13,6,5.96,0,0,0,0,0,0,0,1,0,0
+2022-2023,4973,Centrocampista,Mckennie,Juventus,15,5.67,5.93,1,0,0,0,0,0,1,0,0,0
+2022-2023,4992,Centrocampista,Gyasi,Spezia,35,5.69,5.71,2,0,0,0,0,0,0,10,0,0
+2022-2023,5287,Centrocampista,Arslan,Udinese,30,5.92,5.97,1,0,0,0,0,0,0,3,0,0
+2022-2023,5705,Centrocampista,Galdames,Cremonese,13,5.65,5.92,1,0,0,0,0,0,1,2,0,0
+2022-2023,5813,Centrocampista,Miretti,Juventus,25,5.9,5.96,0,0,0,0,0,0,2,2,0,0
+2022-2023,5863,Centrocampista,Castagnetti,Cremonese,23,5.89,5.89,0,0,0,0,0,0,1,2,0,0
+2022-2023,5999,Centrocampista,Gonzalez J.,Lecce,34,5.93,5.87,1,0,0,0,0,0,1,8,0,1
+2022-2023,27,Centrocampista,Grassi,Empoli,20,5.98,5.9,0,0,0,0,0,0,0,3,0,0
+2022-2023,148,Centrocampista,Krunic,Milan,22,5.93,5.8,0,0,0,0,0,0,1,8,0,0
+2022-2023,2161,Centrocampista,Haas,Empoli,24,5.83,5.92,1,0,0,0,0,0,0,2,0,0
+2022-2023,2334,Centrocampista,Leris,Sampdoria,32,5.64,5.56,1,0,0,0,0,0,1,13,0,0
+2022-2023,2391,Centrocampista,Ekdal,Spezia,30,5.78,5.68,0,0,0,0,0,0,0,4,1,0
+2022-2023,2789,Centrocampista,Meite',Cremonese,31,5.84,5.79,0,0,0,0,0,0,1,5,0,0
+2022-2023,4342,Centrocampista,Duda,Verona,15,5.8,5.67,0,0,0,0,0,0,0,4,0,0
+2022-2023,4364,Centrocampista,Gaetano,Napoli,4,6.12,6.88,1,0,0,0,0,0,0,0,0,0
+2022-2023,4408,Centrocampista,Esposito Sa.,Spezia,14,5.79,5.86,1,0,0,0,0,0,0,3,1,0
+2022-2023,4681,Centrocampista,Lopez M.,Sassuolo,30,5.95,5.77,0,0,0,0,0,0,0,11,0,0
+2022-2023,4890,Centrocampista,Tameze,Verona,37,5.84,5.8,0,0,0,0,0,0,0,3,0,0
+2022-2023,5298,Centrocampista,Pobega,Milan,14,5.93,6.21,2,0,0,0,0,0,0,4,0,0
+2022-2023,5784,Centrocampista,Aebischer,Bologna,25,5.84,5.88,1,0,0,0,0,0,0,4,0,0
+2022-2023,5798,Centrocampista,Bohinen,Salernitana,19,5.79,5.79,0,0,0,0,0,0,0,0,0,0
+2022-2023,5812,Centrocampista,Terracciano F.,Verona,14,6.04,6.04,0,0,0,0,0,0,1,2,0,0
+2022-2023,5834,Centrocampista,Marcos Antonio,Lazio,13,5.92,6.15,1,0,0,0,0,0,1,2,0,0
+2022-2023,5884,Centrocampista,Ranocchia F.,Monza,12,6.17,6.42,1,0,0,0,0,0,0,1,0,0
+2022-2023,6033,Centrocampista,Normann,Lecce,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,468,Centrocampista,Paredes,Juventus,21,5.76,5.74,1,0,0,0,0,0,0,6,1,0
+2022-2023,557,Centrocampista,Benassi,Cremonese,17,5.65,5.62,0,0,0,0,0,0,0,1,0,0
+2022-2023,666,Centrocampista,Machin,Monza,21,5.86,5.86,0,0,0,0,0,0,2,4,0,0
+2022-2023,2154,Centrocampista,Vignato,Empoli,10,5.95,6.3,1,0,0,0,0,0,1,1,0,0
+2022-2023,4260,Centrocampista,Winks,Sampdoria,20,5.82,5.78,0,0,0,0,0,0,0,2,0,0
+2022-2023,4522,Centrocampista,Amrabat,Fiorentina,28,6,5.84,0,0,0,0,0,0,1,11,0,0
+2022-2023,5457,Centrocampista,Maleh,Lecce,21,5.67,5.62,0,0,0,0,0,0,1,5,0,0
+2022-2023,5674,Centrocampista,Basic,Lazio,16,5.97,6.12,1,0,0,0,0,0,0,2,0,0
+2022-2023,5735,Centrocampista,Volpato,Roma,6,6.08,6.75,1,0,0,0,0,0,1,0,0,0
+2022-2023,5879,Centrocampista,Vignato S.,Monza,2,6.25,6.75,0,0,0,0,0,0,1,0,0,0
+2022-2023,6010,Centrocampista,Fazzini,Empoli,15,5.93,5.83,0,0,0,0,0,0,0,4,0,0
+2022-2023,238,Centrocampista,Rincon,Sampdoria,34,5.62,5.54,0,0,0,0,0,0,2,7,1,0
+2022-2023,600,Centrocampista,Verre,Sampdoria,15,5.6,5.47,0,0,0,0,0,0,0,5,0,0
+2022-2023,1995,Centrocampista,Djuricic,Sampdoria,32,5.53,5.67,3,0,0,0,0,0,0,9,0,0
+2022-2023,4143,Centrocampista,Ndombele',Napoli,21,5.93,5.98,1,0,0,0,0,0,0,5,0,0
+2022-2023,4285,Centrocampista,Arthur,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,4349,Centrocampista,Nicolussi Caviglia,Salernitana,11,5.59,5.77,1,0,0,0,0,0,0,2,0,0
+2022-2023,4475,Centrocampista,Majer,Lecce,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,4498,Centrocampista,Henderson L.,Empoli,24,5.92,5.77,0,0,0,0,0,0,1,9,0,0
+2022-2023,4701,Centrocampista,Cuisance,Sampdoria,11,5.55,5.5,0,0,0,0,0,0,0,1,0,0
+2022-2023,4884,Centrocampista,Carles Perez,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,4885,Centrocampista,Villar,Sampdoria,14,5.57,5.5,0,0,0,0,0,0,0,2,0,0
+2022-2023,5776,Centrocampista,Ceide,Sassuolo,13,5.73,5.81,0,0,0,0,0,0,1,0,0,0
+2022-2023,5857,Centrocampista,Pickel,Cremonese,33,5.7,5.64,1,0,0,0,0,0,0,8,1,0
+2022-2023,5886,Centrocampista,Bistrovic,Lecce,10,5.8,5.8,0,0,0,0,0,0,0,0,0,0
+2022-2023,6117,Centrocampista,Tahirovic,Roma,7,5.79,5.71,0,0,0,0,0,0,0,1,0,0
+2022-2023,1976,Centrocampista,Mazzitelli,Monza,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,2011,Centrocampista,Miguel Veloso,Verona,21,5.79,5.55,0,0,0,0,0,0,0,6,0,1
+2022-2023,4376,Centrocampista,Zurkowski,Spezia,10,5.45,5.5,0,0,0,0,0,0,1,1,0,0
+2022-2023,4501,Centrocampista,Obiang,Sassuolo,14,5.86,5.79,0,0,0,0,0,0,0,2,0,0
+2022-2023,4921,Centrocampista,Askildsen,Lecce,15,5.73,5.63,0,0,0,0,0,0,0,3,0,0
+2022-2023,4975,Centrocampista,Escalante,Cremonese,9,5.56,5.44,0,0,0,0,0,0,0,0,1,0
+2022-2023,5397,Centrocampista,Kovalenko,Spezia,14,5.89,5.86,0,0,0,0,0,0,0,1,0,0
+2022-2023,5486,Centrocampista,Crnigoj,Salernitana,6,6,5.92,0,0,0,0,0,0,0,1,0,0
+2022-2023,5772,Centrocampista,Pyyhtia,Bologna,4,6.12,6.38,0,0,0,0,0,0,1,0,0,0
+2022-2023,6024,Centrocampista,Sulemana I.,Verona,13,5.85,5.69,0,0,0,0,0,0,0,4,0,0
+2022-2023,6058,Centrocampista,Camara Ma.,Roma,10,5.85,5.7,0,0,0,0,0,0,0,3,0,0
+2022-2023,6162,Centrocampista,Abildgaard,Verona,9,5.61,5.5,0,0,0,0,0,0,0,2,0,0
+2022-2023,434,Centrocampista,Jajalo,Udinese,2,6,6,0,0,0,0,0,0,0,0,0,0
+2022-2023,801,Centrocampista,Gagliardini,Inter,14,5.68,5.54,0,0,0,0,0,0,0,3,1,0
+2022-2023,2274,Centrocampista,Valoti,Monza,8,5.56,5.56,0,0,0,0,0,0,0,1,0,0
+2022-2023,2639,Centrocampista,Bakayoko,Milan,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2022-2023,4988,Centrocampista,Maggiore,Salernitana,15,5.6,5.53,0,0,0,0,0,0,0,2,0,0
+2022-2023,5719,Centrocampista,Asllani,Inter,15,5.8,5.73,0,0,0,0,0,0,0,2,0,0
+2022-2023,5788,Centrocampista,Sabiri,Sampdoria,18,5.69,5.72,2,0,0,2,1,1,0,5,0,0
+2022-2023,5998,Centrocampista,Zerbin,Napoli,5,5.6,5.5,0,0,0,0,0,0,0,1,0,0
+2022-2023,6005,Centrocampista,Ilkhan,Sampdoria,5,5.8,5.7,0,0,0,0,0,0,0,1,0,0
+2022-2023,6131,Centrocampista,Paoletti,Sampdoria,8,5.81,5.75,0,0,0,0,0,0,0,1,0,0
+2022-2023,6142,Centrocampista,Cipot,Spezia,6,5.92,5.92,0,0,0,0,0,0,0,0,0,0
+2022-2023,6157,Centrocampista,Malagrida,Sampdoria,3,6,5.83,0,0,0,0,0,0,0,2,0,0
+2022-2023,21,Centrocampista,D'alessandro,Monza,6,5.92,5.75,0,0,0,0,0,0,0,2,0,0
+2022-2023,58,Centrocampista,Diawara,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,173,Centrocampista,Capezzi,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,694,Centrocampista,Baez,Cremonese,2,6,6,0,0,0,0,0,0,0,0,0,0
+2022-2023,1851,Centrocampista,Molina S.,Monza,5,5.5,5.4,0,0,0,0,0,0,0,1,0,0
+2022-2023,1901,Centrocampista,Barberis,Monza,5,5.7,5.9,0,0,0,0,0,0,1,0,0,0
+2022-2023,2286,Centrocampista,Crociata,Empoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,2742,Centrocampista,Valzania,Cremonese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,2804,Centrocampista,Scozzarella,Monza,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,2835,Centrocampista,Kingsley,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,2855,Centrocampista,Vieira,Torino,15,5.6,5.5,0,0,0,0,0,0,0,3,0,0
+2022-2023,4411,Centrocampista,Agoume,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,4725,Centrocampista,Demme,Napoli,2,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2022-2023,4943,Centrocampista,Horvath,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,4987,Centrocampista,Bartolomei,Cremonese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5312,Centrocampista,Leo' Sena,Spezia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5420,Centrocampista,Darboe,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5425,Centrocampista,Urbanski,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5442,Centrocampista,Bertini,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5444,Centrocampista,Cortinovis,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5468,Centrocampista,Cavion,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5476,Centrocampista,Kornvig,Spezia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5499,Centrocampista,Hongla,Verona,8,5.69,5.44,0,0,0,0,0,0,0,4,0,0
+2022-2023,5510,Centrocampista,Romero L.,Lazio,4,6.12,6.88,1,0,0,0,0,0,0,0,0,0
+2022-2023,5516,Centrocampista,Bianco,Fiorentina,4,6.12,6,0,0,0,0,0,0,0,1,0,0
+2022-2023,5517,Centrocampista,Yepes,Sampdoria,4,5.38,5.12,0,0,0,0,0,0,0,2,0,0
+2022-2023,5519,Centrocampista,Sher,Spezia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5610,Centrocampista,Vranckx,Milan,6,5.83,5.75,0,0,0,0,0,0,0,1,0,0
+2022-2023,5722,Centrocampista,Nguiamba,Spezia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5789,Centrocampista,Praszelik,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5810,Centrocampista,Trimboli,Sampdoria,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5824,Centrocampista,Pafundi,Udinese,3,6,6,0,0,0,0,0,0,0,0,0,0
+2022-2023,5829,Centrocampista,Milanese,Cremonese,1,6,6,0,0,0,0,0,0,0,0,0,0
+2022-2023,5855,Centrocampista,Tenkorang,Cremonese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5868,Centrocampista,Bjorkengren,Lecce,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5872,Centrocampista,Helgason,Lecce,8,5.88,5.88,0,0,0,0,0,0,0,0,0,0
+2022-2023,5873,Centrocampista,Listkowski,Lecce,4,5.88,5.88,0,0,0,0,0,0,0,0,0,0
+2022-2023,5875,Centrocampista,Adli,Milan,4,5.88,5.75,0,0,0,0,0,0,0,1,0,0
+2022-2023,5888,Centrocampista,Casadei,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5947,Centrocampista,Hrustic,Verona,5,5.4,5.4,0,0,0,0,0,0,0,0,0,0
+2022-2023,5992,Centrocampista,Bondo,Monza,2,6,5.75,0,0,0,0,0,0,0,1,0,0
+2022-2023,5996,Centrocampista,Samek,Lecce,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,6009,Centrocampista,Degli Innocenti,Empoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,6012,Centrocampista,Acella,Cremonese,1,6,6,0,0,0,0,0,0,0,0,0,0
+2022-2023,6017,Centrocampista,Tripi,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,6019,Centrocampista,D'andrea,Sassuolo,5,5.8,6,0,0,0,0,0,0,1,0,0,0
+2022-2023,6020,Centrocampista,Ellertsson,Spezia,5,5.7,5.6,0,0,0,0,0,0,0,3,0,0
+2022-2023,6057,Centrocampista,Garbett,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,6106,Centrocampista,Carboni V.,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,6168,Centrocampista,Faticanti,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,6170,Centrocampista,Gineitis,Torino,2,6,5.5,0,0,0,0,0,0,0,2,0,0
+2022-2023,6175,Centrocampista,Barrenechea,Juventus,3,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2022-2023,4661,Attaccante,Osimhen,Napoli,32,6.73,9.14,26,0,0,3,2,1,4,4,0,0
+2022-2023,2764,Attaccante,Martinez L.,Inter,37,6.39,8.14,21,0,0,2,1,1,6,3,0,0
+2022-2023,309,Attaccante,Dybala,Roma,25,6.58,8.18,12,0,0,5,5,0,6,4,0,0
+2022-2023,531,Attaccante,Berardi,Sassuolo,25,6.48,7.94,12,0,0,8,7,1,7,7,0,0
+2022-2023,4510,Attaccante,Rafael Leao,Milan,34,6.35,7.78,15,0,0,0,0,0,7,5,1,0
+2022-2023,4730,Attaccante,Lookman,Atalanta,30,6.38,7.83,13,0,0,3,3,0,6,3,0,0
+2022-2023,5672,Attaccante,Dia,Salernitana,33,6.33,7.88,16,0,0,1,1,0,5,4,0,0
+2022-2023,479,Attaccante,Sanabria,Torino,31,6.27,7.52,12,0,0,1,1,0,4,4,0,0
+2022-2023,785,Attaccante,Immobile,Lazio,30,6.17,7.38,12,0,0,5,4,1,5,3,0,0
+2022-2023,2137,Attaccante,Scamacca,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,2531,Attaccante,Lukaku,Inter,25,6.22,7.64,10,0,0,2,2,0,6,1,0,0
+2022-2023,4200,Attaccante,Giroud,Milan,33,6.18,7.36,13,0,0,3,3,0,4,6,1,0
+2022-2023,5336,Attaccante,Nzola,Spezia,31,6.19,7.39,13,0,0,3,3,0,2,8,0,0
+2022-2023,4268,Attaccante,Arnautovic,Bologna,21,6.29,7.64,10,0,0,3,3,0,1,5,0,0
+2022-2023,2841,Attaccante,Vlahovic,Juventus,25,5.96,7.06,10,0,0,3,2,1,1,1,0,0
+2022-2023,5786,Attaccante,Cabral,Fiorentina,21,6.19,7.29,8,0,0,2,2,0,1,4,0,0
+2022-2023,6060,Attaccante,Lauriente',Sassuolo,28,6.34,7.12,7,0,0,1,1,0,6,8,1,0
+2022-2023,647,Attaccante,Dzeko,Inter,29,6.16,7.14,9,0,0,0,0,0,3,3,0,0
+2022-2023,6052,Attaccante,Hojlund,Atalanta,30,6.08,7.03,9,0,0,0,0,0,2,1,0,0
+2022-2023,5694,Attaccante,Beto,Udinese,33,5.94,6.85,10,0,0,1,1,0,1,2,0,0
+2022-2023,2544,Attaccante,Abraham,Roma,36,6.1,6.82,8,0,0,0,0,0,3,2,0,0
+2022-2023,4436,Attaccante,Cambiaghi,Empoli,25,6.2,6.86,6,0,0,0,0,0,1,3,1,0
+2022-2023,212,Attaccante,Ciofani D.,Cremonese,24,6,6.85,8,0,0,4,3,1,0,1,0,0
+2022-2023,2012,Attaccante,Milik,Juventus,27,6.04,6.69,7,0,0,1,0,1,1,1,1,0
+2022-2023,2382,Attaccante,Di Maria,Juventus,25,6.08,6.66,4,0,0,1,1,0,4,1,1,0
+2022-2023,2832,Attaccante,Boga,Atalanta,16,6.19,6.88,2,0,0,0,0,0,5,0,0,0
+2022-2023,4179,Attaccante,Gonzalez N.,Fiorentina,22,6.05,6.8,6,0,0,2,2,0,0,3,0,0
+2022-2023,2061,Attaccante,Simeone,Napoli,14,6.21,7.11,4,0,0,0,0,0,1,1,0,0
+2022-2023,2489,Attaccante,Pedro,Lazio,35,6.09,6.5,4,0,0,0,0,0,3,1,0,0
+2022-2023,608,Attaccante,Zapata D.,Atalanta,24,5.94,6.25,2,0,0,0,0,0,2,1,0,0
+2022-2023,5836,Attaccante,Ceesay,Lecce,30,5.88,6.45,6,0,0,1,1,0,0,2,0,0
+2022-2023,5882,Attaccante,Mota,Monza,29,6.03,6.59,5,0,0,0,0,0,2,2,0,0
+2022-2023,383,Attaccante,Petagna,Monza,31,5.97,6.48,4,0,0,1,1,0,5,2,0,0
+2022-2023,1958,Attaccante,Caprari,Monza,36,5.94,6.32,5,0,0,1,1,0,2,7,0,0
+2022-2023,2325,Attaccante,Karamoh,Torino,16,6.03,6.72,4,0,0,0,0,0,0,2,0,0
+2022-2023,2762,Attaccante,Kouame',Fiorentina,28,6.05,6.57,4,0,0,0,0,0,5,5,0,0
+2022-2023,407,Attaccante,Gabbiadini,Sampdoria,35,5.8,6.37,7,0,0,0,0,0,2,6,0,0
+2022-2023,537,Attaccante,Sansone,Bologna,15,6.17,7.03,4,0,0,0,0,0,2,2,0,0
+2022-2023,2119,Attaccante,Deulofeu,Udinese,16,6.25,6.91,2,0,0,0,0,0,5,1,0,0
+2022-2023,2719,Attaccante,Barrow,Bologna,29,5.86,6.29,3,0,0,0,0,0,5,3,0,0
+2022-2023,4517,Attaccante,Lozano,Napoli,30,6.03,6.38,3,0,0,1,1,0,3,3,0,0
+2022-2023,5515,Attaccante,Okereke,Cremonese,33,5.89,6.47,7,0,0,1,1,0,0,4,0,0
+2022-2023,6026,Attaccante,Dessers,Cremonese,26,5.96,6.56,6,0,0,1,0,1,2,3,0,0
+2022-2023,507,Attaccante,Muriel,Atalanta,24,5.81,6.23,3,0,0,1,1,0,3,0,2,0
+2022-2023,2369,Attaccante,Thauvin,Udinese,12,5.67,5.62,0,0,0,0,0,0,0,1,0,0
+2022-2023,2756,Attaccante,Piatek,Salernitana,32,5.83,6.25,4,0,0,1,1,0,4,5,0,0
+2022-2023,2819,Attaccante,Caputo,Empoli,36,5.72,6.29,6,0,0,2,2,0,3,1,0,0
+2022-2023,2438,Attaccante,Jovic,Fiorentina,27,5.91,6.48,6,0,0,1,0,1,2,3,0,0
+2022-2023,2475,Attaccante,Sanchez,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5086,Attaccante,Zirkzee,Bologna,17,6.06,6.47,2,0,0,0,0,0,2,2,0,0
+2022-2023,5854,Attaccante,Tsadjout,Cremonese,19,5.82,6.32,3,0,0,0,0,0,1,1,0,0
+2022-2023,495,Attaccante,Correa,Inter,23,5.76,6.17,3,0,0,0,0,0,1,1,0,0
+2022-2023,2097,Attaccante,Kean,Juventus,22,5.84,6.5,6,0,0,0,0,0,0,5,1,0
+2022-2023,4184,Attaccante,Brekalo,Fiorentina,6,6,5.92,0,0,0,0,0,0,0,1,0,0
+2022-2023,4923,Attaccante,Colombo,Lecce,25,5.88,6.32,5,0,0,2,1,1,1,4,0,0
+2022-2023,6001,Attaccante,Banda,Lecce,33,5.94,6.06,2,0,0,0,0,0,1,6,0,0
+2022-2023,177,Attaccante,Ilicic,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,186,Attaccante,Rebic,Milan,18,5.83,6.36,3,0,0,0,0,0,2,4,0,0
+2022-2023,215,Attaccante,Verde,Spezia,20,5.85,6.28,3,0,0,1,1,0,0,1,0,0
+2022-2023,1857,Attaccante,Di Francesco F.,Lecce,34,5.82,6,2,0,0,0,0,0,2,5,0,0
+2022-2023,1943,Attaccante,Nestorovski,Udinese,11,5.95,6.55,2,0,0,0,0,0,1,3,0,0
+2022-2023,4371,Attaccante,Raspadori,Napoli,23,5.91,6.24,2,0,0,0,0,0,2,1,0,0
+2022-2023,505,Attaccante,Bonazzoli,Salernitana,21,5.9,6.26,2,0,0,0,0,0,2,1,0,0
+2022-2023,2038,Attaccante,Pinamonti,Sassuolo,32,5.67,6.06,5,0,0,1,1,0,0,3,1,0
+2022-2023,5676,Attaccante,Success,Udinese,30,5.92,6.15,1,0,0,0,0,0,6,4,0,0
+2022-2023,6119,Attaccante,Solbakken,Roma,9,5.72,6.17,1,0,0,0,0,0,2,2,0,0
+2022-2023,4359,Attaccante,Piccoli,Empoli,16,5.72,6.09,2,0,0,0,0,0,0,0,0,0
+2022-2023,5292,Attaccante,Lammers,Sampdoria,31,5.65,5.89,2,0,0,0,0,0,2,1,0,0
+2022-2023,5460,Attaccante,Satriano,Empoli,26,5.81,6.02,2,0,0,0,0,0,1,4,0,0
+2022-2023,5471,Attaccante,Djuric,Verona,24,5.9,5.98,1,0,0,0,0,0,0,3,0,0
+2022-2023,5842,Attaccante,Botheim,Salernitana,17,5.85,6.15,1,0,0,0,0,0,3,2,0,0
+2022-2023,643,Attaccante,Defrel,Sassuolo,24,5.77,6,2,0,0,0,0,0,1,3,0,0
+2022-2023,2466,Attaccante,Origi,Milan,21,5.57,5.88,2,0,0,0,0,0,1,1,0,0
+2022-2023,5071,Attaccante,Jese',Sampdoria,7,6.07,6.64,1,0,0,0,0,0,1,0,0,0
+2022-2023,5394,Attaccante,Gaich,Verona,15,5.73,5.93,2,0,0,0,0,0,0,2,0,1
+2022-2023,5734,Attaccante,Soule',Juventus,8,5.81,6.19,1,0,0,0,0,0,0,0,0,0
+2022-2023,5864,Attaccante,Buonaiuto,Cremonese,23,5.89,5.98,1,0,0,1,1,0,0,3,0,0
+2022-2023,6145,Attaccante,Ngonge,Verona,12,6.04,6.79,3,0,0,0,0,0,1,2,0,0
+2022-2023,441,Attaccante,Belotti,Roma,22,5.68,5.64,0,0,0,1,0,1,2,0,0,0
+2022-2023,568,Attaccante,Quagliarella,Sampdoria,18,5.89,6.06,1,0,0,0,0,0,1,2,0,0
+2022-2023,2103,Attaccante,Pellegri,Torino,11,6,6.5,2,0,0,0,0,0,1,3,0,0
+2022-2023,5311,Attaccante,Shomurodov,Spezia,16,5.69,5.91,1,0,0,0,0,0,1,2,0,0
+2022-2023,5439,Attaccante,Kallon,Verona,22,5.86,6.02,1,0,0,0,0,0,1,1,0,0
+2022-2023,5845,Attaccante,Alvarez A.,Sassuolo,12,5.92,6.25,1,0,0,0,0,0,1,1,0,0
+2022-2023,90,Attaccante,Lasagna,Verona,25,5.62,5.74,1,0,0,0,0,0,1,2,0,0
+2022-2023,2842,Attaccante,Zanimacchia,Cremonese,14,5.71,5.64,0,0,0,0,0,0,0,2,0,0
+2022-2023,5494,Attaccante,Di Mariano,Lecce,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5529,Attaccante,Henry,Verona,15,5.77,6.03,2,0,0,0,0,0,0,4,0,0
+2022-2023,5714,Attaccante,Gondo,Cremonese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,315,Attaccante,Zaza,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5690,Attaccante,Strelec,Spezia,6,5.83,5.83,0,0,0,0,0,0,0,0,0,0
+2022-2023,5806,Attaccante,Seck,Torino,9,6,6,0,0,0,0,0,0,0,0,0,0
+2022-2023,2195,Attaccante,Ounas,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,2409,Attaccante,Ribery,Salernitana,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2022-2023,2530,Attaccante,Ibrahimovic,Milan,4,5.88,6.62,1,0,0,1,1,0,0,0,0,0
+2022-2023,5673,Attaccante,Antiste,Sassuolo,2,6.25,7.75,1,0,0,0,0,0,0,0,0,0
+2022-2023,5728,Attaccante,Afena-Gyan,Cremonese,20,5.5,5.42,0,0,0,0,0,0,0,4,0,0
+2022-2023,5881,Attaccante,Gytkjaer,Monza,16,5.69,5.69,1,0,0,1,0,1,0,0,0,0
+2022-2023,472,Attaccante,Destro,Empoli,10,5.8,6,1,0,0,0,0,0,0,3,0,0
+2022-2023,1998,Attaccante,Pjaca,Empoli,13,5.69,5.65,0,0,0,0,0,0,0,1,0,0
+2022-2023,4500,Attaccante,Di Carmine,Cremonese,1,6,6,0,0,0,0,0,0,0,0,0,0
+2022-2023,5814,Attaccante,Cisse',Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5843,Attaccante,Valencia D.,Salernitana,7,5.71,5.64,0,0,0,0,0,0,0,1,0,0
+2022-2023,5865,Attaccante,Strizzolo,Cremonese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,1839,Attaccante,Edera,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,2826,Attaccante,Pussetto,Sampdoria,4,5.5,5.38,0,0,0,0,0,0,0,1,0,0
+2022-2023,4938,Attaccante,Moro,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5378,Attaccante,Oddei,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5391,Attaccante,Kokorin,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5395,Attaccante,Braaf,Verona,6,5.42,5.33,0,0,0,0,0,0,0,1,0,0
+2022-2023,5436,Attaccante,Raimondo,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5472,Attaccante,Kristoffersen,Salernitana,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2022-2023,5500,Attaccante,Cancellieri,Lazio,5,5.7,5.7,0,0,0,0,0,0,0,4,0,0
+2022-2023,5505,Attaccante,Kaio Jorge,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5512,Attaccante,De Luca,Sampdoria,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2022-2023,5716,Attaccante,Podgoreanu,Spezia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5785,Attaccante,Lazetic,Milan,0,0,0,0,0,0,0,0,0,0,1,0,0
+2022-2023,5802,Attaccante,Mikael,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-2023,5837,Attaccante,Voelkerling Persson,Lecce,3,5.83,5.83,0,0,0,0,0,0,0,0,0,0
+2022-2023,5874,Attaccante,Rodriguez P.,Lecce,3,6,6,0,0,0,0,0,0,0,0,0,0
+2022-2023,6063,Attaccante,Sanca,Spezia,1,6,6,0,0,0,0,0,0,0,0,0,0
+2022-2023,6113,Attaccante,Montevago,Sampdoria,5,5.6,5.5,0,0,0,0,0,0,0,1,0,0
+2022-2023,6143,Attaccante,Krollis,Spezia,1,6,6,0,0,0,0,0,0,0,0,0,0
+2022-2023,6160,Attaccante,Vivaldo,Udinese,1,6,6,0,0,0,0,0,0,0,0,0,0
+2022-2023,6172,Attaccante,Vorlicky,Atalanta,1,6,6,0,0,0,0,0,0,0,0,0,0
+2021-2022,4312,Portiere,Maignan,Milan,32,6.3,5.66,0,21,0,0,0,0,1,1,0,0
+2021-2022,453,Portiere,Szczesny,Juventus,33,6.09,5.45,0,29,3,0,0,0,0,2,0,0
+2021-2022,2468,Portiere,Ospina,Napoli,31,6.16,5.34,0,25,0,0,0,0,0,1,0,0
+2021-2022,250,Portiere,Handanovic,Inter,37,6.19,5.36,0,30,0,0,0,0,0,1,0,0
+2021-2022,316,Portiere,Berisha,Torino,10,6.15,5.6,0,8,1,0,0,0,0,1,0,0
+2021-2022,4270,Portiere,Rui Patricio,Roma,38,6.13,5.05,0,43,1,0,0,0,0,2,0,0
+2021-2022,133,Portiere,Skorupski,Bologna,36,6.28,4.83,0,53,1,0,0,0,0,4,0,0
+2021-2022,1934,Portiere,Strakosha,Lazio,23,6.04,4.74,0,29,0,0,0,0,0,2,0,0
+2021-2022,2792,Portiere,Musso,Atalanta,33,6.11,4.79,0,42,0,0,0,0,0,1,1,0
+2021-2022,4964,Portiere,Vicario,Empoli,38,6.41,4.71,0,70,2,0,0,0,0,1,0,0
+2021-2022,509,Portiere,Consigli,Sassuolo,37,6.24,4.59,0,63,1,0,0,0,0,2,0,0
+2021-2022,761,Portiere,Audero,Sampdoria,29,6.17,4.59,0,48,1,0,0,0,0,2,0,0
+2021-2022,2170,Portiere,Milinkovic-Savic V.,Torino,27,6.04,4.87,0,33,1,0,0,0,0,3,0,0
+2021-2022,2211,Portiere,Silvestri,Udinese,35,6.11,4.67,0,50,0,0,0,0,0,1,0,0
+2021-2022,2815,Portiere,Terracciano,Fiorentina,32,5.95,4.7,0,43,1,0,0,0,0,0,0,0
+2021-2022,4957,Portiere,Montipo',Verona,34,6.13,4.74,0,50,1,0,0,0,0,1,0,0
+2021-2022,2178,Portiere,Cragno,Cagliari,35,6.26,4.59,0,63,2,0,0,0,0,3,0,0
+2021-2022,2179,Portiere,Sirigu,Genoa,37,6.26,4.69,0,59,1,0,0,0,0,0,0,1
+2021-2022,159,Portiere,Sepe,Salernitana,16,6.16,4.59,0,24,0,0,0,0,0,2,0,0
+2021-2022,2814,Portiere,Provedel,Spezia,31,6.24,4.47,0,52,0,0,0,0,0,2,0,1
+2021-2022,5478,Portiere,Maenpaa,Venezia,17,6.06,4.5,0,27,0,0,0,0,1,1,0,0
+2021-2022,387,Portiere,Reina,Lazio,15,5.97,4,0,29,0,0,0,0,1,3,0,0
+2021-2022,572,Portiere,Meret,Napoli,7,5.86,5,0,6,0,0,0,0,0,0,0,0
+2021-2022,2134,Portiere,Falcone,Sampdoria,10,6.35,4.85,0,14,0,0,0,0,0,2,0,0
+2021-2022,4,Portiere,Sportiello,Atalanta,5,6.3,5.3,0,5,0,0,0,0,0,0,0,0
+2021-2022,720,Portiere,Belec,Salernitana,23,6.04,4.02,0,49,1,0,0,0,0,1,0,0
+2021-2022,799,Portiere,Bardi,Bologna,2,6.25,5.25,0,2,0,0,0,0,0,0,0,0
+2021-2022,543,Portiere,Padelli,Udinese,3,6.17,3.5,0,8,0,0,0,0,0,0,0,0
+2021-2022,1917,Portiere,Dragowski,Fiorentina,7,6.07,5.21,0,8,1,0,0,0,0,0,1,0
+2021-2022,1930,Portiere,Pinsoglio,Juventus,1,6.5,5.5,0,1,0,0,0,0,0,0,0,0
+2021-2022,2861,Portiere,Semper,Genoa,1,6.5,5.5,0,1,0,0,0,0,0,0,0,0
+2021-2022,5528,Portiere,Zovko,Spezia,1,6,6,0,0,0,0,0,0,0,0,0,0
+2021-2022,3,Portiere,Radunovic,Cagliari,3,6.33,5.67,0,5,1,0,0,0,0,0,0,0
+2021-2022,218,Portiere,Perin,Juventus,5,6.1,4.7,0,7,0,0,0,0,0,0,0,0
+2021-2022,5005,Portiere,Zoet,Spezia,7,5.71,3.43,0,19,1,0,0,0,0,0,0,0
+2021-2022,41,Portiere,Mirante,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,42,Portiere,Sarr M.,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,158,Portiere,Lezzerini,Venezia,6,6.17,4.5,0,9,0,0,0,0,0,2,0,0
+2021-2022,160,Portiere,Tatarusanu,Milan,6,6,4.83,0,10,1,0,0,0,0,0,0,0
+2021-2022,220,Portiere,Ujkani,Empoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,318,Portiere,Marchetti,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,481,Portiere,Brignoli,Empoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,510,Portiere,Pegolo,Sassuolo,1,6,3,0,3,0,0,0,0,0,0,0,0
+2021-2022,574,Portiere,Scuffet,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,1843,Portiere,Radu I.,Inter,1,4,2,0,2,0,0,0,0,0,0,0,0
+2021-2022,1889,Portiere,Cordaz,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,1946,Portiere,Aresti,Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,1947,Portiere,Fiorillo,Salernitana,1,5.5,0.5,0,5,0,0,0,0,0,0,0,0
+2021-2022,2091,Portiere,Plizzari,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,2127,Portiere,Satalino,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,2249,Portiere,Santurro,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,2297,Portiere,Rossi F.,Atalanta,1,6,5,0,1,0,0,0,0,0,0,0,0
+2021-2022,2628,Portiere,Romero S.,Venezia,16,6,3.88,0,33,0,0,0,0,0,2,0,0
+2021-2022,2781,Portiere,Fuzato,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,2790,Portiere,Rosati,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,2845,Portiere,Contini,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4441,Portiere,Andrenacci,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4491,Portiere,Berardi A.,Verona,1,6,3,0,3,0,0,0,0,0,0,0,0
+2021-2022,4525,Portiere,Gemello,Torino,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2021-2022,4867,Portiere,Turati,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4977,Portiere,Ravaglia,Sampdoria,1,6,5,0,1,0,0,0,0,0,0,0,0
+2021-2022,4981,Portiere,Krapikas,Spezia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4996,Portiere,Pandur,Verona,3,6,4,0,6,0,0,0,0,0,0,0,0
+2021-2022,5304,Portiere,Boer,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5306,Portiere,Alia,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5333,Portiere,Gasparini,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5448,Portiere,Furlan,Empoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5502,Portiere,Adamonis,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5518,Portiere,Marfella,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5521,Portiere,Bertinato,Venezia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5682,Portiere,Molla,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5704,Portiere,Russo,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5707,Portiere,Piana,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5713,Portiere,Neri,Venezia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4292,Difensore,Hernandez T.,Milan,32,6.28,6.67,5,0,0,2,1,1,5,5,2,0
+2021-2022,697,Difensore,Cuadrado,Juventus,32,6.23,6.56,4,0,0,0,0,0,3,9,0,0
+2021-2022,2788,Difensore,Bremer,Torino,33,6.44,6.64,3,0,0,0,0,0,1,7,0,0
+2021-2022,5513,Difensore,Dumfries,Inter,32,6.23,6.78,5,0,0,0,0,0,4,3,0,0
+2021-2022,392,Difensore,Koulibaly,Napoli,27,6.41,6.65,3,0,0,0,0,0,1,5,1,0
+2021-2022,4409,Difensore,Rrahmani,Napoli,33,6.15,6.44,4,0,0,0,0,0,0,5,0,0
+2021-2022,581,Difensore,Faraoni,Verona,32,6.14,6.55,4,0,0,0,0,0,5,6,1,0
+2021-2022,798,Difensore,Skriniar,Inter,35,6.27,6.49,3,0,0,0,0,0,0,3,0,0
+2021-2022,4998,Difensore,Molina N.,Udinese,35,6.04,6.6,7,0,0,0,0,0,2,5,1,0
+2021-2022,286,Difensore,Bonucci,Juventus,23,6.07,6.7,5,0,0,3,3,0,0,1,0,0
+2021-2022,357,Difensore,Calabria,Milan,26,6.13,6.4,2,0,0,0,0,0,2,2,0,0
+2021-2022,4307,Difensore,Romero,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4899,Difensore,Singo,Torino,35,6.13,6.4,3,0,0,0,0,0,4,5,1,0
+2021-2022,2816,Difensore,Di Lorenzo,Napoli,33,6.21,6.38,1,0,0,0,0,0,4,3,0,0
+2021-2022,4245,Difensore,Smalling,Roma,25,6.26,6.54,3,0,0,0,0,0,0,0,0,1
+2021-2022,4428,Difensore,De Ligt,Juventus,31,6.21,6.47,3,0,0,0,0,0,1,2,1,0
+2021-2022,4976,Difensore,Kalulu,Milan,24,6.27,6.4,1,0,0,0,0,0,2,4,0,0
+2021-2022,5355,Difensore,Udogie,Udinese,34,6.03,6.5,5,0,0,0,0,0,3,4,0,0
+2021-2022,253,Difensore,D'ambrosio,Inter,16,6.16,6.34,1,0,0,0,0,0,1,2,0,0
+2021-2022,554,Difensore,Zappacosta,Atalanta,32,6.05,6.2,1,0,0,0,0,0,5,6,0,0
+2021-2022,2759,Difensore,Criscito,Genoa,20,5.98,6.68,6,0,0,7,6,1,1,4,0,0
+2021-2022,487,Difensore,De Silvestri,Bologna,30,5.97,6.22,3,0,0,0,0,0,2,7,0,0
+2021-2022,513,Difensore,Acerbi,Lazio,29,5.91,6.28,4,0,0,0,0,0,0,1,1,0
+2021-2022,2120,Difensore,Bastoni,Inter,31,6.18,6.27,1,0,0,0,0,0,2,4,0,0
+2021-2022,2160,Difensore,Gosens,Inter,11,6.05,6.27,1,0,0,0,0,0,1,3,0,0
+2021-2022,4751,Difensore,Tomori,Milan,31,6.34,6.27,0,0,0,0,0,0,0,4,0,0
+2021-2022,4904,Difensore,Mari',Udinese,15,6.27,6.57,2,0,0,0,0,0,0,1,1,0
+2021-2022,5332,Difensore,Bastoni S.,Spezia,29,6.1,6.4,3,0,0,0,0,0,3,5,1,0
+2021-2022,142,Difensore,Mario Rui,Napoli,34,6.09,6.13,0,0,0,0,0,0,5,7,0,0
+2021-2022,252,Difensore,Biraghi,Fiorentina,37,5.99,6.14,4,0,0,2,1,1,1,3,1,1
+2021-2022,254,Difensore,Dimarco,Inter,25,6.2,6.42,2,0,0,1,0,1,3,1,0,0
+2021-2022,2181,Difensore,Palomino,Atalanta,33,6.05,6,1,0,0,0,0,0,0,9,0,0
+2021-2022,2263,Difensore,Lazzari,Lazio,29,6.02,6.38,3,0,0,0,0,0,3,3,0,0
+2021-2022,2525,Difensore,Darmian,Inter,23,6.15,6.37,2,0,0,0,0,0,1,4,0,0
+2021-2022,2180,Difensore,Karsdorp,Roma,35,6.04,5.97,0,0,0,0,0,0,2,7,1,0
+2021-2022,4412,Difensore,Rodrigo Becao,Udinese,35,6.04,6.1,2,0,0,0,0,0,1,10,0,0
+2021-2022,4994,Difensore,Vojvoda,Torino,29,5.91,5.97,0,0,0,0,0,0,3,3,0,0
+2021-2022,5300,Difensore,Hickey,Bologna,36,5.89,6.24,5,0,0,0,0,0,1,7,0,0
+2021-2022,5675,Difensore,Theate,Bologna,30,5.93,6.07,2,0,0,0,0,0,1,6,0,0
+2021-2022,118,Difensore,Radovanovic,Salernitana,14,5.79,5.86,1,0,0,0,0,0,0,4,0,0
+2021-2022,358,Difensore,De Sciglio,Juventus,17,6.15,6.32,1,0,0,0,0,0,2,2,1,0
+2021-2022,464,Difensore,Florenzi,Milan,20,6.18,6.45,2,0,0,0,0,0,0,2,0,0
+2021-2022,4237,Difensore,Danilo,Juventus,22,6.14,6.23,1,0,0,0,0,0,2,6,0,0
+2021-2022,4331,Difensore,Ibanez,Roma,32,5.92,6.08,3,0,0,0,0,0,0,9,0,0
+2021-2022,4422,Difensore,Tomiyasu,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4982,Difensore,Erlic,Spezia,30,5.9,6.02,2,0,0,0,0,0,0,5,0,0
+2021-2022,5526,Difensore,Scalvini,Atalanta,14,6.11,6.29,1,0,0,0,0,0,0,1,0,0
+2021-2022,706,Difensore,Ansaldi,Torino,15,5.93,6.07,0,0,0,0,0,0,3,2,0,0
+2021-2022,2006,Difensore,Lirola,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,2280,Difensore,Nuytinck,Udinese,26,5.98,6.1,1,0,0,0,0,0,1,2,0,0
+2021-2022,4332,Difensore,Demiral,Atalanta,26,6.13,6.17,1,0,0,0,0,0,2,8,0,0
+2021-2022,4421,Difensore,Augello,Sampdoria,34,5.85,5.97,1,0,0,0,0,0,1,0,0,0
+2021-2022,5479,Difensore,Ceccaroni,Venezia,35,5.79,5.86,2,0,0,0,0,0,1,7,1,0
+2021-2022,5514,Difensore,Vasquez,Genoa,28,5.8,5.79,1,0,0,0,0,0,0,7,0,0
+2021-2022,5520,Difensore,Cambiaso,Genoa,25,5.96,6.14,1,0,0,0,0,0,4,3,1,0
+2021-2022,288,Difensore,Chiellini,Juventus,19,6.18,6.13,0,0,0,0,0,0,0,2,0,0
+2021-2022,322,Difensore,De Vrij,Inter,28,5.82,5.7,0,0,0,0,0,0,0,3,0,1
+2021-2022,1847,Difensore,Caldara,Venezia,30,5.82,5.77,1,0,0,0,0,0,0,9,0,0
+2021-2022,1891,Difensore,Ceccherini,Verona,34,5.9,5.81,1,0,0,0,0,0,0,10,1,0
+2021-2022,2016,Difensore,Fazio,Salernitana,16,5.81,5.91,1,0,0,0,0,0,0,1,1,0
+2021-2022,2164,Difensore,Milenkovic,Fiorentina,34,5.9,5.84,1,0,0,0,0,0,0,8,1,0
+2021-2022,2169,Difensore,Rodriguez R.,Torino,32,5.95,5.94,0,0,0,0,0,0,1,3,0,0
+2021-2022,2296,Difensore,Mancini,Roma,33,5.82,5.58,0,0,0,0,0,0,0,14,1,0
+2021-2022,2309,Difensore,Pezzella Ger.,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,2784,Difensore,Colley,Sampdoria,31,6,5.89,0,0,0,0,0,0,0,5,1,0
+2021-2022,4530,Difensore,Kyriakopoulos,Sassuolo,25,5.96,6,0,0,0,0,0,0,5,6,1,0
+2021-2022,4887,Difensore,Bellanova,Cagliari,31,6.02,6.1,1,0,0,0,0,0,1,3,0,0
+2021-2022,4934,Difensore,Lovato,Cagliari,21,5.98,5.86,0,0,0,0,0,0,0,5,0,0
+2021-2022,5447,Difensore,Altare,Cagliari,18,6.06,6.08,1,0,0,0,0,0,0,5,0,0
+2021-2022,5449,Difensore,Parisi,Empoli,23,5.87,5.8,0,0,0,0,0,0,1,5,0,0
+2021-2022,5481,Difensore,Mazzocchi,Salernitana,32,5.84,5.83,0,0,0,0,0,0,2,5,0,0
+2021-2022,5695,Difensore,Haps,Venezia,25,5.86,5.9,1,0,0,0,0,0,1,6,0,0
+2021-2022,45,Difensore,Ferrari A.,Sampdoria,22,5.68,5.73,1,0,0,0,0,0,0,4,0,0
+2021-2022,76,Difensore,Romagnoli S.,Empoli,18,5.89,6.03,2,0,0,0,0,0,0,3,0,1
+2021-2022,695,Difensore,Toloi,Atalanta,19,5.92,5.97,1,0,0,0,0,0,1,6,0,0
+2021-2022,787,Difensore,Djimsiti,Atalanta,29,5.83,5.81,1,0,0,0,0,0,1,6,0,1
+2021-2022,790,Difensore,Samir,Udinese,17,6.15,6,0,0,0,0,0,0,0,5,0,0
+2021-2022,1852,Difensore,Spinazzola,Roma,2,6.25,6,0,0,0,0,0,0,0,1,0,0
+2021-2022,1866,Difensore,Ceppitelli,Cagliari,21,5.81,5.9,1,0,0,0,0,0,0,3,0,0
+2021-2022,1895,Difensore,Ferrari G.,Sassuolo,36,5.78,5.78,1,0,0,0,0,0,0,4,1,0
+2021-2022,2130,Difensore,Hateboer,Atalanta,21,5.6,5.55,0,0,0,0,0,0,0,2,0,0
+2021-2022,2141,Difensore,Depaoli,Verona,17,5.79,5.91,1,0,0,0,0,0,1,4,0,0
+2021-2022,2171,Difensore,Lyanco,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,2614,Difensore,Odriozola,Fiorentina,25,5.92,6,1,0,0,0,0,0,2,4,1,0
+2021-2022,2633,Difensore,Kjaer,Milan,10,6.05,5.75,0,0,0,0,0,0,0,2,0,1
+2021-2022,4407,Difensore,Igor,Fiorentina,28,5.8,5.75,0,0,0,0,0,0,0,3,0,0
+2021-2022,4433,Difensore,Zortea,Salernitana,23,5.76,5.93,1,0,0,0,0,0,2,3,0,0
+2021-2022,4983,Difensore,Ferrer,Spezia,23,5.72,5.78,0,0,0,0,0,0,3,3,0,0
+2021-2022,5450,Difensore,Stojanovic,Empoli,33,6.05,6,1,0,0,0,0,0,1,9,1,0
+2021-2022,5498,Difensore,Casale,Verona,34,6.04,5.94,0,0,0,0,0,0,1,10,0,0
+2021-2022,5686,Difensore,Soppy,Udinese,19,5.89,5.79,0,0,0,0,0,0,0,4,0,0
+2021-2022,5748,Difensore,Hefti,Genoa,16,5.81,5.78,0,0,0,0,0,0,0,1,0,0
+2021-2022,11,Difensore,Conti,Sampdoria,6,5.92,6.33,1,0,0,0,0,0,0,1,0,0
+2021-2022,256,Difensore,Juan Jesus,Napoli,14,6,6.04,1,0,0,0,0,0,0,1,0,1
+2021-2022,287,Difensore,Caceres,Cagliari,14,5.68,5.79,1,0,0,0,0,0,1,3,1,0
+2021-2022,327,Difensore,Patric,Lazio,22,5.7,5.66,1,0,0,0,0,0,1,4,1,1
+2021-2022,2188,Difensore,Marusic,Lazio,33,5.73,5.73,1,0,0,0,0,0,0,4,1,0
+2021-2022,2285,Difensore,Bani,Genoa,17,6,5.97,0,0,0,0,0,0,0,1,0,0
+2021-2022,2653,Difensore,Lykogiannis,Cagliari,25,5.6,5.68,1,0,0,0,0,0,0,2,0,0
+2021-2022,2728,Difensore,Pellegrini Lu.,Juventus,17,6.03,5.91,0,0,0,0,0,0,1,6,0,0
+2021-2022,2739,Difensore,Reca,Spezia,24,5.67,5.69,0,0,0,0,0,0,2,3,0,0
+2021-2022,2746,Difensore,Dijks,Bologna,11,5.77,5.86,0,0,0,0,0,0,2,2,0,0
+2021-2022,2865,Difensore,Aina,Torino,20,5.92,5.82,0,0,0,0,0,0,0,4,0,0
+2021-2022,4185,Difensore,Maitland-Niles,Roma,8,5.62,5.62,0,0,0,0,0,0,0,0,0,0
+2021-2022,4521,Difensore,Muldur,Sassuolo,26,5.71,5.62,0,0,0,0,0,0,0,5,0,0
+2021-2022,4719,Difensore,Ampadu,Venezia,29,5.88,5.74,0,0,0,0,0,0,3,10,2,0
+2021-2022,4895,Difensore,Yoshida,Sampdoria,24,5.79,6.04,2,0,0,0,0,0,3,2,0,1
+2021-2022,4979,Difensore,Ayhan,Sassuolo,18,5.81,5.86,1,0,0,0,0,0,0,2,1,0
+2021-2022,5375,Difensore,Maehle,Atalanta,24,5.81,5.94,1,0,0,0,0,0,1,2,0,0
+2021-2022,5475,Difensore,Amian,Spezia,32,5.72,5.67,1,0,0,0,0,0,1,7,2,0
+2021-2022,5693,Difensore,Kiwior,Spezia,22,5.73,5.59,0,0,0,0,0,0,0,6,0,0
+2021-2022,5750,Difensore,Ostigard,Genoa,15,5.7,5.5,0,0,0,0,0,0,0,2,2,0
+2021-2022,294,Difensore,Rugani,Juventus,12,5.96,5.88,0,0,0,0,0,0,0,2,0,0
+2021-2022,393,Difensore,Luperto,Empoli,22,5.84,5.7,0,0,0,0,0,0,1,6,1,0
+2021-2022,460,Difensore,Romagnoli,Milan,17,5.91,5.91,1,0,0,0,0,0,0,4,1,0
+2021-2022,633,Difensore,Fares,Torino,9,5.83,6.5,2,0,0,0,0,0,1,2,0,0
+2021-2022,640,Difensore,Chiriches,Sassuolo,27,5.61,5.54,0,0,0,0,0,0,0,4,0,0
+2021-2022,660,Difensore,Gyomber,Salernitana,30,5.72,5.57,0,0,0,0,0,0,0,9,0,0
+2021-2022,662,Difensore,Alex Sandro,Juventus,27,5.72,5.63,0,0,0,0,0,0,1,3,0,1
+2021-2022,770,Difensore,Pezzella Giu.,Atalanta,16,5.94,5.97,0,0,0,0,0,0,2,3,0,0
+2021-2022,2083,Difensore,Biraschi,Genoa,14,5.57,5.43,0,0,0,0,0,0,0,4,0,0
+2021-2022,2104,Difensore,Bereszynski,Sampdoria,35,5.67,5.59,0,0,0,0,0,0,3,12,0,0
+2021-2022,2174,Difensore,Venuti,Fiorentina,22,5.82,5.64,0,0,0,0,0,0,0,4,0,1
+2021-2022,2289,Difensore,Dalbert,Cagliari,27,5.61,5.52,0,0,0,0,0,0,2,9,0,0
+2021-2022,2318,Difensore,Rogerio,Sassuolo,22,5.75,5.7,0,0,0,0,0,0,1,5,0,0
+2021-2022,2335,Difensore,Luiz Felipe,Lazio,29,5.86,5.66,0,0,0,0,0,0,0,10,1,0
+2021-2022,2724,Difensore,Buongiorno,Torino,18,5.89,5.83,0,0,0,0,0,0,1,5,0,0
+2021-2022,2758,Difensore,Gunter,Verona,30,5.82,5.58,0,0,0,0,0,0,0,10,0,1
+2021-2022,2869,Difensore,Djidji,Torino,24,5.85,5.73,0,0,0,0,0,0,0,4,1,0
+2021-2022,4329,Difensore,Nikolaou,Spezia,36,5.67,5.51,0,0,0,0,0,0,0,7,0,1
+2021-2022,4378,Difensore,Ranieri L.,Salernitana,27,5.69,5.63,1,0,0,0,0,0,0,9,0,0
+2021-2022,4426,Difensore,Toljan,Sassuolo,19,5.76,5.76,0,0,0,0,0,0,1,2,0,0
+2021-2022,4775,Difensore,Tuanzebe,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4888,Difensore,Sutalo,Verona,18,5.83,5.83,0,0,0,0,0,0,0,0,0,0
+2021-2022,4891,Difensore,Soumaoro,Bologna,27,5.85,5.59,0,0,0,0,0,0,0,6,2,1
+2021-2022,4925,Difensore,Carboni,Cagliari,28,5.71,5.54,0,0,0,0,0,0,0,6,0,1
+2021-2022,5354,Difensore,Ruggeri,Salernitana,13,5.77,5.73,0,0,0,0,0,0,0,1,0,0
+2021-2022,5509,Difensore,Vina,Roma,23,5.78,5.78,0,0,0,0,0,0,1,2,0,0
+2021-2022,5677,Difensore,Perez N.,Udinese,20,5.72,5.62,0,0,0,0,0,0,1,6,0,0
+2021-2022,5691,Difensore,Zima,Torino,18,5.89,5.81,0,0,0,0,0,0,0,3,0,0
+2021-2022,5718,Difensore,Viti,Empoli,19,5.92,5.74,0,0,0,0,0,0,0,1,1,1
+2021-2022,140,Difensore,Hysaj,Lazio,27,5.74,5.8,1,0,0,0,0,0,0,3,0,0
+2021-2022,226,Difensore,Izzo,Torino,9,5.94,5.72,0,0,0,0,0,0,0,4,0,0
+2021-2022,259,Difensore,Murillo,Sampdoria,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,550,Difensore,Maksimovic,Genoa,14,5.86,5.79,0,0,0,0,0,0,0,2,0,0
+2021-2022,630,Difensore,Sala,Spezia,17,5.79,5.88,1,0,0,0,0,0,0,3,0,0
+2021-2022,1868,Difensore,Murru,Sampdoria,20,5.52,5.58,1,0,0,0,0,0,0,5,0,0
+2021-2022,2192,Difensore,Bonifazi,Bologna,17,5.71,5.47,0,0,0,0,0,0,0,2,1,1
+2021-2022,2312,Difensore,Hristov,Spezia,16,5.59,5.75,1,0,0,0,0,0,1,3,0,0
+2021-2022,2572,Difensore,Godin,Cagliari,11,5.5,5.45,0,0,0,0,0,0,1,3,0,0
+2021-2022,4461,Difensore,Zappa,Cagliari,20,5.65,5.55,0,0,0,0,0,0,0,2,1,0
+2021-2022,4495,Difensore,Kumbulla,Roma,13,5.88,5.69,0,0,0,0,0,0,0,6,0,0
+2021-2022,5323,Difensore,Martinez Quarta,Fiorentina,18,5.78,5.72,1,0,0,0,0,0,0,8,0,0
+2021-2022,5365,Difensore,Dragusin,Salernitana,17,5.68,5.62,0,0,0,0,0,0,0,2,0,0
+2021-2022,5480,Difensore,Ebuehi,Venezia,18,5.64,5.56,0,0,0,0,0,0,0,1,1,0
+2021-2022,5484,Difensore,Svoboda,Venezia,18,5.61,5.5,0,0,0,0,0,0,0,2,1,0
+2021-2022,5527,Difensore,Zanoli,Napoli,7,5.71,5.57,0,0,0,0,0,0,0,2,0,0
+2021-2022,5804,Difensore,Cacace,Empoli,9,5.83,5.78,0,0,0,0,0,0,0,1,0,0
+2021-2022,15,Difensore,Masiello,Genoa,7,5.64,5.43,0,0,0,0,0,0,0,3,0,0
+2021-2022,73,Difensore,Gagliolo,Salernitana,14,5.39,5.39,0,0,0,0,0,0,1,2,0,0
+2021-2022,144,Difensore,Tonelli,Empoli,13,5.5,5.19,0,0,0,0,0,0,0,4,0,1
+2021-2022,261,Difensore,Ranocchia,Inter,6,5.92,5.83,0,0,0,0,0,0,0,1,0,0
+2021-2022,329,Difensore,Radu,Lazio,9,5.72,5.61,0,0,0,0,0,0,0,2,0,0
+2021-2022,390,Difensore,Ghoulam,Napoli,5,6,5.9,0,0,0,0,0,0,0,1,0,0
+2021-2022,418,Difensore,Goldaniga,Cagliari,11,5.86,5.73,0,0,0,0,0,0,0,3,0,0
+2021-2022,459,Difensore,Manolas,Napoli,4,5.62,5.5,0,0,0,0,0,0,0,1,0,0
+2021-2022,758,Difensore,Mantovani,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,791,Difensore,Sabelli,Genoa,7,5.5,5.29,0,0,0,0,0,0,0,3,0,0
+2021-2022,805,Difensore,Fiamozzi,Empoli,8,5.44,5.5,0,0,0,0,0,0,1,1,0,0
+2021-2022,2116,Difensore,Farago',Cagliari,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2021-2022,2206,Difensore,Felicioli,Venezia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,2328,Difensore,Vanheusden,Genoa,14,5.64,5.39,0,0,0,0,0,0,0,3,0,1
+2021-2022,2453,Difensore,Nastasic,Fiorentina,4,5.38,5.25,0,0,0,0,0,0,0,1,0,0
+2021-2022,2668,Difensore,Retsos,Verona,1,6,6,0,0,0,0,0,0,0,0,0,0
+2021-2022,2769,Difensore,Magnani,Sampdoria,15,5.73,5.57,0,0,0,0,0,0,0,3,1,0
+2021-2022,4323,Difensore,Zeegelaar,Udinese,12,5.58,5.5,0,0,0,0,0,0,0,2,0,0
+2021-2022,4373,Difensore,Mateju,Venezia,9,5.44,5.39,0,0,0,0,0,0,1,3,0,0
+2021-2022,4374,Difensore,Walukiewicz,Cagliari,6,5.67,5.58,0,0,0,0,0,0,0,1,0,0
+2021-2022,4375,Difensore,Terzic,Fiorentina,9,6.06,6.11,0,0,0,0,0,0,1,1,0,0
+2021-2022,4403,Difensore,Chabot,Sampdoria,9,5.61,5.33,0,0,0,0,0,0,0,5,0,0
+2021-2022,4414,Difensore,Denswil,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4494,Difensore,Empereur,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4881,Difensore,Czyborra,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4945,Difensore,Calafiori,Genoa,4,5.5,5.5,0,0,0,0,0,0,1,3,0,0
+2021-2022,4946,Difensore,Frabotta,Verona,1,6,6,0,0,0,0,0,0,0,0,0,0
+2021-2022,4985,Difensore,Vignali,Spezia,1,4.5,4.5,0,0,0,0,0,0,0,0,0,0
+2021-2022,5010,Difensore,Ismajli,Empoli,16,5.47,5,0,0,0,0,0,0,0,7,0,2
+2021-2022,5445,Difensore,Binks,Bologna,12,5.88,5.75,0,0,0,0,0,0,0,3,0,0
+2021-2022,5456,Difensore,Ferrarini,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5461,Difensore,Kamenovic,Lazio,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2021-2022,5463,Difensore,Aya,Salernitana,2,4.75,4.5,0,0,0,0,0,0,0,1,0,0
+2021-2022,5464,Difensore,Bogdan,Salernitana,6,5.33,5.33,0,0,0,0,0,0,0,0,0,0
+2021-2022,5466,Difensore,Strandberg,Salernitana,11,5.68,5.41,0,0,0,0,0,0,0,0,1,1
+2021-2022,5482,Difensore,Modolo,Venezia,5,6.1,5.9,0,0,0,0,0,0,0,2,0,0
+2021-2022,5503,Difensore,Kechrida,Salernitana,14,5.36,5.43,0,0,0,0,0,0,1,0,0,0
+2021-2022,5524,Difensore,Serpe,Genoa,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2021-2022,5678,Difensore,Holm,Spezia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5747,Difensore,Ruan,Sassuolo,5,5.5,5.4,0,0,0,0,0,0,0,1,0,0
+2021-2022,5764,Difensore,Coppola D.,Verona,3,6,6,0,0,0,0,0,0,0,0,0,0
+2021-2022,5793,Difensore,Kasius,Bologna,6,5.92,5.92,0,0,0,0,0,0,0,0,0,0
+2021-2022,50,Difensore,Mbaye,Bologna,2,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2021-2022,224,Difensore,De Maio,Udinese,2,4.25,4.25,0,0,0,0,0,0,0,0,0,0
+2021-2022,244,Difensore,Ghiglione,Genoa,11,5.77,5.73,0,0,0,0,0,0,1,3,0,0
+2021-2022,454,Difensore,Capradossi,Spezia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,521,Difensore,Peluso,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,551,Difensore,Molinaro,Venezia,7,5.64,5.79,0,0,0,0,0,0,1,0,0,0
+2021-2022,2064,Difensore,Veseli,Salernitana,8,5.25,5.06,0,0,0,0,0,0,0,1,1,0
+2021-2022,2115,Difensore,Delli Carri,Salernitana,5,5.6,5.5,0,0,0,0,0,0,0,1,0,0
+2021-2022,2208,Difensore,Jaroszynski,Salernitana,9,5.33,5.22,0,0,0,0,0,0,0,2,0,0
+2021-2022,2214,Difensore,Kolarov,Inter,2,6,6,0,0,0,0,0,0,0,0,0,0
+2021-2022,2252,Difensore,Marchizza,Empoli,19,5.68,5.53,0,0,0,0,0,0,1,4,0,1
+2021-2022,2279,Difensore,Romagna,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,2315,Difensore,Stryger Larsen,Udinese,10,5.8,5.7,0,0,0,0,0,0,1,0,0,1
+2021-2022,2745,Difensore,Calabresi,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,2793,Difensore,Opoku,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,2838,Difensore,Imperiale,Empoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,2860,Difensore,Malcuit,Napoli,4,5.62,5.5,0,0,0,0,0,0,1,3,0,0
+2021-2022,4366,Difensore,Armini,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4397,Difensore,Vavro,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4401,Difensore,Gabbia,Milan,7,5.71,5.5,0,0,0,0,0,0,0,3,0,0
+2021-2022,4406,Difensore,Tripaldelli,Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4493,Difensore,Dawidowicz,Verona,15,5.83,5.73,0,0,0,0,0,0,0,3,0,0
+2021-2022,4519,Difensore,Cetin,Verona,1,6,6,0,0,0,0,0,0,0,0,0,0
+2021-2022,4758,Difensore,Benkovic,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4932,Difensore,Ballarini,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4950,Difensore,Dalle Mura,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4984,Difensore,Ramos,Spezia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4997,Difensore,Ruegg,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5017,Difensore,Ballo-Toure',Milan,7,5.64,5.5,0,0,0,0,0,0,0,2,0,0
+2021-2022,5316,Difensore,Amione,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5398,Difensore,Reynolds,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5465,Difensore,Sy,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5473,Difensore,Kaique Rocha,Sampdoria,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5483,Difensore,Schnegg,Venezia,4,5.62,5.5,0,0,0,0,0,0,0,1,0,0
+2021-2022,5701,Difensore,Obert,Cagliari,4,5.88,5.88,0,0,0,0,0,0,0,0,0,0
+2021-2022,5739,Difensore,De Winter,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5773,Difensore,Ullmann,Venezia,4,5.62,5.62,0,0,0,0,0,0,0,0,0,0
+2021-2022,5820,Difensore,Bertola,Spezia,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2021-2022,645,Centrocampista,Milinkovic-Savic,Lazio,37,6.46,7.54,11,0,0,0,0,0,10,4,1,0
+2021-2022,2077,Centrocampista,Pasalic,Atalanta,33,6.2,7.52,13,0,0,0,0,0,6,3,0,0
+2021-2022,2172,Centrocampista,Barak,Verona,29,6.28,7.45,11,0,0,4,4,0,3,4,0,0
+2021-2022,704,Centrocampista,Perisic,Inter,35,6.49,7.29,8,0,0,1,1,0,6,4,0,0
+2021-2022,2194,Centrocampista,Calhanoglu,Inter,33,6.18,7.02,7,0,0,3,3,0,12,11,0,0
+2021-2022,2775,Centrocampista,Ruiz,Napoli,31,6.29,7.06,7,0,0,0,0,0,4,2,0,0
+2021-2022,530,Centrocampista,Pellegrini Lo.,Roma,28,6.36,7.18,9,0,0,3,2,1,3,6,1,0
+2021-2022,632,Centrocampista,Zaccagni,Lazio,30,6.3,6.93,6,0,0,1,1,0,4,6,0,0
+2021-2022,1870,Centrocampista,Barella,Inter,36,6.44,6.88,3,0,0,0,0,0,11,9,0,0
+2021-2022,5451,Centrocampista,Bajrami,Empoli,34,6.16,6.79,6,0,0,3,3,0,5,3,0,0
+2021-2022,332,Centrocampista,Candreva,Sampdoria,36,6.29,6.96,7,0,0,2,1,1,10,6,1,0
+2021-2022,335,Centrocampista,Felipe Anderson,Lazio,38,6.03,6.68,6,0,0,0,0,0,8,2,0,0
+2021-2022,376,Centrocampista,Verdi,Salernitana,17,6.06,7.06,6,0,0,1,1,0,0,3,0,0
+2021-2022,152,Centrocampista,Zielinski,Napoli,34,6.09,6.75,6,0,0,0,0,0,5,1,0,0
+2021-2022,1980,Centrocampista,Aramu,Venezia,32,6.08,6.7,7,0,0,4,3,1,5,6,0,0
+2021-2022,2857,Centrocampista,Traore' Hj.,Sassuolo,27,6.28,7.04,7,0,0,0,0,0,1,3,0,0
+2021-2022,2085,Centrocampista,Luis Alberto,Lazio,34,6.13,6.79,5,0,0,0,0,0,10,5,0,0
+2021-2022,2529,Centrocampista,Mkhitaryan,Roma,31,6.27,6.89,5,0,0,0,0,0,6,2,1,0
+2021-2022,4427,Centrocampista,Malinovskyi,Atalanta,30,6.2,6.8,6,0,0,0,0,0,5,10,0,0
+2021-2022,4449,Centrocampista,Tonali,Milan,34,6.29,6.66,5,0,0,0,0,0,2,9,0,0
+2021-2022,150,Centrocampista,Saponara,Fiorentina,24,6.29,6.77,3,0,0,0,0,0,3,1,0,0
+2021-2022,4890,Centrocampista,Tameze,Verona,37,6.26,6.58,4,0,0,0,0,0,2,4,0,0
+2021-2022,5685,Centrocampista,Koopmeiners,Atalanta,28,6.21,6.54,4,0,0,0,0,0,1,4,0,1
+2021-2022,1850,Centrocampista,Kessie',Milan,30,6.05,6.52,6,0,0,3,2,1,0,2,0,0
+2021-2022,2167,Centrocampista,Orsolini,Bologna,26,6.06,6.83,6,0,0,2,2,0,3,2,0,0
+2021-2022,4376,Centrocampista,Zurkowski,Empoli,33,6.05,6.58,6,0,0,0,0,0,2,5,0,0
+2021-2022,5298,Centrocampista,Pobega,Torino,31,6.26,6.5,4,0,0,0,0,0,1,11,0,0
+2021-2022,2215,Centrocampista,Veretout,Roma,35,6.1,6.5,4,0,0,2,1,1,8,6,0,0
+2021-2022,4970,Centrocampista,Messias,Milan,26,5.88,6.5,5,0,0,0,0,0,2,2,0,0
+2021-2022,236,Centrocampista,Lazovic,Verona,34,6.15,6.41,1,0,0,0,0,0,7,2,0,0
+2021-2022,265,Centrocampista,Brozovic,Inter,35,6.3,6.4,2,0,0,0,0,0,1,7,0,0
+2021-2022,367,Centrocampista,Bonaventura,Fiorentina,31,6.08,6.47,4,0,0,0,0,0,4,6,1,0
+2021-2022,467,Centrocampista,Nainggolan,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,1972,Centrocampista,Torreira,Fiorentina,29,6.24,6.62,5,0,0,0,0,0,1,8,1,0
+2021-2022,4886,Centrocampista,Pereiro,Cagliari,19,5.87,6.61,4,0,0,0,0,0,2,1,0,0
+2021-2022,827,Centrocampista,Locatelli,Juventus,29,6.12,6.43,3,0,0,0,0,0,3,6,0,0
+2021-2022,1987,Centrocampista,Jankto,Sampdoria,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,2002,Centrocampista,Chiesa,Juventus,14,6.25,6.82,2,0,0,0,0,0,2,0,0,0
+2021-2022,2009,Centrocampista,Lukic,Torino,35,6.13,6.53,5,0,0,3,3,0,4,10,0,0
+2021-2022,2848,Centrocampista,Frattesi,Sassuolo,36,6.18,6.46,4,0,0,0,0,0,3,6,0,1
+2021-2022,4479,Centrocampista,Elmas,Napoli,33,6.09,6.44,3,0,0,0,0,0,4,3,0,0
+2021-2022,4825,Centrocampista,Diaz B.,Milan,29,5.79,6.14,3,0,0,0,0,0,3,4,0,0
+2021-2022,5119,Centrocampista,Samardzic,Udinese,13,6.12,6.73,2,0,0,0,0,0,2,0,0,0
+2021-2022,302,Centrocampista,Pereyra,Udinese,24,5.98,6.23,3,0,0,2,1,1,5,8,1,0
+2021-2022,2744,Centrocampista,Svanberg,Bologna,35,5.94,6.19,3,0,0,0,0,0,3,7,0,0
+2021-2022,2818,Centrocampista,Bennacer,Milan,29,6.22,6.36,2,0,0,0,0,0,1,7,0,0
+2021-2022,4287,Centrocampista,Lobotka,Napoli,22,6.3,6.39,1,0,0,0,0,0,0,2,0,0
+2021-2022,4658,Centrocampista,Ikone',Fiorentina,16,5.84,6.06,1,0,0,0,0,0,1,1,0,0
+2021-2022,4973,Centrocampista,Mckennie,Juventus,19,5.97,6.42,3,0,0,0,0,0,0,1,0,0
+2021-2022,4988,Centrocampista,Maggiore,Spezia,35,5.97,6.1,2,0,0,0,0,0,3,9,0,0
+2021-2022,5759,Centrocampista,Oliveira,Roma,13,5.81,6.08,2,0,0,1,1,0,0,5,0,0
+2021-2022,801,Centrocampista,Gagliardini,Inter,15,6.17,6.63,2,0,0,0,0,0,2,2,0,0
+2021-2022,2065,Centrocampista,Praet,Torino,23,6.07,6.35,2,0,0,0,0,0,2,3,0,0
+2021-2022,2432,Centrocampista,Zakaria,Juventus,9,5.72,6.11,1,0,0,0,0,0,1,1,0,0
+2021-2022,2833,Centrocampista,Kulusevski,Juventus,14,5.89,6.29,1,0,0,0,0,0,3,1,0,0
+2021-2022,2839,Centrocampista,Sottil,Fiorentina,22,5.95,6.36,3,0,0,0,0,0,2,2,1,0
+2021-2022,4515,Centrocampista,Agudelo,Spezia,23,5.85,6.22,3,0,0,0,0,0,1,1,1,0
+2021-2022,4681,Centrocampista,Lopez M.,Sassuolo,34,6.07,6.09,2,0,0,0,0,0,1,14,0,0
+2021-2022,4892,Centrocampista,Saelemaekers,Milan,34,5.97,6.12,1,0,0,0,0,0,3,2,0,0
+2021-2022,5007,Centrocampista,Ilic,Verona,32,6,6.02,1,0,0,0,0,0,3,5,1,1
+2021-2022,5457,Centrocampista,Maleh,Fiorentina,24,5.92,6.1,2,0,0,0,0,0,1,5,0,0
+2021-2022,5486,Centrocampista,Crnigoj,Venezia,32,5.89,6.16,3,0,0,0,0,0,1,3,0,0
+2021-2022,22,Centrocampista,De Roon,Atalanta,30,5.92,6.1,3,0,0,0,0,0,0,5,1,0
+2021-2022,333,Centrocampista,Cataldi,Lazio,30,6.02,6.07,1,0,0,0,0,0,2,7,0,0
+2021-2022,526,Centrocampista,Duncan,Fiorentina,31,5.89,6.1,2,0,0,0,0,0,2,3,0,0
+2021-2022,1871,Centrocampista,Deiola,Cagliari,32,5.7,6.03,4,0,0,0,0,0,1,5,0,0
+2021-2022,2414,Centrocampista,Vidal,Inter,25,6.02,6.14,1,0,0,0,0,0,1,3,0,0
+2021-2022,2625,Centrocampista,Soriano,Bologna,35,5.76,5.76,0,0,0,0,0,0,4,4,2,0
+2021-2022,4220,Centrocampista,Zambo Anguissa,Napoli,23,6.37,6.3,0,0,0,0,0,0,1,5,0,0
+2021-2022,4498,Centrocampista,Henderson L.,Empoli,32,5.97,6.19,2,0,0,0,0,0,3,4,0,0
+2021-2022,4693,Centrocampista,Amiri,Genoa,12,5.96,6.04,0,0,0,0,0,0,1,0,0,0
+2021-2022,5001,Centrocampista,Miranchuk,Atalanta,19,5.87,6.39,2,0,0,0,0,0,4,0,0,0
+2021-2022,5788,Centrocampista,Sabiri,Sampdoria,13,6.15,6.88,3,0,0,0,0,0,2,3,0,0
+2021-2022,5792,Centrocampista,Ederson D.s.,Salernitana,15,6.1,6.4,2,0,0,0,0,0,1,5,0,0
+2021-2022,148,Centrocampista,Krunic,Milan,23,6.09,6.11,0,0,0,0,0,0,1,2,0,0
+2021-2022,779,Centrocampista,Cristante,Roma,34,5.97,5.96,2,0,0,0,0,0,0,9,0,1
+2021-2022,2253,Centrocampista,Bandinelli,Empoli,33,5.83,5.95,2,0,0,0,0,0,3,10,0,0
+2021-2022,2766,Centrocampista,Zaniolo,Roma,28,5.89,5.91,2,0,0,0,0,0,1,9,2,0
+2021-2022,2778,Centrocampista,Stulac,Empoli,21,5.98,6.33,2,0,0,0,0,0,2,1,0,0
+2021-2022,4393,Centrocampista,Schouten,Bologna,17,6.03,6.15,1,0,0,0,0,0,1,2,1,0
+2021-2022,4404,Centrocampista,Thorsby,Sampdoria,35,5.79,5.93,3,0,0,0,0,0,1,10,0,0
+2021-2022,4965,Centrocampista,Marin,Cagliari,36,5.89,5.94,0,0,0,0,0,0,5,4,1,0
+2021-2022,5329,Centrocampista,Makengo,Udinese,33,5.92,6,1,0,0,0,0,0,3,5,1,0
+2021-2022,5719,Centrocampista,Asllani,Empoli,18,6.08,6.25,1,0,0,0,0,0,1,2,0,0
+2021-2022,1978,Centrocampista,Sensi,Sampdoria,15,5.8,5.97,1,0,0,0,0,0,0,1,0,0
+2021-2022,1995,Centrocampista,Djuricic,Sassuolo,10,6.1,6.75,2,0,0,0,0,0,1,1,0,0
+2021-2022,2121,Centrocampista,Melegoni,Genoa,22,5.73,5.84,1,0,0,0,0,0,0,1,0,0
+2021-2022,2144,Centrocampista,Coulibaly M.,Salernitana,12,6,6.46,2,0,0,0,0,0,0,1,0,0
+2021-2022,2166,Centrocampista,Bentancur,Juventus,17,5.91,5.94,0,0,0,0,0,0,1,1,0,0
+2021-2022,2741,Centrocampista,Pessina,Atalanta,25,5.84,6,1,0,0,0,0,0,1,0,0,0
+2021-2022,4377,Centrocampista,Castrovilli,Fiorentina,23,6.04,6.13,1,0,0,0,0,0,1,4,0,0
+2021-2022,4522,Centrocampista,Amrabat,Fiorentina,19,6.03,6.05,1,0,0,0,0,0,0,6,0,0
+2021-2022,5800,Centrocampista,Gudmundsson A.,Genoa,11,5.68,5.82,1,0,0,0,0,0,0,3,0,0
+2021-2022,27,Centrocampista,Grassi,Cagliari,28,6,5.93,0,0,0,0,0,0,1,4,1,0
+2021-2022,184,Centrocampista,Bernardeschi,Juventus,27,5.85,5.98,1,0,0,0,0,0,3,5,0,0
+2021-2022,2117,Centrocampista,Kastanos,Salernitana,25,5.72,5.76,1,0,0,0,0,0,1,4,1,0
+2021-2022,2392,Centrocampista,Walace,Udinese,35,5.89,5.86,1,0,0,0,0,0,0,6,1,0
+2021-2022,4370,Centrocampista,Portanova,Genoa,23,5.85,5.89,1,0,0,0,0,0,0,4,0,0
+2021-2022,4415,Centrocampista,Skov Olsen,Bologna,16,5.78,5.91,0,0,0,0,0,0,2,0,0,0
+2021-2022,4459,Centrocampista,Rovella,Genoa,20,6.08,6.1,0,0,0,0,0,0,3,5,0,0
+2021-2022,4869,Centrocampista,Dominguez,Bologna,27,6.13,6.09,0,0,0,0,0,0,3,8,0,0
+2021-2022,5287,Centrocampista,Arslan,Udinese,29,5.97,5.91,1,0,0,0,0,0,0,9,0,0
+2021-2022,5397,Centrocampista,Kovalenko,Spezia,22,5.68,5.89,1,0,0,0,0,0,3,4,0,0
+2021-2022,5453,Centrocampista,Ricci S.,Torino,30,6,6.07,1,0,0,0,0,0,1,2,1,0
+2021-2022,170,Centrocampista,Badelj,Genoa,34,5.82,5.85,1,0,0,0,0,0,0,4,0,0
+2021-2022,237,Centrocampista,Perotti,Salernitana,9,5.61,5.28,0,0,0,1,0,1,0,1,0,0
+2021-2022,406,Centrocampista,Callejon,Fiorentina,25,5.74,5.94,1,0,0,0,0,0,2,0,0,0
+2021-2022,788,Centrocampista,Freuler,Atalanta,29,5.93,5.83,1,0,0,0,0,0,1,10,0,1
+2021-2022,1933,Centrocampista,Mandragora,Torino,18,6.11,6.03,0,0,0,0,0,0,2,5,1,0
+2021-2022,2011,Centrocampista,Miguel Veloso,Verona,21,5.98,5.95,0,0,0,0,0,0,3,5,1,0
+2021-2022,2076,Centrocampista,Rog,Cagliari,8,5.94,6.06,0,0,0,0,0,0,1,0,0,0
+2021-2022,4514,Centrocampista,Nandez,Cagliari,20,6,6,0,0,0,0,0,0,2,4,0,0
+2021-2022,5422,Centrocampista,Zalewski,Roma,13,5.96,5.92,0,0,0,0,0,0,0,1,0,0
+2021-2022,5504,Centrocampista,Coulibaly L.,Salernitana,31,5.82,5.77,0,0,0,0,0,0,0,3,0,0
+2021-2022,5507,Centrocampista,Busio,Venezia,28,5.91,5.91,1,0,0,0,0,0,1,8,0,0
+2021-2022,5791,Centrocampista,Frendrup,Genoa,10,5.85,5.8,0,0,0,0,0,0,0,1,0,0
+2021-2022,238,Centrocampista,Rincon,Sampdoria,22,5.8,5.68,0,0,0,0,0,0,0,5,0,0
+2021-2022,272,Centrocampista,Medel,Bologna,33,5.98,5.86,0,0,0,0,0,0,1,8,1,0
+2021-2022,2209,Centrocampista,Lucas Leiva,Lazio,33,5.88,5.74,0,0,0,0,0,0,0,9,0,0
+2021-2022,2379,Centrocampista,Rabiot,Juventus,29,5.66,5.64,0,0,0,0,0,0,2,5,0,0
+2021-2022,4384,Centrocampista,Jagiello,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4701,Centrocampista,Cuisance,Venezia,13,5.5,5.42,0,0,0,0,0,0,0,2,0,0
+2021-2022,5490,Centrocampista,Peretz,Venezia,14,5.82,5.86,0,0,0,0,0,0,1,2,0,0
+2021-2022,5499,Centrocampista,Hongla,Verona,13,5.73,5.85,1,0,0,0,0,0,0,3,0,0
+2021-2022,5511,Centrocampista,Matheus Henrique,Sassuolo,21,5.88,5.81,0,0,0,0,0,0,0,3,0,0
+2021-2022,5674,Centrocampista,Basic,Lazio,21,5.79,5.81,0,0,0,0,0,0,2,3,0,0
+2021-2022,5784,Centrocampista,Aebischer,Bologna,9,5.83,5.78,0,0,0,0,0,0,0,1,0,0
+2021-2022,5798,Centrocampista,Bohinen,Salernitana,10,6,5.85,0,0,0,0,0,0,1,5,0,0
+2021-2022,181,Centrocampista,Vecino,Inter,10,5.95,6.2,1,0,0,0,0,0,0,2,0,0
+2021-2022,264,Centrocampista,Bessa,Verona,19,5.71,5.79,1,0,0,0,0,0,1,3,1,0
+2021-2022,305,Centrocampista,Sturaro,Genoa,25,5.56,5.34,0,0,0,0,0,0,0,11,0,0
+2021-2022,434,Centrocampista,Jajalo,Udinese,12,5.83,5.83,0,0,0,0,0,0,1,2,0,0
+2021-2022,556,Centrocampista,Baselli,Cagliari,13,5.85,5.88,0,0,0,0,0,0,1,1,0,0
+2021-2022,557,Centrocampista,Benassi,Empoli,15,5.73,5.7,0,0,0,0,0,0,0,2,0,0
+2021-2022,2154,Centrocampista,Vignato,Bologna,19,5.92,5.92,0,0,0,0,0,0,1,2,0,0
+2021-2022,2391,Centrocampista,Ekdal,Sampdoria,25,5.78,5.68,1,0,0,0,0,0,0,9,1,0
+2021-2022,2703,Centrocampista,Adrien Silva,Sampdoria,15,5.7,5.6,0,0,0,0,0,0,1,3,1,0
+2021-2022,2855,Centrocampista,Vieira,Sampdoria,11,5.82,5.68,0,0,0,0,0,0,0,3,0,0
+2021-2022,4285,Centrocampista,Arthur,Juventus,15,6.03,5.93,0,0,0,0,0,0,0,3,0,0
+2021-2022,4725,Centrocampista,Demme,Napoli,14,5.93,6,1,0,0,0,0,0,0,4,0,0
+2021-2022,5470,Centrocampista,Schiavone,Salernitana,11,5.68,5.91,1,0,0,0,0,0,0,1,0,0
+2021-2022,5488,Centrocampista,Fiordilino,Venezia,13,5.81,5.73,0,0,0,0,0,0,0,2,0,0
+2021-2022,5491,Centrocampista,Taugourdeau,Venezia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5508,Centrocampista,Vacca,Venezia,21,5.88,5.76,0,0,0,0,0,0,0,5,0,0
+2021-2022,5705,Centrocampista,Galdames,Genoa,18,5.58,5.53,0,0,0,0,0,0,0,2,0,0
+2021-2022,560,Centrocampista,Obi,Salernitana,20,5.6,5.55,0,0,0,0,0,0,1,4,0,0
+2021-2022,2107,Centrocampista,Kiyine,Venezia,26,5.69,5.52,1,0,0,1,0,1,0,7,1,0
+2021-2022,2161,Centrocampista,Haas,Empoli,16,5.88,5.91,0,0,0,0,0,0,2,3,0,0
+2021-2022,2334,Centrocampista,Leris,Sampdoria,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,2825,Centrocampista,Bourabia,Spezia,8,6,6.31,1,0,0,0,0,0,0,1,0,0
+2021-2022,4411,Centrocampista,Agoume,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4894,Centrocampista,Haraslin,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4978,Centrocampista,Damsgaard,Sampdoria,9,5.89,5.83,0,0,0,0,0,0,0,1,0,0
+2021-2022,5462,Centrocampista,Ciervo,Sassuolo,8,5.81,5.94,0,0,0,0,0,0,1,0,0,0
+2021-2022,5468,Centrocampista,Cavion,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5813,Centrocampista,Miretti,Juventus,4,5.88,5.88,0,0,0,0,0,0,0,0,0,0
+2021-2022,173,Centrocampista,Capezzi,Salernitana,4,5.62,5.62,0,0,0,0,0,0,0,0,0,0
+2021-2022,440,Centrocampista,Viola,Bologna,3,5.67,5.67,0,0,0,0,0,0,0,0,0,0
+2021-2022,528,Centrocampista,Magnanelli,Sassuolo,5,5.7,5.7,0,0,0,0,0,0,0,1,0,0
+2021-2022,600,Centrocampista,Verre,Empoli,17,5.62,5.56,0,0,0,0,0,0,1,2,1,0
+2021-2022,644,Centrocampista,Pulgar,Fiorentina,4,5.88,5.88,0,0,0,0,0,0,1,2,0,0
+2021-2022,2008,Centrocampista,Linetty,Torino,16,5.66,5.59,0,0,0,0,0,0,0,2,0,0
+2021-2022,2286,Centrocampista,Crociata,Empoli,1,6,6,0,0,0,0,0,0,0,0,0,0
+2021-2022,2302,Centrocampista,Behrami,Genoa,8,5.56,5.38,0,0,0,0,0,0,0,3,0,0
+2021-2022,2472,Centrocampista,Ramsey,Juventus,3,5.67,5.67,0,0,0,0,0,0,0,0,0,0
+2021-2022,2639,Centrocampista,Bakayoko,Milan,12,5.79,5.67,0,0,0,0,0,0,0,3,0,0
+2021-2022,2692,Centrocampista,Castillejo,Milan,4,6,5.88,0,0,0,0,0,0,0,1,0,0
+2021-2022,4385,Centrocampista,Lazaro,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4389,Centrocampista,Anderson A.,Lazio,3,6,5.83,0,0,0,0,0,0,0,1,0,0
+2021-2022,4423,Centrocampista,Hernani,Genoa,14,5.39,5.39,0,0,0,0,0,0,0,0,0,0
+2021-2022,4921,Centrocampista,Askildsen,Sampdoria,16,5.81,5.53,0,0,0,0,0,0,0,5,0,1
+2021-2022,5423,Centrocampista,Bove,Roma,2,6.5,8,1,0,0,0,0,0,0,0,0,0
+2021-2022,5487,Centrocampista,Heymans,Venezia,6,5.83,5.67,0,0,0,0,0,0,1,4,0,0
+2021-2022,5492,Centrocampista,Tessmann,Venezia,18,5.67,5.58,0,0,0,0,0,0,0,1,1,0
+2021-2022,5501,Centrocampista,Sigurdsson A.,Venezia,6,5.67,5.67,0,0,0,0,0,0,0,0,0,0
+2021-2022,5510,Centrocampista,Romero L.,Lazio,2,6,6,0,0,0,0,0,0,0,0,0,0
+2021-2022,5688,Centrocampista,Harroui,Sassuolo,12,5.79,5.71,0,0,0,0,0,0,0,2,0,0
+2021-2022,5722,Centrocampista,Nguiamba,Spezia,2,6,5.75,0,0,0,0,0,0,0,1,0,0
+2021-2022,58,Centrocampista,Diawara,Roma,3,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2021-2022,400,Centrocampista,Dezi,Venezia,1,6,6,0,0,0,0,0,0,0,0,0,0
+2021-2022,470,Centrocampista,Strootman,Cagliari,9,5.67,5.44,0,0,0,0,0,0,0,4,0,0
+2021-2022,2213,Centrocampista,Cassata,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,2835,Centrocampista,Kingsley,Bologna,2,5.75,5.75,0,0,0,0,0,0,0,0,0,0
+2021-2022,4327,Centrocampista,Oliva,Cagliari,1,6,6,0,0,0,0,0,0,0,0,0,0
+2021-2022,4465,Centrocampista,Fagioli,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4501,Centrocampista,Obiang,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4885,Centrocampista,Villar,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4896,Centrocampista,Maldini,Milan,3,6.17,7,1,0,0,0,0,0,0,1,0,0
+2021-2022,4919,Centrocampista,Baldursson,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4935,Centrocampista,Ladinetti,Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4953,Centrocampista,Palumbo,Juventus,1,6,6,0,0,0,0,0,0,0,0,0,0
+2021-2022,4975,Centrocampista,Escalante,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4995,Centrocampista,Segre,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5286,Centrocampista,Akpa Akpro,Lazio,6,5.42,5.33,0,0,0,0,0,0,0,1,0,0
+2021-2022,5312,Centrocampista,Leo' Sena,Spezia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5346,Centrocampista,Rojas,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5420,Centrocampista,Darboe,Roma,1,6,6,0,0,0,0,0,0,0,0,0,0
+2021-2022,5444,Centrocampista,Cortinovis,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5452,Centrocampista,Damiani,Empoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5467,Centrocampista,Boultam,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5469,Centrocampista,Di Tacchio,Salernitana,16,5.5,5.28,0,0,0,0,0,0,0,3,0,1
+2021-2022,5476,Centrocampista,Kornvig,Spezia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5485,Centrocampista,Bjarkason,Venezia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5489,Centrocampista,Pecile,Venezia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5516,Centrocampista,Bianco,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5517,Centrocampista,Yepes,Sampdoria,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5519,Centrocampista,Sher,Spezia,1,6,6,0,0,0,0,0,0,0,0,0,0
+2021-2022,5684,Centrocampista,Toure' A.,Genoa,7,5.57,5.5,0,0,0,0,0,0,0,1,0,0
+2021-2022,5689,Centrocampista,Ihattaren,Sampdoria,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5725,Centrocampista,Kone B.,Torino,1,5,5,0,0,0,0,0,0,0,0,0,0
+2021-2022,5735,Centrocampista,Volpato,Roma,1,6.5,9.5,1,0,0,0,0,0,0,0,0,0
+2021-2022,5789,Centrocampista,Praszelik,Verona,1,6,6,0,0,0,0,0,0,0,0,0,0
+2021-2022,785,Attaccante,Immobile,Lazio,31,6.5,8.92,27,0,0,9,7,2,2,4,0,0
+2021-2022,2531,Attaccante,Lukaku,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,2610,Attaccante,Ronaldo,Juventus,1,6,5.5,0,0,0,0,0,0,0,1,0,0
+2021-2022,531,Attaccante,Berardi,Sassuolo,33,6.68,8.3,15,0,0,6,6,0,13,9,0,0
+2021-2022,2841,Attaccante,Vlahovic,Juventus,36,6.35,8.29,24,0,0,6,5,1,3,4,0,0
+2021-2022,2764,Attaccante,Martinez L.,Inter,33,6.33,7.97,21,0,0,6,3,3,3,6,0,0
+2021-2022,4661,Attaccante,Osimhen,Napoli,27,6.37,7.87,14,0,0,0,0,0,2,5,1,0
+2021-2022,4510,Attaccante,Rafael Leao,Milan,34,6.51,7.72,11,0,0,0,0,0,10,4,0,0
+2021-2022,410,Attaccante,Mertens,Napoli,24,6.42,7.81,11,0,0,1,1,0,1,2,0,0
+2021-2022,1958,Attaccante,Caprari,Verona,34,6.47,7.68,12,0,0,2,2,0,7,4,0,0
+2021-2022,2119,Attaccante,Deulofeu,Udinese,34,6.43,7.59,13,0,0,1,1,0,5,9,0,0
+2021-2022,2137,Attaccante,Scamacca,Sassuolo,33,6.15,7.5,16,0,0,1,1,0,0,7,0,0
+2021-2022,507,Attaccante,Muriel,Atalanta,26,6.19,7.52,9,0,0,2,2,0,8,1,0,0
+2021-2022,608,Attaccante,Zapata D.,Atalanta,24,6.42,7.77,10,0,0,3,3,0,4,3,0,0
+2021-2022,2061,Attaccante,Simeone,Verona,35,6.07,7.44,17,0,0,1,0,1,4,8,0,0
+2021-2022,2544,Attaccante,Abraham,Roma,37,6.3,7.66,17,0,0,3,3,0,4,9,0,0
+2021-2022,647,Attaccante,Dzeko,Inter,35,6.29,7.54,13,0,0,0,0,0,6,2,0,0
+2021-2022,4200,Attaccante,Giroud,Milan,29,6.19,7.36,11,0,0,2,2,0,3,4,0,0
+2021-2022,309,Attaccante,Dybala,Juventus,29,6.31,7.36,10,0,0,2,1,1,5,3,0,0
+2021-2022,4268,Attaccante,Arnautovic,Bologna,33,6.33,7.45,14,0,0,3,2,1,1,6,0,0
+2021-2022,409,Attaccante,Insigne,Napoli,32,6.19,7.06,11,0,0,13,9,4,8,2,0,0
+2021-2022,441,Attaccante,Belotti,Torino,22,6.2,7.32,8,0,0,3,3,0,1,1,0,0
+2021-2022,1874,Attaccante,Joao Pedro,Cagliari,37,6.01,6.97,13,0,0,4,3,1,4,9,0,0
+2021-2022,2038,Attaccante,Pinamonti,Empoli,36,6.04,7.1,13,0,0,4,4,0,1,4,0,0
+2021-2022,215,Attaccante,Verde,Spezia,33,6.15,6.94,8,0,0,2,1,1,6,2,0,0
+2021-2022,472,Attaccante,Destro,Genoa,27,5.87,6.83,9,0,0,0,0,0,1,4,0,0
+2021-2022,2489,Attaccante,Pedro,Lazio,32,6.17,7.06,9,0,0,0,0,0,4,5,0,0
+2021-2022,2530,Attaccante,Ibrahimovic,Milan,18,6.39,7.5,8,0,0,1,0,1,2,2,0,1
+2021-2022,4179,Attaccante,Gonzalez N.,Fiorentina,33,6.24,7,7,0,0,3,3,0,6,2,1,0
+2021-2022,505,Attaccante,Bonazzoli,Salernitana,31,6.15,7.02,10,0,0,2,2,0,0,6,0,0
+2021-2022,2719,Attaccante,Barrow,Bologna,33,5.98,6.71,6,0,0,0,0,0,6,0,0,0
+2021-2022,4184,Attaccante,Brekalo,Torino,31,6.11,6.84,7,0,0,0,0,0,2,1,0,0
+2021-2022,313,Attaccante,Morata,Juventus,35,6.04,6.86,9,0,0,1,1,0,4,5,0,0
+2021-2022,2819,Attaccante,Caputo,Sampdoria,38,5.87,6.75,11,0,0,1,0,1,4,1,0,0
+2021-2022,4371,Attaccante,Raspadori,Sassuolo,36,6.08,6.9,10,0,0,0,0,0,4,7,1,0
+2021-2022,5694,Attaccante,Beto,Udinese,28,6.11,7.27,11,0,0,0,0,0,0,1,0,0
+2021-2022,5786,Attaccante,Cabral,Fiorentina,12,6,6.54,2,0,0,0,0,0,1,1,0,0
+2021-2022,495,Attaccante,Correa,Inter,26,6,6.69,6,0,0,0,0,0,1,2,0,0
+2021-2022,4517,Attaccante,Lozano,Napoli,29,6.03,6.67,5,0,0,0,0,0,5,3,0,0
+2021-2022,5676,Attaccante,Success,Udinese,19,6.16,6.71,2,0,0,0,0,0,6,1,1,0
+2021-2022,2475,Attaccante,Sanchez,Inter,22,6.05,6.82,5,0,0,0,0,0,2,0,0,0
+2021-2022,479,Attaccante,Sanabria,Torino,25,6.04,6.74,6,0,0,0,0,0,1,3,0,0
+2021-2022,1857,Attaccante,Di Francesco F.,Empoli,25,5.92,6.48,5,0,0,0,0,0,0,2,0,0
+2021-2022,5529,Attaccante,Henry,Venezia,31,5.95,6.66,9,0,0,0,0,0,2,4,1,2
+2021-2022,5471,Attaccante,Djuric,Salernitana,32,6.06,6.56,5,0,0,1,1,0,4,6,0,0
+2021-2022,407,Attaccante,Gabbiadini,Sampdoria,16,6.16,7.31,6,0,0,0,0,0,2,3,0,0
+2021-2022,536,Attaccante,Politano,Napoli,32,6.09,6.45,3,0,0,0,0,0,4,3,0,0
+2021-2022,652,Attaccante,Kalinic,Verona,13,6.04,6.85,4,0,0,0,0,0,1,3,1,0
+2021-2022,2097,Attaccante,Kean,Juventus,24,5.94,6.56,5,0,0,0,0,0,2,5,0,0
+2021-2022,5311,Attaccante,Shomurodov,Roma,21,5.98,6.57,3,0,0,0,0,0,4,2,0,0
+2021-2022,5515,Attaccante,Okereke,Venezia,29,5.9,6.5,7,0,0,0,0,0,0,5,1,0
+2021-2022,177,Attaccante,Ilicic,Atalanta,17,6.32,6.82,3,0,0,1,0,1,3,1,0,0
+2021-2022,186,Attaccante,Rebic,Milan,22,6.14,6.45,2,0,0,0,0,0,2,2,0,0
+2021-2022,5292,Attaccante,Lammers,Atalanta,1,6,6,0,0,0,0,0,0,0,0,0,0
+2021-2022,247,Attaccante,Pavoletti,Cagliari,28,5.8,6.23,5,0,0,0,0,0,1,9,0,0
+2021-2022,568,Attaccante,Quagliarella,Sampdoria,30,5.73,6.17,4,0,0,1,1,0,2,2,0,0
+2021-2022,2756,Attaccante,Piatek,Fiorentina,13,5.88,6.35,3,0,0,1,0,1,0,0,0,0
+2021-2022,2826,Attaccante,Pussetto,Udinese,25,5.86,6.36,4,0,0,1,1,0,2,4,0,0
+2021-2022,4324,Attaccante,Okaka,Udinese,1,6.5,6.5,0,0,0,0,0,0,0,1,0,0
+2021-2022,90,Attaccante,Lasagna,Verona,27,5.85,6.17,2,0,0,0,0,0,3,1,0,0
+2021-2022,4477,Attaccante,La Mantia,Empoli,13,5.96,6.42,2,0,0,0,0,0,0,0,0,0
+2021-2022,383,Attaccante,Petagna,Napoli,14,5.96,6.64,3,0,0,0,0,0,1,1,0,0
+2021-2022,649,Attaccante,Manaj,Spezia,29,5.83,6.09,5,0,0,3,2,1,0,9,0,0
+2021-2022,795,Attaccante,El Shaarawy,Roma,24,5.88,6.23,3,0,0,0,0,0,0,1,0,0
+2021-2022,1998,Attaccante,Pjaca,Torino,21,5.95,6.38,3,0,0,0,0,0,0,0,0,0
+2021-2022,4992,Attaccante,Gyasi,Spezia,36,5.76,6.07,6,0,0,0,0,0,0,10,0,1
+2021-2022,5797,Attaccante,Nsame,Venezia,10,5.8,5.9,0,0,0,0,0,0,1,0,0,0
+2021-2022,311,Attaccante,Llorente,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,345,Attaccante,Keita B.,Cagliari,20,5.78,6.22,3,0,0,0,0,0,1,2,0,0
+2021-2022,643,Attaccante,Defrel,Sassuolo,31,5.82,6.05,2,0,0,0,0,0,2,3,0,0
+2021-2022,2155,Attaccante,Cutrone,Empoli,24,5.77,6.12,3,0,0,0,0,0,0,1,0,0
+2021-2022,2409,Attaccante,Ribery,Salernitana,23,6,6.02,0,0,0,0,0,0,2,3,0,0
+2021-2022,5755,Attaccante,Yeboah,Genoa,17,5.65,5.65,0,0,0,0,0,0,1,2,0,0
+2021-2022,537,Attaccante,Sansone,Bologna,23,6,6.28,2,0,0,0,0,0,3,6,0,0
+2021-2022,1997,Attaccante,Simy,Salernitana,17,5.5,5.74,1,0,0,0,0,0,1,0,0,0
+2021-2022,2284,Attaccante,Caicedo,Inter,9,6.22,6.72,1,0,0,0,0,0,2,1,0,0
+2021-2022,2323,Attaccante,Nani,Venezia,6,5.67,5.75,0,0,0,0,0,0,1,1,0,0
+2021-2022,2832,Attaccante,Boga,Atalanta,26,5.83,5.9,0,0,0,0,0,0,2,0,0,0
+2021-2022,4507,Attaccante,Tutino,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5714,Attaccante,Gondo,Salernitana,14,5.89,6.07,1,0,0,0,0,0,0,1,0,0
+2021-2022,5796,Attaccante,Supryaga,Sampdoria,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2021-2022,5801,Attaccante,Mousset,Salernitana,4,5.5,5.5,0,0,0,0,0,0,1,2,0,0
+2021-2022,475,Attaccante,Iago Falque,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,1943,Attaccante,Nestorovski,Udinese,4,6,6.75,1,0,0,0,0,0,0,1,0,0
+2021-2022,2762,Attaccante,Kouame',Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5004,Attaccante,Forestieri,Udinese,3,6.83,9,2,0,0,0,0,0,1,1,0,0
+2021-2022,5496,Attaccante,Johnsen,Venezia,25,5.8,5.96,1,0,0,0,0,0,2,2,0,0
+2021-2022,5807,Attaccante,Jovane,Lazio,3,5.67,6.67,1,0,0,0,0,0,0,0,0,0
+2021-2022,245,Attaccante,Pandev,Genoa,19,5.68,5.71,0,0,0,0,0,0,1,1,0,0
+2021-2022,2103,Attaccante,Pellegri,Torino,11,5.91,6.14,1,0,0,0,0,0,0,1,0,0
+2021-2022,4884,Attaccante,Carles Perez,Roma,14,6.04,6.25,1,0,0,0,0,0,1,2,0,0
+2021-2022,5336,Attaccante,Nzola,Spezia,18,5.69,6.03,2,0,0,0,0,0,1,2,0,0
+2021-2022,5454,Attaccante,Mancuso,Empoli,7,5.64,6.07,1,0,0,0,0,0,0,0,0,0
+2021-2022,5808,Attaccante,Giovinco,Sampdoria,2,5.75,5.75,0,0,0,0,0,0,0,0,0,0
+2021-2022,5233,Attaccante,Mayoral,Roma,2,5.75,5.75,0,0,0,0,0,0,0,0,0,0
+2021-2022,5310,Attaccante,Hauge,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5322,Attaccante,Mihaila,Atalanta,2,5.25,5.25,0,0,0,0,0,0,0,0,0,0
+2021-2022,5494,Attaccante,Di Mariano,Venezia,1,5,5,0,0,0,0,0,0,0,0,0,0
+2021-2022,5500,Attaccante,Cancellieri,Verona,5,6,6.5,1,0,0,0,0,0,0,1,0,0
+2021-2022,5506,Attaccante,Ekuban,Genoa,30,5.55,5.68,1,0,0,0,0,0,2,2,0,0
+2021-2022,5523,Attaccante,Bianchi F.,Genoa,6,5.58,6.08,1,0,0,0,0,0,0,0,0,0
+2021-2022,5673,Attaccante,Antiste,Spezia,16,5.75,5.94,1,0,0,0,0,0,0,0,0,0
+2021-2022,5802,Attaccante,Mikael,Salernitana,4,6,6,0,0,0,0,0,0,0,0,0,0
+2021-2022,306,Attaccante,Cerri,Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,447,Attaccante,La Gumina,Sampdoria,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4359,Attaccante,Piccoli,Genoa,9,5.72,6.06,1,0,0,0,0,0,0,0,0,0
+2021-2022,5495,Attaccante,Forte,Venezia,8,5.81,6,1,0,0,0,0,0,0,3,0,0
+2021-2022,5728,Attaccante,Afena-Gyan,Roma,14,5.79,6.04,2,0,0,0,0,0,0,3,1,0
+2021-2022,819,Attaccante,Favilli,Genoa,1,5,5,0,0,0,0,0,0,0,0,0,0
+2021-2022,1879,Attaccante,Farias,Cagliari,3,5.67,5.67,0,0,0,0,0,0,0,0,0,0
+2021-2022,4346,Attaccante,Millico,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4430,Attaccante,Cristo,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4500,Attaccante,Di Carmine,Verona,1,5,4.5,0,0,0,0,0,0,0,1,0,0
+2021-2022,315,Attaccante,Zaza,Torino,4,5.88,5.88,0,0,0,0,0,0,0,1,0,0
+2021-2022,2195,Attaccante,Ounas,Napoli,9,6.06,6,0,0,0,0,0,0,0,1,0,0
+2021-2022,2304,Attaccante,Salcedo E.,Spezia,8,5.62,5.56,0,0,0,0,0,0,0,1,0,0
+2021-2022,2743,Attaccante,Santander,Bologna,2,6.25,7.5,1,0,0,0,0,0,0,1,0,0
+2021-2022,2750,Attaccante,Mraz,Spezia,2,5.75,5.75,0,0,0,0,0,0,0,0,0,0
+2021-2022,5060,Attaccante,Ake' M.,Juventus,2,6,5.75,0,0,0,0,0,0,0,1,0,0
+2021-2022,5360,Attaccante,Vergani,Salernitana,1,5,5,0,0,0,0,0,0,0,0,0,0
+2021-2022,5439,Attaccante,Kallon,Genoa,13,5.73,5.69,0,0,0,0,0,0,1,3,0,0
+2021-2022,5460,Attaccante,Satriano,Inter,2,6,6,0,0,0,0,0,0,0,0,0,0
+2021-2022,5477,Attaccante,Warming,Torino,2,6,6,0,0,0,0,0,0,0,0,0,0
+2021-2022,5525,Attaccante,Galazzi,Venezia,1,6,6,0,0,0,0,0,0,0,0,0,0
+2021-2022,5690,Attaccante,Strelec,Spezia,9,5.39,5.72,1,0,0,0,0,0,0,0,0,0
+2021-2022,5716,Attaccante,Podgoreanu,Spezia,4,5.88,6.12,0,0,0,0,0,0,1,0,0,0
+2021-2022,5776,Attaccante,Ceide,Sassuolo,1,5,5,0,0,0,0,0,0,0,0,0,0
+2021-2022,5806,Attaccante,Seck,Torino,3,6,6,0,0,0,0,0,0,0,0,0,0
+2021-2022,5814,Attaccante,Cisse' M.,Atalanta,1,7,10,1,0,0,0,0,0,0,0,0,0
+2021-2022,532,Attaccante,Falcinelli,Bologna,2,5.75,5.75,0,0,0,0,0,0,0,0,0,0
+2021-2022,1839,Attaccante,Edera,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,2073,Attaccante,Ragusa,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,2654,Attaccante,Ceter,Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4435,Attaccante,Colley E.,Spezia,8,5.62,5.56,0,0,0,0,0,0,0,1,0,0
+2021-2022,4453,Attaccante,Torregrossa,Sampdoria,3,5.83,5.83,0,0,0,0,0,0,0,1,0,0
+2021-2022,4483,Attaccante,Cangiano,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4936,Attaccante,Manzari,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,4938,Attaccante,Moro,Lazio,8,5.88,6,0,0,0,0,0,0,1,0,0,0
+2021-2022,4940,Attaccante,Gagliano,Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5012,Attaccante,Muriqi,Lazio,4,5.12,5,0,0,0,0,0,0,0,1,0,0
+2021-2022,5378,Attaccante,Oddei,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5391,Attaccante,Kokorin,Fiorentina,2,6,6,0,0,0,0,0,0,0,1,0,0
+2021-2022,5446,Attaccante,Van Hooijdonk,Bologna,1,6,6,0,0,0,0,0,0,0,0,0,0
+2021-2022,5455,Attaccante,Moreo,Empoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5458,Attaccante,Munteanu,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5459,Attaccante,Buksa,Genoa,1,5,5,0,0,0,0,0,0,0,0,0,0
+2021-2022,5472,Attaccante,Kristoffersen,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5493,Attaccante,Bocalon,Venezia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5505,Attaccante,Kaio Jorge,Juventus,2,5.75,5.75,0,0,0,0,0,0,0,0,0,0
+2021-2022,5512,Attaccante,De Luca,Sampdoria,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-2022,5785,Attaccante,Lazetic,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,350,Portiere,Donnarumma G.,Milan,37,6.2,5.24,0,38,1,0,0,0,0,1,0,0
+2020-2021,453,Portiere,Szczesny,Juventus,30,6.2,5.37,0,32,2,0,0,0,1,0,0,0
+2020-2021,250,Portiere,Handanovic,Inter,37,6.01,5.22,0,33,2,0,0,0,0,1,0,1
+2020-2021,610,Portiere,Gollini,Atalanta,25,6.1,5.26,0,26,2,0,0,0,0,0,1,0
+2020-2021,761,Portiere,Audero,Sampdoria,37,6.35,5.08,0,54,2,0,0,0,1,0,0,0
+2020-2021,509,Portiere,Consigli,Sassuolo,37,6.34,4.89,0,56,1,0,0,0,0,1,0,0
+2020-2021,572,Portiere,Meret,Napoli,22,6.14,4.82,0,29,0,0,0,0,0,0,0,0
+2020-2021,218,Portiere,Perin,Genoa,32,6.25,4.83,0,44,0,0,0,0,0,1,1,0
+2020-2021,1917,Portiere,Dragowski,Fiorentina,36,6.22,4.86,0,55,2,0,0,0,0,0,0,0
+2020-2021,2178,Portiere,Cragno,Cagliari,34,6.41,4.84,0,53,0,0,0,0,0,1,0,0
+2020-2021,387,Portiere,Reina,Lazio,29,6.09,4.66,0,41,0,0,0,0,0,1,0,0
+2020-2021,2211,Portiere,Silvestri,Verona,34,6.12,4.81,0,42,0,0,0,0,0,1,0,1
+2020-2021,2468,Portiere,Ospina,Napoli,16,6.16,5.41,0,12,0,0,0,0,1,2,0,0
+2020-2021,133,Portiere,Skorupski,Bologna,28,6.16,4.71,0,46,2,0,0,0,0,1,0,0
+2020-2021,2792,Portiere,Musso,Udinese,35,6.1,4.57,0,51,0,0,0,0,0,5,0,0
+2020-2021,4,Portiere,Sportiello,Atalanta,15,6.13,4.93,0,21,1,0,0,0,0,0,0,0
+2020-2021,2815,Portiere,Terracciano,Fiorentina,4,6.5,6.25,0,4,1,0,0,0,0,0,0,0
+2020-2021,4419,Portiere,Pau Lopez,Roma,21,6.05,4.67,0,29,0,0,0,0,0,0,0,0
+2020-2021,282,Portiere,Buffon,Juventus,8,6.44,6.19,0,5,1,0,0,0,0,0,0,0
+2020-2021,1934,Portiere,Strakosha,Lazio,9,6.06,4.44,0,14,0,0,0,0,0,1,0,0
+2020-2021,2814,Portiere,Provedel,Spezia,29,6.1,4.29,0,55,1,0,0,0,0,1,0,0
+2020-2021,4964,Portiere,Vicario,Cagliari,4,6.5,5,0,6,0,0,0,0,0,0,0,0
+2020-2021,41,Portiere,Mirante,Roma,13,6.04,4.73,0,19,1,0,0,0,0,2,0,0
+2020-2021,1843,Portiere,Radu I.,Inter,2,6,5.5,0,1,0,0,0,0,0,0,0,0
+2020-2021,2179,Portiere,Sirigu,Torino,32,6.02,4.08,0,62,0,0,0,0,0,0,0,0
+2020-2021,2781,Portiere,Fuzato,Roma,5,6.2,4.8,0,7,0,0,0,0,0,0,0,0
+2020-2021,4957,Portiere,Montipo',Benevento,37,6.01,4,0,74,1,0,0,0,0,3,0,1
+2020-2021,4996,Portiere,Pandur,Verona,4,6.12,4.62,0,6,0,0,0,0,0,0,0,0
+2020-2021,159,Portiere,Sepe,Parma,36,5.99,3.88,0,76,0,0,0,0,0,0,0,0
+2020-2021,611,Portiere,Rafael,Spezia,3,6.83,5.5,0,5,0,0,0,0,1,0,0,0
+2020-2021,1890,Portiere,Festa,Crotone,1,7,6,0,1,0,0,0,0,0,0,0,0
+2020-2021,4491,Portiere,Berardi A.,Verona,1,6,6,0,0,0,0,0,0,0,0,0,0
+2020-2021,4520,Portiere,Letica,Sampdoria,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2020-2021,5289,Portiere,Crespi,Crotone,1,6,6,0,0,0,0,0,0,0,0,0,0
+2020-2021,220,Portiere,Ujkani,Torino,1,6,5,0,1,0,0,0,0,0,0,0,0
+2020-2021,543,Portiere,Padelli,Inter,1,6,5,0,1,0,0,0,0,0,0,0,0
+2020-2021,1889,Portiere,Cordaz,Crotone,36,6.15,3.61,0,91,0,0,0,0,0,1,0,0
+2020-2021,1930,Portiere,Pinsoglio,Juventus,1,6,5,0,1,0,0,0,0,0,0,0,0
+2020-2021,2170,Portiere,Milinkovic-Savic V.,Torino,5,6,4.8,0,6,0,0,0,0,0,0,0,0
+2020-2021,5005,Portiere,Zoet,Spezia,7,6,4.21,0,12,0,0,0,0,0,1,0,0
+2020-2021,5320,Portiere,Paleari,Genoa,3,6.17,5.17,0,3,0,0,0,0,0,0,0,0
+2020-2021,3,Portiere,Radunovic,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,40,Portiere,Da Costa,Bologna,6,5.5,3.83,0,9,0,0,0,0,0,2,0,0
+2020-2021,42,Portiere,Sarr M.,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,160,Portiere,Tatarusanu,Milan,1,4.5,1.5,0,3,0,0,0,0,0,0,0,0
+2020-2021,216,Portiere,Donnarumma An.,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,318,Portiere,Marchetti,Genoa,4,5.88,3.12,0,11,0,0,0,0,0,0,0,0
+2020-2021,412,Portiere,Colombi,Parma,2,6.25,2.75,0,7,0,0,0,0,0,0,0,0
+2020-2021,510,Portiere,Pegolo,Sassuolo,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2020-2021,574,Portiere,Scuffet,Udinese,1,5,3,0,2,0,0,0,0,0,0,0,0
+2020-2021,654,Portiere,Alastra,Parma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,673,Portiere,Perisan,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,1921,Portiere,Zima L.,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,1946,Portiere,Aresti,Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,2271,Portiere,Nicolas,Udinese,2,5.5,3,0,5,0,0,0,0,0,0,0,0
+2020-2021,2297,Portiere,Rossi F.,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,2722,Portiere,Ravaglia F.,Bologna,4,5.88,3.38,0,10,0,0,0,0,0,0,0,0
+2020-2021,2770,Portiere,Proto,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,2790,Portiere,Rosati,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,2798,Portiere,Dini,Parma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,2845,Portiere,Contini,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4351,Portiere,Brancolini,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4431,Portiere,Carnesecchi,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4523,Portiere,Avogadri,Sampdoria,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4867,Portiere,Turati,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4883,Portiere,Breza,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4929,Portiere,Ciocci,Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4955,Portiere,Gori P.,Benevento,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4956,Portiere,Manfredini,Benevento,1,5,4,0,1,0,0,0,0,0,0,0,0
+2020-2021,4977,Portiere,Ravaglia,Sampdoria,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4980,Portiere,Desjardins,Spezia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4981,Portiere,Krapikas,Spezia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,5304,Portiere,Boer,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,5306,Portiere,Alia,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,5333,Portiere,Gasparini,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,5338,Portiere,Rinaldi,Parma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,5345,Portiere,Farelli,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4160,Difensore,Hakimi,Inter,35,6.4,7.14,7,0,0,0,0,0,8,6,0,0
+2020-2021,2160,Difensore,Gosens,Atalanta,32,6.27,7.28,11,0,0,0,0,0,6,7,1,1
+2020-2021,4292,Difensore,Hernandez T.,Milan,33,6.17,6.82,7,0,0,0,0,0,5,9,0,0
+2020-2021,554,Difensore,Zappacosta,Genoa,25,6.28,6.78,4,0,0,0,0,0,2,3,0,0
+2020-2021,798,Difensore,Skriniar,Inter,32,6.36,6.62,3,0,0,0,0,0,0,1,0,0
+2020-2021,254,Difensore,Dimarco,Verona,35,6.17,6.6,5,0,0,0,0,0,3,6,0,0
+2020-2021,697,Difensore,Cuadrado,Juventus,29,6.34,6.67,2,0,0,1,1,0,9,9,1,0
+2020-2021,2788,Difensore,Bremer,Torino,33,6.06,6.48,5,0,0,0,0,0,0,2,0,0
+2020-2021,4237,Difensore,Danilo,Juventus,34,6.32,6.44,1,0,0,0,0,0,4,6,0,0
+2020-2021,4307,Difensore,Romero,Atalanta,31,6.32,6.42,2,0,0,0,0,0,2,10,0,0
+2020-2021,581,Difensore,Faraoni,Verona,34,6.09,6.47,4,0,0,0,0,0,5,8,0,0
+2020-2021,2180,Difensore,Karsdorp,Roma,34,6.01,6.25,1,0,0,0,0,0,6,2,0,0
+2020-2021,2296,Difensore,Mancini,Roma,33,6.12,6.39,4,0,0,0,0,0,2,10,0,0
+2020-2021,2525,Difensore,Darmian,Inter,23,6.17,6.61,3,0,0,0,0,0,3,5,0,0
+2020-2021,322,Difensore,De Vrij,Inter,32,6.25,6.31,1,0,0,0,0,0,0,2,0,0
+2020-2021,706,Difensore,Ansaldi,Torino,27,5.93,6.2,1,0,0,1,1,0,5,1,0,0
+2020-2021,357,Difensore,Calabria,Milan,32,6.16,6.2,2,0,0,0,0,0,1,7,0,1
+2020-2021,1852,Difensore,Spinazzola,Roma,26,6.27,6.58,2,0,0,0,0,0,4,0,0,1
+2020-2021,2280,Difensore,Nuytinck,Udinese,20,6.3,6.42,1,0,0,0,0,0,0,1,0,0
+2020-2021,2633,Difensore,Kjaer,Milan,28,6.21,6.2,0,0,0,0,0,0,1,3,0,0
+2020-2021,4428,Difensore,De Ligt,Juventus,26,6.15,6.23,1,0,0,0,0,0,1,4,0,0
+2020-2021,4751,Difensore,Tomori,Milan,17,6.18,6.35,1,0,0,0,0,0,0,0,0,0
+2020-2021,4998,Difensore,Molina N.,Udinese,26,5.9,6.31,2,0,0,0,0,0,5,1,0,0
+2020-2021,226,Difensore,Izzo,Torino,25,5.92,6.1,2,0,0,0,0,0,0,3,0,0
+2020-2021,662,Difensore,Alex Sandro,Juventus,24,6.02,6.19,2,0,0,0,0,0,1,2,0,1
+2020-2021,2120,Difensore,Bastoni,Inter,33,6,5.97,0,0,0,0,0,0,2,6,0,0
+2020-2021,2816,Difensore,Di Lorenzo,Napoli,36,6.06,6.24,3,0,0,0,0,0,3,11,0,0
+2020-2021,4895,Difensore,Yoshida,Sampdoria,29,6.14,6.24,1,0,0,0,0,0,2,5,0,0
+2020-2021,74,Difensore,Letizia,Benevento,22,6.05,6.45,3,0,0,0,0,0,1,2,0,0
+2020-2021,252,Difensore,Biraghi,Fiorentina,35,5.86,5.97,1,0,0,0,0,0,5,8,0,0
+2020-2021,787,Difensore,Djimsiti,Atalanta,33,6.06,6,0,0,0,0,0,0,2,8,0,0
+2020-2021,1895,Difensore,Ferrari G.,Sassuolo,34,6.07,6.03,0,0,0,0,0,0,2,7,0,0
+2020-2021,2130,Difensore,Hateboer,Atalanta,22,6.07,6.32,2,0,0,0,0,0,1,3,0,0
+2020-2021,2197,Difensore,Castagne,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4421,Difensore,Augello,Sampdoria,37,5.86,5.97,1,0,0,0,0,0,3,2,1,0
+2020-2021,253,Difensore,D'ambrosio,Inter,8,6.06,7.12,3,0,0,0,0,0,0,2,0,0
+2020-2021,286,Difensore,Bonucci,Juventus,25,5.86,6.04,2,0,0,0,0,0,0,3,0,0
+2020-2021,513,Difensore,Acerbi,Lazio,32,6.02,5.91,0,0,0,0,0,0,1,7,1,0
+2020-2021,770,Difensore,Pezzella Giu.,Parma,24,5.98,6.12,1,0,0,0,0,0,4,7,0,0
+2020-2021,2164,Difensore,Milenkovic,Fiorentina,34,5.87,6,3,0,0,0,0,0,0,7,1,0
+2020-2021,2181,Difensore,Palomino,Atalanta,31,5.97,6.05,1,0,0,0,0,0,1,3,0,0
+2020-2021,2653,Difensore,Lykogiannis,Cagliari,30,5.78,6.08,4,0,0,0,0,0,2,6,2,0
+2020-2021,2784,Difensore,Colley,Sampdoria,29,6.03,6.14,2,0,0,0,0,0,0,6,0,0
+2020-2021,4409,Difensore,Rrahmani,Napoli,14,6.07,6.21,1,0,0,0,0,0,0,2,0,0
+2020-2021,5332,Difensore,Bastoni S.,Spezia,21,5.9,6.17,1,0,0,0,0,0,6,7,0,0
+2020-2021,392,Difensore,Koulibaly,Napoli,26,6.1,5.9,0,0,0,0,0,0,0,8,1,0
+2020-2021,464,Difensore,Florenzi,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,695,Difensore,Toloi,Atalanta,31,5.84,5.87,2,0,0,0,0,0,0,10,0,0
+2020-2021,2315,Difensore,Stryger Larsen,Udinese,32,5.86,6.05,2,0,0,0,0,0,0,0,0,0
+2020-2021,2572,Difensore,Godin,Cagliari,28,5.95,6,1,0,0,0,0,0,0,3,0,0
+2020-2021,2739,Difensore,Reca,Crotone,30,5.9,6.05,2,0,0,0,0,0,2,7,0,0
+2020-2021,2747,Difensore,Paz,Bologna,6,6.08,6.58,1,0,0,0,0,0,0,0,0,0
+2020-2021,2759,Difensore,Criscito,Genoa,22,6.05,6.05,1,0,0,1,1,0,0,6,0,0
+2020-2021,4422,Difensore,Tomiyasu,Bologna,31,6.05,6.11,2,0,0,0,0,0,0,4,0,1
+2020-2021,4899,Difensore,Singo,Torino,27,5.93,6.04,1,0,0,0,0,0,2,2,1,0
+2020-2021,140,Difensore,Hysaj,Napoli,22,5.95,5.95,0,0,0,0,0,0,1,2,0,0
+2020-2021,329,Difensore,Radu,Lazio,31,5.84,5.9,0,0,0,0,0,0,3,2,0,0
+2020-2021,459,Difensore,Manolas,Napoli,29,5.95,5.86,0,0,0,0,0,0,0,5,0,0
+2020-2021,790,Difensore,Samir,Udinese,28,6.02,6.02,1,0,0,0,0,0,0,6,0,0
+2020-2021,2104,Difensore,Bereszynski,Sampdoria,31,5.81,5.87,1,0,0,0,0,0,0,2,0,0
+2020-2021,2192,Difensore,Bonifazi,Udinese,28,5.93,5.86,0,0,0,0,0,0,0,4,0,0
+2020-2021,2214,Difensore,Kolarov,Inter,4,5.12,5.38,0,0,0,0,0,0,1,0,0,0
+2020-2021,2707,Difensore,Young,Inter,23,6,6.22,1,0,0,0,0,0,4,4,0,0
+2020-2021,2758,Difensore,Gunter,Verona,25,6.06,6.06,0,0,0,0,0,0,2,4,0,0
+2020-2021,4242,Difensore,Dalot,Milan,17,5.97,6.09,1,0,0,0,0,0,1,4,0,0
+2020-2021,4412,Difensore,Rodrigo Becao,Udinese,33,5.83,5.85,1,0,0,0,0,0,0,5,0,0
+2020-2021,4461,Difensore,Zappa,Cagliari,31,5.84,5.92,0,0,0,0,0,0,4,3,0,0
+2020-2021,4521,Difensore,Muldur,Sassuolo,27,5.83,5.83,0,0,0,0,0,0,1,2,0,0
+2020-2021,4891,Difensore,Soumaoro,Bologna,20,5.9,5.95,1,0,0,0,0,0,0,4,0,0
+2020-2021,4982,Difensore,Erlic,Spezia,22,5.89,6.2,3,0,0,0,0,0,1,6,0,0
+2020-2021,4994,Difensore,Vojvoda,Torino,19,5.74,6.05,2,0,0,0,0,0,2,4,0,0
+2020-2021,5375,Difensore,Maehle,Atalanta,19,5.95,6.05,0,0,0,0,0,0,2,0,0,0
+2020-2021,244,Difensore,Ghiglione,Genoa,23,5.74,5.83,0,0,0,0,0,0,4,4,0,0
+2020-2021,261,Difensore,Ranocchia,Inter,8,6.25,6.25,0,0,0,0,0,0,1,2,0,0
+2020-2021,287,Difensore,Caceres,Fiorentina,26,5.71,5.94,2,0,0,0,0,0,2,4,0,0
+2020-2021,288,Difensore,Chiellini,Juventus,16,6,5.81,0,0,0,0,0,0,1,4,0,1
+2020-2021,294,Difensore,Rugani,Cagliari,12,5.79,6.04,1,0,0,0,0,0,1,2,0,0
+2020-2021,460,Difensore,Romagnoli,Milan,22,5.98,6,1,0,0,0,0,0,1,7,0,0
+2020-2021,487,Difensore,De Silvestri,Bologna,28,5.7,5.84,2,0,0,0,0,0,0,4,0,0
+2020-2021,546,Difensore,Bruno Peres,Roma,26,5.71,5.79,1,0,0,0,0,0,2,6,0,0
+2020-2021,640,Difensore,Chiriches,Sassuolo,23,5.74,5.83,2,0,0,0,0,0,1,6,0,1
+2020-2021,729,Difensore,Pereira P.,Crotone,34,5.72,5.75,0,0,0,0,0,0,4,6,0,0
+2020-2021,2006,Difensore,Lirola,Fiorentina,11,5.82,5.77,0,0,0,0,0,0,1,3,0,0
+2020-2021,2309,Difensore,Pezzella Ger.,Fiorentina,32,5.75,5.77,1,0,0,0,0,0,0,5,0,0
+2020-2021,4426,Difensore,Toljan,Sassuolo,24,5.75,5.79,0,0,0,0,0,0,2,2,0,0
+2020-2021,4958,Difensore,Caldirola,Benevento,22,5.8,5.95,2,0,0,0,0,0,0,3,1,0
+2020-2021,5010,Difensore,Ismajli,Spezia,16,5.94,6.09,1,0,0,0,0,0,1,1,1,0
+2020-2021,73,Difensore,Gagliolo,Parma,26,5.71,5.83,2,0,0,0,0,0,0,6,0,0
+2020-2021,142,Difensore,Mario Rui,Napoli,24,5.94,5.92,0,0,0,0,0,0,1,4,0,0
+2020-2021,144,Difensore,Tonelli,Sampdoria,22,5.91,5.8,1,0,0,0,0,0,0,11,0,0
+2020-2021,358,Difensore,De Sciglio,Juventus,1,6,6,0,0,0,0,0,0,0,0,0,0
+2020-2021,548,Difensore,Glik,Benevento,36,5.76,5.78,2,0,0,0,0,0,1,7,1,1
+2020-2021,1891,Difensore,Ceccherini,Verona,28,5.95,5.7,0,0,0,0,0,0,0,10,0,1
+2020-2021,2062,Difensore,Bastos,Lazio,2,6,6,0,0,0,0,0,0,0,0,0,0
+2020-2021,2252,Difensore,Marchizza,Spezia,22,5.75,5.75,0,0,0,0,0,0,2,4,0,0
+2020-2021,2318,Difensore,Rogerio,Sassuolo,27,5.96,5.89,0,0,0,0,0,0,0,4,0,0
+2020-2021,2769,Difensore,Magnani,Verona,23,6.02,5.76,0,0,0,0,0,0,0,8,0,1
+2020-2021,2865,Difensore,Aina,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,2869,Difensore,Djidji,Crotone,19,5.63,5.68,1,0,0,0,0,0,0,4,0,0
+2020-2021,2870,Difensore,Troost-Ekong,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4323,Difensore,Zeegelaar,Udinese,24,5.69,5.69,1,0,0,0,0,0,0,6,0,0
+2020-2021,4493,Difensore,Dawidowicz,Verona,27,5.89,5.74,0,0,0,0,0,0,0,9,0,0
+2020-2021,4530,Difensore,Kyriakopoulos,Sassuolo,21,5.83,5.9,1,0,0,0,0,0,0,1,1,0
+2020-2021,5323,Difensore,Martinez Quarta,Fiorentina,19,5.95,5.95,1,0,0,0,0,0,0,4,1,0
+2020-2021,15,Difensore,Masiello,Genoa,30,5.77,5.67,0,0,0,0,0,0,0,6,0,0
+2020-2021,134,Difensore,Barba,Benevento,32,5.67,5.55,0,0,0,0,0,0,2,8,0,1
+2020-2021,295,Difensore,Asamoah,Cagliari,7,5.93,5.93,0,0,0,0,0,0,0,0,0,0
+2020-2021,418,Difensore,Goldaniga,Genoa,25,5.86,5.74,0,0,0,0,0,0,1,8,0,0
+2020-2021,425,Difensore,Terzi,Spezia,24,5.73,5.71,1,0,0,0,0,0,1,7,1,0
+2020-2021,1866,Difensore,Ceppitelli,Cagliari,19,5.76,5.68,0,0,0,0,0,0,0,3,0,0
+2020-2021,2016,Difensore,Fazio,Roma,5,5.5,5.9,1,0,0,0,0,0,0,2,0,0
+2020-2021,2083,Difensore,Biraschi,Genoa,13,5.81,5.73,0,0,0,0,0,0,0,2,0,0
+2020-2021,2141,Difensore,Depaoli,Benevento,21,5.38,5.24,0,0,0,0,0,0,0,2,0,1
+2020-2021,2174,Difensore,Venuti,Fiorentina,25,5.64,5.56,0,0,0,0,0,0,1,3,0,1
+2020-2021,2289,Difensore,Dalbert,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4245,Difensore,Smalling,Roma,15,5.97,5.93,0,0,0,0,0,0,1,3,0,0
+2020-2021,4331,Difensore,Ibanez,Roma,30,5.98,5.83,0,0,0,0,0,0,1,5,1,1
+2020-2021,4332,Difensore,Demiral,Juventus,11,6.05,6.09,0,0,0,0,0,0,1,1,0,0
+2020-2021,4494,Difensore,Empereur,Verona,4,5.88,5.75,0,0,0,0,0,0,0,1,0,0
+2020-2021,4495,Difensore,Kumbulla,Roma,19,5.84,5.82,1,0,0,0,0,0,0,7,0,0
+2020-2021,4881,Difensore,Czyborra,Genoa,17,5.74,5.85,1,0,0,0,0,0,0,2,0,0
+2020-2021,4925,Difensore,Carboni,Cagliari,14,5.79,5.79,0,0,0,0,0,0,1,2,0,0
+2020-2021,4967,Difensore,Golemic,Crotone,28,5.43,5.54,2,0,0,1,1,0,0,4,1,0
+2020-2021,4999,Difensore,Ouwejan,Udinese,11,6,6.18,0,0,0,0,0,0,2,0,0,0
+2020-2021,5000,Difensore,Magallan,Crotone,28,5.54,5.5,1,0,0,0,0,0,1,10,0,0
+2020-2021,45,Difensore,Ferrari A.,Sampdoria,10,6,5.85,0,0,0,0,0,0,0,3,0,0
+2020-2021,84,Difensore,Marrone,Crotone,19,5.37,5.05,0,0,0,0,0,0,0,8,0,1
+2020-2021,139,Difensore,Dermaku,Parma,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2020-2021,141,Difensore,Laurini,Parma,12,5.5,5.46,0,0,0,0,0,0,0,1,0,0
+2020-2021,327,Difensore,Patric,Lazio,23,5.7,5.57,0,0,0,0,0,0,1,8,0,0
+2020-2021,365,Difensore,Zapata C.,Genoa,12,5.67,5.58,0,0,0,0,0,0,0,2,0,0
+2020-2021,454,Difensore,Capradossi,Spezia,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2020-2021,578,Difensore,Danilo Lar.,Bologna,35,5.69,5.6,0,0,0,0,0,0,1,8,0,0
+2020-2021,824,Difensore,Adjapong,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,1864,Difensore,Bruno Alves,Parma,18,5.64,5.72,1,0,0,0,0,0,0,3,0,0
+2020-2021,2143,Difensore,Cuomo,Crotone,12,5.62,5.46,0,0,0,0,0,0,0,4,0,0
+2020-2021,2285,Difensore,Bani,Parma,26,5.77,5.58,0,0,0,0,0,0,0,10,0,0
+2020-2021,2288,Difensore,N'koulou,Torino,18,5.72,5.75,1,0,0,0,0,0,0,5,0,0
+2020-2021,2355,Difensore,Marlon,Sassuolo,21,5.71,5.6,0,0,0,0,0,0,0,4,1,0
+2020-2021,2724,Difensore,Buongiorno,Torino,12,5.75,5.58,0,0,0,0,0,0,0,4,0,0
+2020-2021,2746,Difensore,Dijks,Bologna,20,5.8,5.62,0,0,0,0,0,0,0,5,1,0
+2020-2021,4403,Difensore,Chabot,Spezia,22,5.8,5.73,1,0,0,0,0,0,1,9,1,0
+2020-2021,4407,Difensore,Igor,Fiorentina,18,5.72,5.58,0,0,0,0,0,0,0,5,0,0
+2020-2021,4529,Difensore,Ankersen,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4934,Difensore,Lovato,Verona,23,6,5.89,0,0,0,0,0,0,0,5,0,0
+2020-2021,4960,Difensore,Tuia,Benevento,26,5.75,5.75,1,0,0,0,0,0,0,6,0,0
+2020-2021,4976,Difensore,Kalulu,Milan,10,5.8,6.05,1,0,0,0,0,0,0,1,0,0
+2020-2021,4983,Difensore,Ferrer,Spezia,17,5.97,5.91,0,0,0,0,0,0,1,4,0,0
+2020-2021,4985,Difensore,Vignali,Spezia,21,5.62,5.48,0,0,0,0,0,0,0,4,1,0
+2020-2021,5307,Difensore,Valenti,Parma,9,5.61,5.61,0,0,0,0,0,0,0,0,0,0
+2020-2021,5326,Difensore,Busi,Parma,19,5.47,5.45,0,0,0,0,0,0,1,3,0,0
+2020-2021,50,Difensore,Mbaye,Bologna,7,5.57,5.86,1,0,0,0,0,0,0,2,0,0
+2020-2021,106,Difensore,Mattiello,Spezia,1,6,6,0,0,0,0,0,0,0,0,0,0
+2020-2021,224,Difensore,De Maio,Udinese,11,5.82,5.82,0,0,0,0,0,0,0,1,0,0
+2020-2021,256,Difensore,Juan Jesus,Roma,4,5.75,5.75,0,0,0,0,0,0,0,0,0,0
+2020-2021,262,Difensore,Santon,Roma,10,5.75,5.6,0,0,0,0,0,0,0,3,0,0
+2020-2021,390,Difensore,Ghoulam,Napoli,8,6.12,6.06,0,0,0,0,0,0,0,1,0,0
+2020-2021,423,Difensore,Rispoli,Crotone,15,5.67,5.53,0,0,0,0,0,0,0,4,0,0
+2020-2021,1999,Difensore,Lukaku J.,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,2087,Difensore,Olivera M.,Fiorentina,1,6,6,0,0,0,0,0,0,0,0,0,0
+2020-2021,2116,Difensore,Farago',Bologna,7,5.64,5.5,0,0,0,0,0,0,0,2,0,0
+2020-2021,2171,Difensore,Lyanco,Torino,23,5.63,5.46,0,0,0,0,0,0,0,8,0,0
+2020-2021,2335,Difensore,Luiz Felipe,Lazio,14,5.82,5.64,0,0,0,0,0,0,0,5,0,0
+2020-2021,2795,Difensore,Ter Avest,Udinese,5,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2020-2021,2871,Difensore,Klavan,Cagliari,11,5.68,5.64,0,0,0,0,0,0,0,1,0,0
+2020-2021,4420,Difensore,Bocchetti,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4519,Difensore,Cetin,Verona,6,5.75,5.67,0,0,0,0,0,0,0,1,0,0
+2020-2021,4959,Difensore,Foulon,Benevento,20,5.7,5.5,0,0,0,0,0,0,0,4,0,1
+2020-2021,4966,Difensore,Gigliotti,Crotone,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4979,Difensore,Ayhan,Sassuolo,15,5.83,5.77,0,0,0,0,0,0,0,2,0,0
+2020-2021,4984,Difensore,Ramos,Spezia,4,5.75,5.62,0,0,0,0,0,0,0,1,0,0
+2020-2021,5293,Difensore,Mojica,Atalanta,5,5.4,5.3,0,0,0,0,0,0,0,1,0,0
+2020-2021,5327,Difensore,Osorio,Parma,22,5.73,5.68,0,0,0,0,0,0,0,2,0,0
+2020-2021,5353,Difensore,Balogh,Parma,3,5.83,5.67,0,0,0,0,0,0,0,1,0,0
+2020-2021,5355,Difensore,Udogie,Verona,5,6,5.9,0,0,0,0,0,0,0,1,0,0
+2020-2021,5376,Difensore,Pastina,Benevento,3,6,6.17,0,0,0,0,0,0,1,1,0,0
+2020-2021,5377,Difensore,Ricci G.,Parma,2,5.75,5.75,0,0,0,0,0,0,0,0,0,0
+2020-2021,5381,Difensore,Dierckx,Parma,7,5.71,5.64,0,0,0,0,0,0,0,1,0,0
+2020-2021,5385,Difensore,Zagaritis,Parma,2,6,6,0,0,0,0,0,0,0,0,0,0
+2020-2021,5398,Difensore,Reynolds,Roma,5,5.4,5.4,0,0,0,0,0,0,0,0,0,0
+2020-2021,5399,Difensore,Antov,Bologna,4,5.62,5.5,0,0,0,0,0,0,0,1,0,0
+2020-2021,11,Difensore,Conti,Parma,9,5.5,5.33,0,0,0,0,0,0,0,3,0,0
+2020-2021,78,Difensore,Spolli,Crotone,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,235,Difensore,Laxalt,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,324,Difensore,Hoedt,Lazio,12,5.67,5.42,0,0,0,0,0,0,0,6,0,0
+2020-2021,393,Difensore,Luperto,Crotone,22,5.41,5.3,0,0,0,0,0,0,0,3,1,0
+2020-2021,394,Difensore,Maggio,Benevento,6,5.17,5,0,0,0,0,0,0,0,2,0,0
+2020-2021,490,Difensore,Regini,Sampdoria,1,4.5,2.5,0,0,0,0,0,0,0,0,0,1
+2020-2021,514,Difensore,Antei,Benevento,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,517,Difensore,Dell'orco,Spezia,6,5.58,5.58,0,0,0,0,0,0,0,0,0,0
+2020-2021,519,Difensore,Gazzola,Parma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,521,Difensore,Peluso,Sassuolo,3,5.5,5.33,0,0,0,0,0,0,0,1,0,0
+2020-2021,550,Difensore,Maksimovic,Napoli,15,5.43,5.27,0,0,0,0,0,0,0,1,0,1
+2020-2021,630,Difensore,Sala,Spezia,6,5.25,5.17,0,0,0,0,0,0,0,1,0,0
+2020-2021,1847,Difensore,Caldara,Atalanta,4,5.88,5.75,0,0,0,0,0,0,0,1,0,0
+2020-2021,1868,Difensore,Murru,Torino,11,5.77,5.77,0,0,0,0,0,0,0,0,0,0
+2020-2021,1869,Difensore,Pisacane,Cagliari,4,5.5,5.38,0,0,0,0,0,0,0,1,0,0
+2020-2021,1876,Difensore,Pajac,Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,1950,Difensore,Mazzotta,Crotone,1,4.5,4,0,0,0,0,0,0,0,1,0,0
+2020-2021,1979,Difensore,Barreca,Fiorentina,2,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2020-2021,2007,Difensore,Wallace,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,2168,Difensore,Musacchio,Lazio,4,5.88,5.75,0,0,0,0,0,0,0,2,0,0
+2020-2021,2169,Difensore,Rodriguez R.,Torino,16,5.5,5.47,0,0,0,0,0,0,0,1,0,0
+2020-2021,2208,Difensore,Jaroszynski,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,2279,Difensore,Romagna,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,2664,Difensore,El Yamiq,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,2728,Difensore,Pellegrini Lu.,Genoa,11,5.68,5.5,0,0,0,0,0,0,1,2,0,1
+2020-2021,2745,Difensore,Calabresi,Cagliari,1,6,6,0,0,0,0,0,0,0,0,0,0
+2020-2021,2801,Difensore,Iacoponi,Parma,15,5.47,5.03,0,0,0,0,0,0,0,3,1,2
+2020-2021,2860,Difensore,Malcuit,Fiorentina,6,5.75,5.75,0,0,0,0,0,0,0,0,0,0
+2020-2021,4365,Difensore,Corbo,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4366,Difensore,Armini,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4374,Difensore,Walukiewicz,Cagliari,19,5.63,5.66,0,0,0,0,0,0,1,1,0,0
+2020-2021,4397,Difensore,Vavro,Lazio,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2020-2021,4401,Difensore,Gabbia,Milan,7,5.86,5.71,0,0,0,0,0,0,0,2,0,0
+2020-2021,4406,Difensore,Tripaldelli,Cagliari,6,5.42,5.33,0,0,0,0,0,0,0,1,0,0
+2020-2021,4414,Difensore,Denswil,Bologna,2,5.25,5.25,0,0,0,0,0,0,0,0,0,0
+2020-2021,4454,Difensore,Pinna,Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4487,Difensore,Ferigra,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4511,Difensore,Duarte,Milan,1,6,6,0,0,0,0,0,0,0,0,0,0
+2020-2021,4887,Difensore,Bellanova,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4888,Difensore,Sutalo,Atalanta,4,5.75,5.75,0,0,0,0,0,0,0,0,0,0
+2020-2021,4897,Difensore,Pirola,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4917,Difensore,Prodl,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4945,Difensore,Calafiori,Roma,2,5.75,5.25,0,0,0,0,0,0,0,2,0,0
+2020-2021,4946,Difensore,Frabotta,Juventus,10,5.8,5.75,0,0,0,0,0,0,1,5,0,0
+2020-2021,4950,Difensore,Dalle Mura,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4961,Difensore,Volta,Benevento,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4972,Difensore,Vagiannidis,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4997,Difensore,Ruegg,Verona,6,5.83,5.83,0,0,0,0,0,0,0,0,0,0
+2020-2021,5006,Difensore,Piccini,Atalanta,1,5,5,0,0,0,0,0,0,0,0,0,0
+2020-2021,5300,Difensore,Hickey,Bologna,11,5.77,5.55,0,0,0,0,0,0,0,3,1,0
+2020-2021,5316,Difensore,Amione,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,5354,Difensore,Ruggeri,Atalanta,5,5.6,5.6,0,0,0,0,0,0,0,0,0,0
+2020-2021,5365,Difensore,Dragusin,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,5379,Difensore,Onguene',Genoa,3,5,5,0,0,0,0,0,0,0,0,0,0
+2020-2021,5406,Difensore,Di Pardo,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,5408,Difensore,Ghislandi,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,5424,Difensore,Amey,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,2529,Centrocampista,Mkhitaryan,Roma,34,6.25,7.66,13,0,0,1,1,0,10,2,0,0
+2020-2021,1850,Centrocampista,Kessie',Milan,37,6.42,7.31,13,0,0,13,11,2,4,8,0,0
+2020-2021,1996,Centrocampista,De Paul,Udinese,36,6.5,7.43,9,0,0,3,3,0,10,3,2,0
+2020-2021,4427,Centrocampista,Malinovskyi,Atalanta,32,6.34,7.39,8,0,0,1,1,0,11,3,0,0
+2020-2021,26,Centrocampista,Gomez,Atalanta,10,6.55,7.95,4,0,0,0,0,0,2,0,0,0
+2020-2021,152,Centrocampista,Zielinski,Napoli,36,6.33,7.22,8,0,0,0,0,0,9,2,0,0
+2020-2021,2002,Centrocampista,Chiesa,Juventus,30,6.35,7.33,9,0,0,0,0,0,5,3,1,0
+2020-2021,536,Centrocampista,Politano,Napoli,36,6.25,7.04,9,0,0,0,0,0,3,3,0,0
+2020-2021,645,Centrocampista,Milinkovic-Savic,Lazio,32,6.2,7.14,8,0,0,0,0,0,7,4,0,0
+2020-2021,2085,Centrocampista,Luis Alberto,Lazio,34,6.22,6.94,9,0,0,0,0,0,0,5,0,0
+2020-2021,2215,Centrocampista,Veretout,Roma,28,6.2,7.23,10,0,0,5,5,0,1,4,0,0
+2020-2021,332,Centrocampista,Candreva,Sampdoria,33,6.17,6.82,5,0,0,2,2,0,7,1,0,0
+2020-2021,2625,Centrocampista,Soriano,Bologna,37,6.2,6.97,9,0,0,0,0,0,4,5,0,0
+2020-2021,632,Centrocampista,Zaccagni,Verona,35,6.23,6.71,5,0,0,1,1,0,5,6,0,0
+2020-2021,440,Centrocampista,Viola,Benevento,17,6.12,7.03,5,0,0,4,4,0,1,1,0,0
+2020-2021,530,Centrocampista,Pellegrini Lo.,Roma,33,6.15,6.79,7,0,0,1,1,0,5,10,0,0
+2020-2021,2194,Centrocampista,Calhanoglu,Milan,33,6.24,6.82,4,0,0,1,1,0,9,4,0,0
+2020-2021,302,Centrocampista,Pereyra,Udinese,34,6.21,6.68,5,0,0,1,1,0,5,8,0,0
+2020-2021,2172,Centrocampista,Barak,Verona,34,6.03,6.63,7,0,0,0,0,0,3,5,1,0
+2020-2021,4973,Centrocampista,Mckennie,Juventus,33,6.11,6.55,5,0,0,0,0,0,2,5,0,0
+2020-2021,234,Centrocampista,Kucka,Parma,28,6.02,6.7,7,0,0,4,4,0,2,8,0,0
+2020-2021,788,Centrocampista,Freuler,Atalanta,33,6.3,6.52,2,0,0,0,0,0,3,5,0,0
+2020-2021,1870,Centrocampista,Barella,Inter,36,6.29,6.61,3,0,0,0,0,0,5,5,0,0
+2020-2021,2077,Centrocampista,Pasalic,Atalanta,21,6.07,6.95,6,0,0,0,0,0,1,2,0,0
+2020-2021,236,Centrocampista,Lazovic,Verona,31,6.05,6.48,3,0,0,0,0,0,6,3,0,0
+2020-2021,827,Centrocampista,Locatelli,Sassuolo,34,6.24,6.49,4,0,0,2,2,0,1,9,0,0
+2020-2021,1995,Centrocampista,Djuricic,Sassuolo,31,5.97,6.47,5,0,0,1,1,0,3,5,0,0
+2020-2021,2833,Centrocampista,Kulusevski,Juventus,34,6.06,6.4,4,0,0,0,0,0,3,7,0,0
+2020-2021,265,Centrocampista,Brozovic,Inter,33,6.17,6.39,2,0,0,0,0,0,6,7,1,0
+2020-2021,1987,Centrocampista,Jankto,Sampdoria,33,5.88,6.44,6,0,0,0,0,0,3,6,0,0
+2020-2021,2556,Centrocampista,Eriksen,Inter,23,6.13,6.5,3,0,0,0,0,0,0,1,0,0
+2020-2021,2857,Centrocampista,Traore' Hj.,Sassuolo,32,6.03,6.47,5,0,0,0,0,0,2,6,0,0
+2020-2021,5001,Centrocampista,Miranchuk,Atalanta,16,6.19,7,4,0,0,0,0,0,1,0,0,0
+2020-2021,2201,Centrocampista,Under,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,2741,Centrocampista,Pessina,Atalanta,26,6.02,6.25,2,0,0,0,0,0,1,2,0,0
+2020-2021,4377,Centrocampista,Castrovilli,Fiorentina,32,5.88,6.28,5,0,0,0,0,0,3,8,1,0
+2020-2021,4423,Centrocampista,Hernani,Parma,31,5.89,6.48,7,0,0,1,1,0,3,11,0,0
+2020-2021,4825,Centrocampista,Diaz B.,Milan,25,6.08,6.64,4,0,0,0,0,0,3,2,0,0
+2020-2021,4988,Centrocampista,Maggiore,Spezia,32,5.97,6.23,3,0,0,0,0,0,1,3,0,0
+2020-2021,2263,Centrocampista,Lazzari,Lazio,32,6.11,6.33,2,0,0,0,0,0,5,2,1,1
+2020-2021,2744,Centrocampista,Svanberg,Bologna,32,5.91,6.31,5,0,0,0,0,0,2,6,1,0
+2020-2021,4725,Centrocampista,Demme,Napoli,21,6.17,6.4,2,0,0,0,0,0,2,6,0,0
+2020-2021,5298,Centrocampista,Pobega,Spezia,20,6,6.75,6,0,0,0,0,0,0,6,0,0
+2020-2021,600,Centrocampista,Verre,Sampdoria,22,6,6.48,3,0,0,0,0,0,3,3,0,0
+2020-2021,2200,Centrocampista,Douglas Costa,Juventus,1,6,6,0,0,0,0,0,0,0,0,0,0
+2020-2021,2472,Centrocampista,Ramsey,Juventus,21,6.12,6.55,2,0,0,0,0,0,4,2,0,0
+2020-2021,2775,Centrocampista,Ruiz,Napoli,32,6.05,6.31,3,0,0,0,0,0,0,1,0,0
+2020-2021,4514,Centrocampista,Nandez,Cagliari,32,6.09,6.23,2,0,0,0,0,0,3,7,1,0
+2020-2021,4965,Centrocampista,Marin,Cagliari,37,5.95,6.24,3,0,0,0,0,0,5,6,0,0
+2020-2021,4978,Centrocampista,Damsgaard,Sampdoria,30,6.1,6.38,2,0,0,0,0,0,4,3,0,0
+2020-2021,22,Centrocampista,De Roon,Atalanta,35,6.07,6.06,1,0,0,0,0,0,1,7,1,0
+2020-2021,170,Centrocampista,Badelj,Genoa,29,6.19,6.28,1,0,0,0,0,0,3,7,0,0
+2020-2021,367,Centrocampista,Bonaventura,Fiorentina,32,6.02,6.28,3,0,0,0,0,0,2,5,0,0
+2020-2021,467,Centrocampista,Nainggolan,Cagliari,23,6.07,6.09,1,0,0,0,0,0,0,5,0,0
+2020-2021,704,Centrocampista,Perisic,Inter,31,5.95,6.35,4,0,0,0,0,0,2,3,0,0
+2020-2021,801,Centrocampista,Gagliardini,Inter,23,6.04,6.48,3,0,0,0,0,0,2,2,0,0
+2020-2021,1933,Centrocampista,Mandragora,Torino,27,5.89,6.17,3,0,0,0,0,0,1,3,1,0
+2020-2021,4404,Centrocampista,Thorsby,Sampdoria,33,6,6.15,3,0,0,0,0,0,1,10,0,0
+2020-2021,4892,Centrocampista,Saelemaekers,Milan,32,5.92,6.12,2,0,0,0,0,0,4,5,1,0
+2020-2021,470,Centrocampista,Strootman,Genoa,18,6.19,6.17,0,0,0,0,0,0,3,7,0,0
+2020-2021,2009,Centrocampista,Lukic,Torino,32,5.75,5.97,3,0,0,0,0,0,0,4,0,0
+2020-2021,2011,Centrocampista,Miguel Veloso,Verona,19,6,6.39,2,0,0,2,2,0,2,1,0,0
+2020-2021,2379,Centrocampista,Rabiot,Juventus,33,5.89,6.18,4,0,0,0,0,0,1,5,1,0
+2020-2021,5007,Centrocampista,Ilic,Verona,28,5.95,6.12,2,0,0,0,0,0,0,2,0,0
+2020-2021,28,Centrocampista,Kurtic,Parma,34,5.79,6.07,4,0,0,0,0,0,0,5,0,0
+2020-2021,397,Centrocampista,Allan,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,2124,Centrocampista,Zajc,Genoa,31,5.9,6.03,1,0,0,0,0,0,3,4,0,0
+2020-2021,2290,Centrocampista,Eysseric,Fiorentina,14,5.93,6.29,2,0,0,0,0,0,0,2,0,0
+2020-2021,2414,Centrocampista,Vidal,Inter,20,6.05,6.12,1,0,0,0,0,0,0,3,0,0
+2020-2021,181,Centrocampista,Vecino,Inter,4,6.25,7.25,1,0,0,0,0,0,1,0,0,0
+2020-2021,237,Centrocampista,Perotti,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,238,Centrocampista,Rincon,Torino,36,5.82,5.79,1,0,0,0,0,0,1,8,1,0
+2020-2021,376,Centrocampista,Verdi,Torino,31,5.77,5.94,1,0,0,0,0,0,5,6,0,0
+2020-2021,1851,Centrocampista,Molina S.,Crotone,29,5.86,5.95,1,0,0,0,0,0,2,1,0,1
+2020-2021,2166,Centrocampista,Bentancur,Juventus,32,5.91,5.88,0,0,0,0,0,0,3,6,1,0
+2020-2021,2205,Centrocampista,Berenguer,Torino,2,5.75,5.75,0,0,0,0,0,0,0,0,0,0
+2020-2021,2287,Centrocampista,Ramirez,Sampdoria,23,5.85,5.87,0,0,0,0,0,0,3,5,0,0
+2020-2021,2639,Centrocampista,Bakayoko,Napoli,27,6.04,6.15,2,0,0,0,0,0,0,4,1,0
+2020-2021,2766,Centrocampista,Zaniolo,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4479,Centrocampista,Elmas,Napoli,21,5.98,6.26,2,0,0,0,0,0,1,2,0,0
+2020-2021,4681,Centrocampista,Lopez M.,Sassuolo,28,5.98,6.07,2,0,0,0,0,0,0,7,0,0
+2020-2021,4886,Centrocampista,Pereiro,Cagliari,6,5.92,7.08,2,0,0,0,0,0,1,0,0,0
+2020-2021,4890,Centrocampista,Tameze,Verona,32,6.06,6.06,1,0,0,0,0,0,0,6,0,0
+2020-2021,4990,Centrocampista,Ricci M.,Spezia,28,6,5.95,0,0,0,0,0,0,1,5,0,0
+2020-2021,5287,Centrocampista,Arslan,Udinese,29,5.97,6.12,3,0,0,0,0,0,0,9,0,0
+2020-2021,115,Centrocampista,Hetemaj,Benevento,29,5.91,5.9,0,0,0,0,0,0,2,5,0,0
+2020-2021,150,Centrocampista,Saponara,Spezia,9,6.06,6.61,2,0,0,0,0,0,0,0,1,0
+2020-2021,430,Centrocampista,Brugman,Parma,24,5.96,5.98,1,0,0,0,0,0,1,7,0,0
+2020-2021,644,Centrocampista,Pulgar,Fiorentina,29,5.9,5.97,1,0,0,0,0,0,3,8,0,0
+2020-2021,2188,Centrocampista,Marusic,Lazio,36,5.86,6.01,2,0,0,0,0,0,3,3,0,1
+2020-2021,2391,Centrocampista,Ekdal,Sampdoria,30,5.93,6.02,2,0,0,0,0,0,1,9,0,0
+2020-2021,2392,Centrocampista,Walace,Udinese,29,5.9,5.83,0,0,0,0,0,0,0,4,0,0
+2020-2021,2779,Centrocampista,Kluivert,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,2789,Centrocampista,Meite',Milan,26,5.87,6,1,0,0,0,0,0,1,2,0,0
+2020-2021,4285,Centrocampista,Arthur,Juventus,20,6.05,6.12,1,0,0,0,0,0,0,3,0,0
+2020-2021,4393,Centrocampista,Schouten,Bologna,34,5.93,5.9,1,0,0,0,0,0,1,8,1,0
+2020-2021,4515,Centrocampista,Agudelo,Spezia,27,5.83,5.94,1,0,0,0,0,0,2,4,0,0
+2020-2021,148,Centrocampista,Krunic,Milan,17,5.85,6.09,1,0,0,0,0,0,2,3,0,0
+2020-2021,264,Centrocampista,Bessa,Verona,13,5.88,6,0,0,0,0,0,0,2,1,0,0
+2020-2021,627,Centrocampista,Ionita,Benevento,36,5.67,5.75,2,0,0,0,0,0,0,6,0,0
+2020-2021,779,Centrocampista,Cristante,Roma,31,5.89,5.84,1,0,0,0,0,0,1,8,0,1
+2020-2021,2316,Centrocampista,Zanellato,Crotone,25,5.78,5.9,1,0,0,0,0,0,1,3,0,0
+2020-2021,2692,Centrocampista,Castillejo,Milan,24,5.83,5.88,1,0,0,0,0,0,0,5,0,0
+2020-2021,2703,Centrocampista,Adrien Silva,Sampdoria,24,5.96,5.96,1,0,0,0,0,0,1,6,1,0
+2020-2021,2839,Centrocampista,Sottil,Cagliari,20,6,6.28,2,0,0,0,0,0,1,3,0,0
+2020-2021,4249,Centrocampista,Pereira A.,Lazio,18,5.89,5.97,1,0,0,0,0,0,2,5,1,0
+2020-2021,4322,Centrocampista,Paqueta',Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4330,Centrocampista,Lerager,Genoa,16,5.72,5.78,0,0,0,0,0,0,1,0,0,0
+2020-2021,4885,Centrocampista,Villar,Roma,28,5.96,5.88,0,0,0,0,0,0,1,7,0,0
+2020-2021,5290,Centrocampista,Estevez,Spezia,27,5.91,5.89,0,0,0,0,0,0,3,7,0,0
+2020-2021,5312,Centrocampista,Leo' Sena,Spezia,15,6.17,6.17,0,0,0,0,0,0,0,0,0,0
+2020-2021,20,Centrocampista,Cigarini,Crotone,14,5.79,5.61,0,0,0,0,0,0,0,3,1,0
+2020-2021,338,Centrocampista,Lulic,Lazio,16,5.72,5.69,0,0,0,0,0,0,0,1,0,0
+2020-2021,1978,Centrocampista,Sensi,Inter,16,5.94,5.84,0,0,0,0,0,0,0,1,1,0
+2020-2021,2209,Centrocampista,Lucas Leiva,Lazio,32,5.75,5.59,0,0,0,0,0,0,0,10,0,0
+2020-2021,2302,Centrocampista,Behrami,Genoa,22,5.8,5.73,0,0,0,0,0,0,0,1,1,0
+2020-2021,2818,Centrocampista,Bennacer,Milan,21,5.88,5.83,0,0,0,0,0,0,1,4,0,0
+2020-2021,4424,Centrocampista,Jony,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4459,Centrocampista,Rovella,Genoa,18,6,6,0,0,0,0,0,0,2,4,0,0
+2020-2021,4522,Centrocampista,Amrabat,Fiorentina,29,5.79,5.67,0,0,0,0,0,0,0,7,0,0
+2020-2021,4869,Centrocampista,Dominguez,Bologna,26,5.96,5.92,1,0,0,0,0,0,0,8,0,0
+2020-2021,5002,Centrocampista,Vulic,Crotone,23,5.87,6,1,0,0,0,0,0,1,2,0,0
+2020-2021,5286,Centrocampista,Akpa Akpro,Lazio,25,5.94,5.8,0,0,0,0,0,0,1,9,0,0
+2020-2021,5317,Centrocampista,Brunetta,Parma,11,5.91,6.23,1,0,0,0,0,0,2,3,0,0
+2020-2021,58,Centrocampista,Diawara,Roma,10,5.65,5.75,1,0,0,0,0,0,0,2,1,0
+2020-2021,118,Centrocampista,Radovanovic,Genoa,30,5.83,5.75,0,0,0,0,0,0,0,6,0,0
+2020-2021,184,Centrocampista,Bernardeschi,Juventus,21,5.76,5.79,0,0,0,0,0,0,2,3,0,0
+2020-2021,305,Centrocampista,Sturaro,Verona,15,5.73,5.73,1,0,0,0,0,0,0,6,0,0
+2020-2021,406,Centrocampista,Callejon,Fiorentina,16,5.84,5.91,0,0,0,0,0,0,1,0,0,0
+2020-2021,428,Centrocampista,Benali,Crotone,17,5.82,5.82,0,0,0,0,0,0,1,2,0,0
+2020-2021,526,Centrocampista,Duncan,Cagliari,17,5.79,5.82,0,0,0,0,0,0,1,2,0,0
+2020-2021,556,Centrocampista,Baselli,Torino,10,5.9,5.8,0,0,0,0,0,0,0,2,0,0
+2020-2021,633,Centrocampista,Fares,Lazio,20,5.7,5.65,0,0,0,0,0,0,1,5,0,0
+2020-2021,669,Centrocampista,Donsah,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,772,Centrocampista,Kragl,Benevento,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,1915,Centrocampista,Tello,Benevento,13,5.92,6.12,1,0,0,0,0,0,0,2,0,0
+2020-2021,2008,Centrocampista,Linetty,Torino,24,5.62,5.65,1,0,0,0,0,0,0,5,0,0
+2020-2021,2121,Centrocampista,Melegoni,Genoa,9,6,5.94,0,0,0,0,0,0,0,1,0,0
+2020-2021,2265,Centrocampista,Schiattarella,Benevento,28,5.91,5.77,1,0,0,0,0,0,1,14,1,0
+2020-2021,2659,Centrocampista,Dabo,Benevento,18,5.78,5.67,0,0,0,0,0,0,0,5,0,0
+2020-2021,4384,Centrocampista,Jagiello,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4449,Centrocampista,Tonali,Milan,24,5.73,5.67,0,0,0,0,0,0,0,1,1,0
+2020-2021,4501,Centrocampista,Obiang,Sassuolo,26,5.94,5.87,0,0,0,0,0,0,1,4,1,0
+2020-2021,5328,Centrocampista,Gojak,Torino,11,5.73,6.05,1,0,0,0,0,0,1,1,0,0
+2020-2021,27,Centrocampista,Grassi,Parma,20,5.65,5.48,0,0,0,0,0,0,0,3,0,1
+2020-2021,342,Centrocampista,Parolo,Lazio,13,5.77,5.77,0,0,0,0,0,0,2,5,0,0
+2020-2021,374,Centrocampista,Poli,Bologna,10,6,6.05,1,0,0,0,0,0,0,1,0,1
+2020-2021,1871,Centrocampista,Deiola,Cagliari,19,5.76,5.68,0,0,0,0,0,0,0,3,0,0
+2020-2021,2334,Centrocampista,Leris,Sampdoria,10,5.85,5.8,0,0,0,0,0,0,0,1,0,0
+2020-2021,2378,Centrocampista,Pastore,Roma,3,6.17,6.17,0,0,0,0,0,0,0,0,0,0
+2020-2021,2825,Centrocampista,Bourabia,Sassuolo,11,5.91,6.14,1,0,0,0,0,0,0,2,0,0
+2020-2021,2854,Centrocampista,Bradaric F.,Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4327,Centrocampista,Oliva,Cagliari,6,5.92,5.92,0,0,0,0,0,0,1,2,0,0
+2020-2021,4975,Centrocampista,Escalante,Lazio,19,5.84,5.71,0,0,0,0,0,0,0,5,0,0
+2020-2021,4987,Centrocampista,Bartolomei,Spezia,6,5.83,5.92,0,0,0,0,0,0,1,1,0,0
+2020-2021,5319,Centrocampista,Sohm,Parma,16,5.75,5.94,1,0,0,0,0,0,0,1,0,0
+2020-2021,5329,Centrocampista,Makengo,Udinese,13,5.81,5.77,0,0,0,0,0,0,0,1,0,0
+2020-2021,5420,Centrocampista,Darboe,Roma,4,6,5.75,0,0,0,0,0,0,0,2,0,0
+2020-2021,172,Centrocampista,Borja Valero,Fiorentina,12,5.79,5.67,0,0,0,0,0,0,0,3,0,0
+2020-2021,179,Centrocampista,Petriccione,Crotone,16,5.69,5.47,0,0,0,0,0,0,0,5,1,0
+2020-2021,272,Centrocampista,Medel,Bologna,10,5.95,6,0,0,0,0,0,0,1,1,0,0
+2020-2021,333,Centrocampista,Cataldi,Lazio,14,5.79,5.64,0,0,0,0,0,0,0,4,0,0
+2020-2021,2076,Centrocampista,Rog,Cagliari,14,5.96,5.89,0,0,0,0,0,0,0,2,0,0
+2020-2021,2213,Centrocampista,Cassata,Genoa,5,5.8,5.6,0,0,0,0,0,0,0,2,0,0
+2020-2021,2726,Centrocampista,Danzi,Verona,2,5.5,5.25,0,0,0,0,0,0,0,1,0,0
+2020-2021,2848,Centrocampista,Frattesi,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4287,Centrocampista,Lobotka,Napoli,6,5.92,5.75,0,0,0,0,0,0,0,2,0,0
+2020-2021,4370,Centrocampista,Portanova,Genoa,4,5.88,5.75,0,0,0,0,0,0,0,1,0,0
+2020-2021,4390,Centrocampista,Anderson D.,Lazio,2,5.25,5.25,0,0,0,0,0,0,0,0,0,0
+2020-2021,4411,Centrocampista,Agoume,Spezia,10,6.1,6,0,0,0,0,0,0,0,2,0,0
+2020-2021,4498,Centrocampista,Henderson L.,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4921,Centrocampista,Askildsen,Sampdoria,3,6,5.83,0,0,0,0,0,0,0,2,0,0
+2020-2021,4995,Centrocampista,Segre,Torino,4,5.88,5.75,0,0,0,0,0,0,0,1,0,0
+2020-2021,5008,Centrocampista,Eduardo Henrique,Crotone,17,5.65,5.71,1,0,0,0,0,0,0,4,0,0
+2020-2021,5318,Centrocampista,Tramoni M.,Cagliari,2,5.75,5.75,0,0,0,0,0,0,0,1,0,0
+2020-2021,5346,Centrocampista,Rojas,Crotone,2,5.5,5.5,0,0,0,0,0,0,0,1,0,0
+2020-2021,5397,Centrocampista,Kovalenko,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,5422,Centrocampista,Zalewski,Roma,1,6.5,7.5,0,0,0,0,0,0,1,0,0,0
+2020-2021,299,Centrocampista,Khedira,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,400,Centrocampista,Dezi,Parma,2,5.75,5.75,0,0,0,0,0,0,0,0,0,0
+2020-2021,434,Centrocampista,Jajalo,Udinese,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2020-2021,528,Centrocampista,Magnanelli,Sassuolo,7,5.71,5.57,0,0,0,0,0,0,0,2,0,0
+2020-2021,557,Centrocampista,Benassi,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,589,Centrocampista,Badu,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,1982,Centrocampista,Parigini,Genoa,1,6,6,0,0,0,0,0,0,0,0,0,0
+2020-2021,2075,Centrocampista,Cristoforo,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,2107,Centrocampista,Kiyine,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,2144,Centrocampista,Coulibaly M.,Udinese,2,6,6,0,0,0,0,0,0,0,0,0,0
+2020-2021,2244,Centrocampista,Del Pinto,Benevento,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,2264,Centrocampista,Mora,Spezia,3,5.83,5.83,0,0,0,0,0,0,0,0,0,0
+2020-2021,2286,Centrocampista,Crociata,Crotone,1,6,6,0,0,0,0,0,0,0,0,0,0
+2020-2021,2357,Centrocampista,Cyprien,Parma,10,5.75,5.65,0,0,0,0,0,0,0,2,0,0
+2020-2021,2725,Centrocampista,Caligara,Cagliari,5,5.7,5.6,0,0,0,0,0,0,0,2,0,0
+2020-2021,2733,Centrocampista,Sanogo,Benevento,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,2804,Centrocampista,Scozzarella,Parma,3,5.83,5.67,0,0,0,0,0,0,0,1,0,0
+2020-2021,2835,Centrocampista,Kingsley,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,2852,Centrocampista,Riccardi,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,2855,Centrocampista,Vieira,Verona,4,5.88,5.75,0,0,0,0,0,0,0,1,0,0
+2020-2021,4349,Centrocampista,Nicolussi Caviglia,Parma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4353,Centrocampista,Montiel,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4465,Centrocampista,Fagioli,Juventus,1,6,6,0,0,0,0,0,0,0,0,0,0
+2020-2021,4512,Centrocampista,Schone,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4896,Centrocampista,Maldini,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4919,Centrocampista,Baldursson,Bologna,5,5.3,5.1,0,0,0,0,0,0,0,2,0,0
+2020-2021,4935,Centrocampista,Ladinetti,Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4953,Centrocampista,Palumbo,Udinese,1,4.5,4.5,0,0,0,0,0,0,0,0,0,0
+2020-2021,4968,Centrocampista,Gomelt,Crotone,1,6,6,0,0,0,0,0,0,0,0,0,0
+2020-2021,4969,Centrocampista,Mustacchio,Crotone,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4986,Centrocampista,Acampora,Spezia,10,5.8,5.7,0,0,0,0,0,0,0,2,0,0
+2020-2021,4989,Centrocampista,Mastinu,Spezia,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2020-2021,5331,Centrocampista,Basit,Benevento,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,5341,Centrocampista,Eyango,Genoa,1,6,7,0,0,0,0,0,0,1,0,0,0
+2020-2021,5421,Centrocampista,Camara D.,Parma,1,6,6,0,0,0,0,0,0,0,0,0,0
+2020-2021,5423,Centrocampista,Bove,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,5425,Centrocampista,Urbanski,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,5438,Centrocampista,Kosznovszky,Parma,1,5,5,0,0,0,0,0,0,0,0,0,0
+2020-2021,5443,Centrocampista,Diambo,Benevento,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,507,Attaccante,Muriel,Atalanta,32,6.64,8.89,22,0,0,3,2,1,9,0,0,0
+2020-2021,2531,Attaccante,Lukaku,Inter,35,6.6,8.86,24,0,0,6,6,0,9,4,0,0
+2020-2021,2610,Attaccante,Ronaldo,Juventus,33,6.35,8.82,29,0,0,8,6,2,2,3,0,0
+2020-2021,531,Attaccante,Berardi,Sassuolo,30,6.52,8.28,17,0,0,8,7,1,7,4,0,0
+2020-2021,409,Attaccante,Insigne,Napoli,35,6.44,8.13,19,0,0,8,7,1,7,2,1,0
+2020-2021,2841,Attaccante,Vlahovic,Fiorentina,36,6.17,7.96,21,0,0,6,6,0,2,1,0,0
+2020-2021,608,Attaccante,Zapata D.,Atalanta,37,6.32,7.78,15,0,0,1,1,0,9,0,0,0
+2020-2021,785,Attaccante,Immobile,Lazio,35,6.17,7.64,20,0,0,8,4,4,6,3,1,0
+2020-2021,2764,Attaccante,Martinez L.,Inter,38,6.39,7.8,17,0,0,2,2,0,5,5,0,0
+2020-2021,1997,Attaccante,Simy,Crotone,38,6.07,7.68,20,0,0,8,8,0,2,1,0,0
+2020-2021,441,Attaccante,Belotti,Torino,34,6.41,7.59,13,0,0,5,4,1,6,4,0,0
+2020-2021,2530,Attaccante,Ibrahimovic,Milan,18,6.31,8.31,15,0,0,6,3,3,2,2,1,0
+2020-2021,410,Attaccante,Mertens,Napoli,28,6.11,7.29,9,0,0,0,0,0,7,2,0,0
+2020-2021,4661,Attaccante,Osimhen,Napoli,24,6.25,7.5,10,0,0,0,0,0,2,4,0,0
+2020-2021,313,Attaccante,Morata,Juventus,30,6.08,7.33,11,0,0,1,1,0,7,3,1,0
+2020-2021,1874,Attaccante,Joao Pedro,Cagliari,37,6.16,7.41,16,0,0,5,4,1,3,4,0,0
+2020-2021,2819,Attaccante,Caputo,Sassuolo,24,6.17,7.69,11,0,0,3,3,0,4,1,0,0
+2020-2021,4517,Attaccante,Lozano,Napoli,32,6.2,7.23,11,0,0,0,0,0,3,6,0,0
+2020-2021,2475,Attaccante,Sanchez,Inter,26,6.37,7.29,7,0,0,1,0,1,6,0,0,0
+2020-2021,5233,Attaccante,Mayoral,Roma,22,6,7.48,10,0,0,0,0,0,3,1,0,0
+2020-2021,186,Attaccante,Rebic,Milan,27,6.07,7.33,11,0,0,0,0,0,4,4,1,0
+2020-2021,472,Attaccante,Destro,Genoa,24,6.06,7.38,11,0,0,0,0,0,1,5,0,0
+2020-2021,568,Attaccante,Quagliarella,Sampdoria,32,6.03,7.17,13,0,0,3,2,1,1,1,0,0
+2020-2021,5336,Attaccante,Nzola,Spezia,25,6.16,7.5,11,0,0,4,4,0,3,5,0,0
+2020-2021,177,Attaccante,Ilicic,Atalanta,28,6.2,7.12,6,0,0,2,2,0,9,2,0,0
+2020-2021,1974,Attaccante,Schick,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,215,Attaccante,Verde,Spezia,19,6.21,7.21,6,0,0,0,0,0,1,0,0,0
+2020-2021,2195,Attaccante,Ounas,Crotone,20,6.32,7.1,4,0,0,0,0,0,4,1,0,0
+2020-2021,4970,Attaccante,Messias,Crotone,36,6.17,6.92,9,0,0,0,0,0,3,6,0,0
+2020-2021,408,Attaccante,Higuain,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,495,Attaccante,Correa,Lazio,28,5.95,6.86,8,0,0,1,1,0,3,1,1,0
+2020-2021,2137,Attaccante,Scamacca,Genoa,26,6.13,7.04,8,0,0,2,2,0,2,1,0,1
+2020-2021,4510,Attaccante,Rafael Leao,Milan,29,5.95,6.71,6,0,0,0,0,0,6,5,0,0
+2020-2021,5311,Attaccante,Shomurodov,Genoa,30,6.1,6.92,8,0,0,0,0,0,1,1,0,0
+2020-2021,2719,Attaccante,Barrow,Bologna,38,6.03,6.79,8,0,0,1,0,1,8,0,0,0
+2020-2021,245,Attaccante,Pandev,Genoa,28,5.96,6.73,7,0,0,1,1,0,3,5,0,0
+2020-2021,345,Attaccante,Keita B.,Sampdoria,22,6.09,6.95,7,0,0,0,0,0,1,4,1,0
+2020-2021,407,Attaccante,Gabbiadini,Sampdoria,15,6.07,6.77,3,0,0,1,1,0,2,1,0,0
+2020-2021,2167,Attaccante,Orsolini,Bologna,31,5.98,6.76,7,0,0,3,3,0,3,0,0,0
+2020-2021,2284,Attaccante,Caicedo,Lazio,21,6.21,7.24,8,0,0,1,1,0,0,5,0,0
+2020-2021,647,Attaccante,Dzeko,Roma,25,5.96,6.76,7,0,0,1,0,1,3,2,0,0
+2020-2021,383,Attaccante,Petagna,Napoli,16,6.09,7.03,4,0,0,0,0,0,3,0,0,0
+2020-2021,4371,Attaccante,Raspadori,Sassuolo,22,6.11,6.91,6,0,0,0,0,0,0,1,0,0
+2020-2021,280,Attaccante,Palacio,Bologna,32,6.03,6.58,5,0,0,0,0,0,5,5,0,0
+2020-2021,309,Attaccante,Dybala,Juventus,18,6.08,6.92,4,0,0,0,0,0,3,0,0,0
+2020-2021,1939,Attaccante,Lapadula,Benevento,37,5.88,6.47,8,0,0,1,0,1,2,2,0,0
+2020-2021,1958,Attaccante,Caprari,Benevento,30,5.92,6.43,5,0,0,1,0,1,6,3,1,0
+2020-2021,247,Attaccante,Pavoletti,Cagliari,22,6.02,6.55,4,0,0,0,0,0,3,8,0,0
+2020-2021,315,Attaccante,Zaza,Torino,26,5.81,6.42,6,0,0,0,0,0,0,4,0,0
+2020-2021,2832,Attaccante,Boga,Sassuolo,27,5.98,6.46,4,0,0,0,0,0,1,0,0,0
+2020-2021,2409,Attaccante,Ribery,Fiorentina,29,6.07,6.34,2,0,0,0,0,0,6,6,1,0
+2020-2021,4324,Attaccante,Okaka,Udinese,22,5.75,6.3,4,0,0,0,0,0,1,2,0,0
+2020-2021,4359,Attaccante,Piccoli,Spezia,13,6,7.15,5,0,0,0,0,0,0,0,0,0
+2020-2021,4992,Attaccante,Gyasi,Spezia,36,5.99,6.43,4,0,0,0,0,0,6,4,0,0
+2020-2021,479,Attaccante,Sanabria,Torino,14,6,7.07,5,0,0,0,0,0,1,2,0,0
+2020-2021,643,Attaccante,Defrel,Sassuolo,28,6,6.38,3,0,0,0,0,0,2,1,0,0
+2020-2021,1879,Attaccante,Farias,Spezia,26,5.94,6.38,4,0,0,0,0,0,2,5,0,0
+2020-2021,2012,Attaccante,Milik,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,2061,Attaccante,Simeone,Cagliari,31,5.77,6.37,6,0,0,0,0,0,1,1,0,0
+2020-2021,2489,Attaccante,Pedro,Roma,26,5.87,6.42,5,0,0,0,0,0,2,3,1,0
+2020-2021,4415,Attaccante,Skov Olsen,Bologna,25,5.92,6.26,2,0,0,0,0,0,3,1,0,0
+2020-2021,5322,Attaccante,Mihaila,Parma,15,6.17,6.77,3,0,0,0,0,0,1,2,0,0
+2020-2021,474,Attaccante,Gervinho,Parma,27,5.65,6.24,5,0,0,0,0,0,1,0,0,0
+2020-2021,537,Attaccante,Sansone,Bologna,22,5.95,6.3,2,0,0,0,0,0,2,2,0,0
+2020-2021,4963,Attaccante,Insigne R.,Benevento,30,5.85,6.15,2,0,0,0,0,0,4,2,0,0
+2020-2021,5394,Attaccante,Gaich,Benevento,14,5.57,6,2,0,0,0,0,0,0,1,0,0
+2020-2021,795,Attaccante,El Shaarawy,Roma,9,5.72,6,1,0,0,0,0,0,0,1,0,0
+2020-2021,1882,Attaccante,Sau,Benevento,21,5.93,6.52,4,0,0,1,1,0,2,1,1,0
+2020-2021,1998,Attaccante,Pjaca,Genoa,29,5.74,6.12,3,0,0,0,0,0,2,0,0,0
+2020-2021,505,Attaccante,Bonazzoli,Torino,16,5.97,6.5,2,0,0,0,0,0,3,2,0,0
+2020-2021,1943,Attaccante,Nestorovski,Udinese,15,5.93,6.4,2,0,0,0,0,0,1,1,0,0
+2020-2021,2154,Attaccante,Vignato,Bologna,25,5.98,6.18,1,0,0,0,0,0,4,4,0,0
+2020-2021,4884,Attaccante,Carles Perez,Roma,16,5.88,6.31,2,0,0,0,0,0,1,0,0,0
+2020-2021,5393,Attaccante,Man,Parma,11,6.14,6.73,2,0,0,0,0,0,1,1,0,0
+2020-2021,5401,Attaccante,Pelle',Parma,11,5.95,6.36,1,0,0,0,0,0,2,1,0,0
+2020-2021,90,Attaccante,Lasagna,Verona,34,5.6,5.94,4,0,0,0,0,0,0,1,0,0
+2020-2021,183,Attaccante,Babacar,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,2304,Attaccante,Salcedo E.,Verona,16,5.81,6.16,2,0,0,0,0,0,1,3,0,0
+2020-2021,2826,Attaccante,Pussetto,Udinese,11,6.09,6.91,3,0,0,0,0,0,1,2,0,0
+2020-2021,5004,Attaccante,Forestieri,Udinese,17,5.85,6.06,1,0,0,0,0,0,1,1,0,0
+2020-2021,312,Attaccante,Mandzukic,Milan,7,5.71,5.71,0,0,0,0,0,0,0,1,0,0
+2020-2021,4333,Attaccante,Despodov,Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,5292,Attaccante,Lammers,Atalanta,10,6,6.6,2,0,0,0,0,0,0,0,0,0
+2020-2021,475,Attaccante,Iago Falque,Benevento,9,5.83,6.28,1,0,0,0,0,0,1,0,0,0
+2020-2021,2038,Attaccante,Pinamonti,Inter,5,6.1,6.7,1,0,0,0,0,0,0,0,0,0
+2020-2021,2163,Attaccante,Cornelius,Parma,29,5.57,5.74,1,0,0,0,0,0,4,4,0,0
+2020-2021,2325,Attaccante,Karamoh,Parma,21,5.79,6.1,2,0,0,0,0,0,1,3,0,0
+2020-2021,2327,Attaccante,Stepinski,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,2776,Attaccante,Younes,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4453,Attaccante,Torregrossa,Sampdoria,4,6.12,6.88,1,0,0,0,0,0,0,0,0,0
+2020-2021,306,Attaccante,Cerri,Cagliari,11,5.77,6.05,1,0,0,0,0,0,0,1,0,0
+2020-2021,311,Attaccante,Llorente,Udinese,15,5.63,5.77,1,0,0,0,0,0,0,2,0,0
+2020-2021,652,Attaccante,Kalinic,Verona,17,5.68,5.97,2,0,0,0,0,0,0,2,0,0
+2020-2021,819,Attaccante,Favilli,Verona,10,5.9,6.45,2,0,0,0,0,0,0,1,0,0
+2020-2021,2155,Attaccante,Cutrone,Fiorentina,7,5.71,5.71,0,0,0,0,0,0,0,0,0,0
+2020-2021,2196,Attaccante,Galabinov,Spezia,8,5.88,6.62,3,0,0,1,0,1,0,0,0,0
+2020-2021,4435,Attaccante,Colley E.,Verona,20,5.88,6,1,0,0,0,0,0,0,1,0,0
+2020-2021,5012,Attaccante,Muriqi,Lazio,20,5.6,5.72,1,0,0,0,0,0,0,1,0,0
+2020-2021,5310,Attaccante,Hauge,Milan,13,5.85,6.31,2,0,0,0,0,0,0,0,0,0
+2020-2021,2119,Attaccante,Deulofeu,Udinese,12,6.04,6.38,1,0,0,0,0,0,1,0,0,0
+2020-2021,2762,Attaccante,Kouame',Fiorentina,24,5.73,5.85,1,0,0,0,0,0,1,4,0,0
+2020-2021,4962,Attaccante,Improta,Benevento,34,5.71,5.63,1,0,0,0,0,0,0,7,0,1
+2020-2021,5009,Attaccante,Riviere,Crotone,14,5.75,5.96,1,0,0,0,0,0,1,2,0,0
+2020-2021,5395,Attaccante,Braaf,Udinese,3,6,7,1,0,0,0,0,0,0,0,0,0
+2020-2021,4463,Attaccante,Esposito,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4500,Attaccante,Di Carmine,Crotone,18,5.5,5.44,0,0,0,0,0,0,0,2,0,0
+2020-2021,5086,Attaccante,Zirkzee,Parma,3,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2020-2021,5391,Attaccante,Kokorin,Fiorentina,4,5.75,5.62,0,0,0,0,0,0,0,1,0,0
+2020-2021,123,Attaccante,Inglese,Parma,13,5.54,5.62,0,0,0,0,0,0,2,2,0,0
+2020-2021,767,Attaccante,Tupta,Verona,1,5,5,0,0,0,0,0,0,0,0,0,0
+2020-2021,1839,Attaccante,Edera,Torino,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2020-2021,2794,Attaccante,Micin,Udinese,1,6,6,0,0,0,0,0,0,0,0,0,0
+2020-2021,2853,Attaccante,Moncini,Benevento,9,5.78,5.78,0,0,0,0,0,0,0,0,0,0
+2020-2021,2873,Attaccante,Teodorczyk,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4894,Attaccante,Haraslin,Sassuolo,10,5.75,5.6,0,0,0,0,0,0,0,1,1,0
+2020-2021,5003,Attaccante,Kargbo,Crotone,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2020-2021,5352,Attaccante,Di Serio,Benevento,7,5.93,5.93,0,0,0,0,0,0,0,1,0,0
+2020-2021,5415,Attaccante,Traore' C.,Parma,1,5,5,0,0,0,0,0,0,0,0,0,0
+2020-2021,5439,Attaccante,Kallon,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,447,Attaccante,La Gumina,Sampdoria,7,5.64,5.64,0,0,0,0,0,0,0,0,0,0
+2020-2021,637,Attaccante,Siligardi,Crotone,4,5.88,5.88,0,0,0,0,0,0,0,0,0,0
+2020-2021,2013,Attaccante,Ricci F.,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,2743,Attaccante,Santander,Bologna,2,6.25,6.75,0,0,0,0,0,0,1,0,0,0
+2020-2021,2773,Attaccante,Sprocati,Parma,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2020-2021,4335,Attaccante,Schiappacasse,Sassuolo,1,6,6,0,0,0,0,0,0,0,0,0,0
+2020-2021,4346,Attaccante,Millico,Torino,1,6,6,0,0,0,0,0,0,0,0,0,0
+2020-2021,4368,Attaccante,Juwara,Bologna,1,6,6,0,0,0,0,0,0,0,1,0,0
+2020-2021,4387,Attaccante,Adorante,Parma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4388,Attaccante,Adekanye,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4489,Attaccante,Rauti,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4862,Attaccante,Diallo Am.,Atalanta,1,6,5.5,0,0,0,0,0,0,0,1,0,0
+2020-2021,4923,Attaccante,Colombo,Milan,2,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2020-2021,4938,Attaccante,Moro,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4940,Attaccante,Gagliano,Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,4991,Attaccante,Gudjohnsen,Spezia,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,5011,Attaccante,Dragus,Crotone,5,5.3,5.3,0,0,0,0,0,0,0,1,0,0
+2020-2021,5013,Attaccante,Asoro,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,5060,Attaccante,Ake' M.,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,5297,Attaccante,Luvumbo,Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,5303,Attaccante,Males,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,5361,Attaccante,Rabbi,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,5378,Attaccante,Oddei,Sassuolo,3,6.33,7,0,0,0,0,0,0,2,0,0,0
+2020-2021,5414,Attaccante,Karamoko Is.,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,5419,Attaccante,Correia,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-2021,5436,Attaccante,Raimondo,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,572,Portiere,Meret,Napoli,1,6,5,0,1,0,0,0,0,0,0,0,0
+2023-2024,4312,Portiere,Maignan,Milan,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,453,Portiere,Szczesny,Juventus,1,7,7,0,0,0,0,0,0,0,0,0,0
+2023-2024,2428,Portiere,Sommer,Inter,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,2814,Portiere,Provedel,Lazio,1,6,4,0,2,0,0,0,0,0,0,0,0
+2023-2024,4270,Portiere,Rui Patricio,Roma,1,6,4,0,2,0,0,0,0,0,0,0,0
+2023-2024,5876,Portiere,Di Gregorio,Monza,1,6,4,0,2,0,0,0,0,0,0,0,0
+2023-2024,2170,Portiere,Milinkovic-Savic V.,Torino,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,4431,Portiere,Carnesecchi,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,133,Portiere,Skorupski,Bologna,1,6,4,0,2,0,0,0,0,0,0,0,0
+2023-2024,2815,Portiere,Terracciano,Fiorentina,1,6,5,0,1,0,0,0,0,0,0,0,0
+2023-2024,3,Portiere,Radunovic,Cagliari,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,2134,Portiere,Falcone,Lecce,1,7,6,0,1,0,0,0,0,0,0,0,0
+2023-2024,6120,Portiere,Ochoa,Salernitana,1,6.5,4.5,0,2,0,0,0,0,0,0,0,0
+2023-2024,2211,Portiere,Silvestri,Udinese,1,5,2,0,3,0,0,0,0,0,0,0,0
+2023-2024,4957,Portiere,Montipo',Verona,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,4360,Portiere,Caprile,Empoli,1,5,4,0,1,0,0,0,0,0,0,0,0
+2023-2024,5116,Portiere,Martinez Jo.,Genoa,1,6,2,0,4,0,0,0,0,0,0,0,0
+2023-2024,509,Portiere,Consigli,Sassuolo,1,6,4,0,2,0,0,0,0,0,0,0,0
+2023-2024,2178,Portiere,Cragno,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2792,Portiere,Musso,Atalanta,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,4867,Portiere,Turati,Frosinone,1,5.5,2.5,0,3,0,0,0,0,0,0,0,0
+2023-2024,6403,Portiere,Christensen O.,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,673,Portiere,Perisan,Empoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4,Portiere,Sportiello,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,41,Portiere,Mirante,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,159,Portiere,Sepe,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,188,Portiere,Leali,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,217,Portiere,Lamanna,Monza,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,218,Portiere,Perin,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,219,Portiere,Sommariva,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,510,Portiere,Pegolo,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,511,Portiere,Perilli,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,543,Portiere,Padelli,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,574,Portiere,Scuffet,Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,610,Portiere,Gollini,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,761,Portiere,Audero,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,1926,Portiere,Di Gennaro,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,1930,Portiere,Pinsoglio,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,1946,Portiere,Aresti,Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,1947,Portiere,Fiorillo,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2294,Portiere,Cerofolini,Frosinone,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2297,Portiere,Rossi F.,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2338,Portiere,Costil,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2722,Portiere,Ravaglia F.,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2845,Portiere,Contini,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4351,Portiere,Brancolini,Lecce,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4468,Portiere,Bleve,Lecce,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4491,Portiere,Berardi A.,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4525,Portiere,Gemello,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5304,Portiere,Boer,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5502,Portiere,Adamonis,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5707,Portiere,Piana,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5822,Portiere,Bagnolini,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5832,Portiere,Luis Maximiano,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5841,Portiere,Svilar,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5853,Portiere,Sorrentino A.,Monza,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6184,Portiere,Martinelli T.,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6210,Portiere,Popa,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6234,Portiere,Stubljar,Empoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6248,Portiere,Stankovic F.,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6255,Portiere,Gori,Monza,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6406,Portiere,Borbei,Lecce,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6415,Portiere,Palmisani,Frosinone,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,254,Difensore,Dimarco,Inter,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,2816,Difensore,Di Lorenzo,Napoli,1,7.5,9.5,0,0,0,0,0,0,2,0,0,0
+2023-2024,4292,Difensore,Hernandez T.,Milan,1,6,5.5,0,0,0,0,0,0,0,1,0,0
+2023-2024,5877,Difensore,Carlos Augusto,Inter,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,6066,Difensore,Posch,Bologna,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,554,Difensore,Zappacosta,Atalanta,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,4237,Difensore,Danilo,Juventus,1,6.5,6,0,0,0,0,0,0,0,1,0,0
+2023-2024,4245,Difensore,Smalling,Roma,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,4409,Difensore,Rrahmani,Napoli,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,6041,Difensore,Schuurs,Torino,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,460,Difensore,Romagnoli,Lazio,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,2120,Difensore,Bastoni,Inter,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,2788,Difensore,Bremer,Juventus,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,4751,Difensore,Tomori,Milan,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,5513,Difensore,Dumfries,Inter,1,7,8,0,0,0,0,0,0,1,0,0,0
+2023-2024,5067,Difensore,Bakker,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5481,Difensore,Mazzocchi,Salernitana,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,252,Difensore,Biraghi,Fiorentina,1,7,10.5,1,0,0,0,0,0,1,1,0,0
+2023-2024,513,Difensore,Acerbi,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2296,Difensore,Mancini,Roma,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,2525,Difensore,Darmian,Inter,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,2724,Difensore,Buongiorno,Torino,1,6,5.5,0,0,0,0,0,0,0,1,0,0
+2023-2024,5375,Difensore,Maehle,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5480,Difensore,Ebuehi,Empoli,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,5851,Difensore,Doig,Verona,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,142,Difensore,Mario Rui,Napoli,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,1852,Difensore,Spinazzola,Roma,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,2164,Difensore,Milenkovic,Fiorentina,1,6.5,6,0,0,0,0,0,0,0,1,0,0
+2023-2024,5498,Difensore,Casale,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5835,Difensore,Baschirotto,Lecce,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,6055,Difensore,Thiaw,Milan,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,357,Difensore,Calabria,Milan,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,581,Difensore,Faraoni,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,695,Difensore,Toloi,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,697,Difensore,Cuadrado,Inter,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,2160,Difensore,Gosens,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2640,Difensore,Kolasinac,Atalanta,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,4317,Difensore,N'dicka,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4530,Difensore,Kyriakopoulos,Monza,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,4904,Difensore,Mari',Monza,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,5526,Difensore,Scalvini,Atalanta,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,5677,Difensore,Perez N.,Udinese,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,5847,Difensore,Bijol,Udinese,1,5,5,0,0,0,0,0,0,0,0,0,0
+2023-2024,6220,Difensore,Kristensen,Roma,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,6396,Difensore,Natan,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,226,Difensore,Izzo,Monza,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,393,Difensore,Luperto,Empoli,1,5,5,0,0,0,0,0,0,0,0,0,0
+2023-2024,2169,Difensore,Rodriguez R.,Torino,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,2593,Difensore,Martin,Genoa,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,4210,Difensore,Mina,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4332,Difensore,Demiral,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4887,Difensore,Bellanova,Torino,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,4899,Difensore,Singo,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5449,Difensore,Parisi,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5532,Difensore,Bradaric,Salernitana,1,6.5,7.5,0,0,0,0,0,0,1,0,0,0
+2023-2024,5885,Difensore,Dodo',Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6046,Difensore,Hien,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,140,Difensore,Hysaj,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,253,Difensore,D'ambrosio,Monza,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,322,Difensore,De Vrij,Inter,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,787,Difensore,Djimsiti,Atalanta,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,2130,Difensore,Hateboer,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2181,Difensore,Palomino,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2188,Difensore,Marusic,Lazio,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,4331,Difensore,Ibanez,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4958,Difensore,Caldirola,Monza,1,5.5,5,0,0,0,0,0,0,0,1,0,0
+2023-2024,4976,Difensore,Kalulu,Milan,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,5239,Difensore,Llorente D.,Roma,1,6.5,7.5,0,0,0,0,0,0,1,0,0,0
+2023-2024,5718,Difensore,Viti,Sassuolo,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,5840,Difensore,Olivera,Napoli,1,6,5.5,0,0,0,0,0,0,0,1,0,0
+2023-2024,6042,Difensore,Lucumi',Bologna,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,49,Difensore,Masina,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,662,Difensore,Alex Sandro,Juventus,1,6.5,6,0,0,0,0,0,0,0,1,0,0
+2023-2024,2263,Difensore,Lazzari,Lazio,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,2318,Difensore,Rogerio,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2869,Difensore,Djidji,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4426,Difensore,Toljan,Sassuolo,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,4461,Difensore,Zappa,Cagliari,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,4502,Difensore,Gallo,Lecce,1,7,8,0,0,0,0,0,0,1,0,0,0
+2023-2024,4982,Difensore,Erlic,Sassuolo,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,4994,Difensore,Vojvoda,Torino,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,5323,Difensore,Martinez Quarta,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5365,Difensore,Dragusin,Genoa,1,5,5,0,0,0,0,0,0,0,0,0,0
+2023-2024,5520,Difensore,Cambiaso,Juventus,1,7,8,0,0,0,0,0,0,1,0,0,0
+2023-2024,5555,Difensore,Kamara H.,Udinese,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,5831,Difensore,Gatti,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5867,Difensore,Gendrey,Lecce,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,6202,Difensore,Beukema,Bologna,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,6230,Difensore,Dossena,Cagliari,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,76,Difensore,Romagnoli S.,Frosinone,1,5,5,0,0,0,0,0,0,0,0,0,0
+2023-2024,256,Difensore,Juan Jesus,Napoli,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,327,Difensore,Patric,Lazio,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,660,Difensore,Gyomber,Salernitana,1,4.5,4,0,0,0,0,0,0,0,1,0,0
+2023-2024,770,Difensore,Pezzella Giu.,Empoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2083,Difensore,Biraschi,Genoa,1,6,9,1,0,0,0,0,0,0,0,0,0
+2023-2024,2252,Difensore,Marchizza,Frosinone,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,2653,Difensore,Lykogiannis,Bologna,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,4263,Difensore,Kabasele,Udinese,1,5.5,5,0,0,0,0,0,0,0,1,0,0
+2023-2024,4378,Difensore,Ranieri L.,Fiorentina,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,4421,Difensore,Augello,Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4433,Difensore,Zortea,Atalanta,1,7,10,1,0,0,0,0,0,0,0,0,0
+2023-2024,4897,Difensore,Pirola,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5010,Difensore,Ismajli,Empoli,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,5603,Difensore,Pongracic,Lecce,1,5.5,5,0,0,0,0,0,0,0,1,0,0
+2023-2024,5701,Difensore,Obert,Cagliari,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,5747,Difensore,Tressoldi,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5838,Difensore,Birindelli,Monza,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,6047,Difensore,Ehizibue,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6211,Difensore,Zemura,Udinese,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,6231,Difensore,Azzi,Cagliari,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,6245,Difensore,Vogliacco,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,286,Difensore,Bonucci,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,791,Difensore,Sabelli,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,1891,Difensore,Ceccherini,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,1895,Difensore,Ferrari G.,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2174,Difensore,Venuti,Lecce,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2633,Difensore,Kjaer,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2728,Difensore,Pellegrini Lu.,Lazio,1,5.5,5,0,0,0,0,0,0,0,1,0,0
+2023-2024,2758,Difensore,Gunter,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4385,Difensore,Lazaro,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4493,Difensore,Dawidowicz,Verona,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,4891,Difensore,Soumaoro,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4934,Difensore,Lovato,Salernitana,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,5354,Difensore,Ruggeri,Atalanta,1,6.5,7.5,0,0,0,0,0,0,1,0,0,0
+2023-2024,5509,Difensore,Vina,Sassuolo,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,5514,Difensore,Vasquez,Genoa,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,5527,Difensore,Zanoli,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5691,Difensore,Zima,Torino,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,5750,Difensore,Ostigard,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5812,Difensore,Terracciano F.,Verona,1,7,7,0,0,0,0,0,0,0,0,0,0
+2023-2024,5848,Difensore,Ebosele,Udinese,1,5,5,0,0,0,0,0,0,0,0,0,0
+2023-2024,5856,Difensore,Sambia,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6217,Difensore,Bisseck,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,294,Difensore,Rugani,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,358,Difensore,De Sciglio,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,418,Difensore,Goldaniga,Cagliari,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,464,Difensore,Florenzi,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2016,Difensore,Fazio,Salernitana,1,6,6.5,0,0,0,0,0,0,1,1,0,0
+2023-2024,2180,Difensore,Karsdorp,Roma,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,2192,Difensore,Bonifazi,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2285,Difensore,Bani,Genoa,1,4.5,4,0,0,0,0,0,0,0,1,0,0
+2023-2024,2769,Difensore,Magnani,Verona,1,6,5.5,0,0,0,0,0,0,0,1,0,0
+2023-2024,4374,Difensore,Walukiewicz,Empoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4495,Difensore,Kumbulla,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4657,Difensore,Celik,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4925,Difensore,Carboni A.,Monza,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5316,Difensore,Amione,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5406,Difensore,Di Pardo,Cagliari,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,5447,Difensore,Altare,Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5450,Difensore,Stojanovic,Empoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5554,Difensore,Daniliuc,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5739,Difensore,De Winter,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5748,Difensore,Hefti,Genoa,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,5757,Difensore,Cittadini,Monza,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5764,Difensore,Coppola D.,Verona,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,5804,Difensore,Cacace,Empoli,1,5.5,5,0,0,0,0,0,0,0,1,0,0
+2023-2024,5994,Difensore,Ebosse,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6039,Difensore,Cabal,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,487,Difensore,De Silvestri,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4432,Difensore,Okoli,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4952,Difensore,Monterisi,Frosinone,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,5017,Difensore,Ballo-Toure',Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5686,Difensore,Soppy,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6028,Difensore,Bronn,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6043,Difensore,Sosa,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6189,Difensore,Missori,Sassuolo,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,6235,Difensore,Kayode,Fiorentina,1,7,7,0,0,0,0,0,0,0,0,0,0
+2023-2024,6256,Difensore,Ferreira J.,Udinese,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,6257,Difensore,Dorgu,Lecce,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,6401,Difensore,Gonzalez F.,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,139,Difensore,Dermaku,Lecce,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,144,Difensore,Tonelli,Empoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,454,Difensore,Capradossi,Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,1876,Difensore,Pajac,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5399,Difensore,Antov,Monza,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5424,Difensore,Amey,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5833,Difensore,Gila,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6021,Difensore,Abankwah,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6023,Difensore,Guessand A.,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6056,Difensore,Guarino,Empoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6149,Difensore,Carboni F.,Monza,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6208,Difensore,Flamingo,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6223,Difensore,Smajlovic,Lecce,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6237,Difensore,Szyminski,Frosinone,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6238,Difensore,Oyono,Frosinone,1,5.5,5,0,0,0,0,0,0,0,1,0,0
+2023-2024,6239,Difensore,Klitten,Frosinone,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6244,Difensore,Matturro,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6253,Difensore,N'guessan,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6407,Difensore,Corazza,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6411,Difensore,Mateus Lusuardi,Frosinone,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6430,Difensore,Kalaj,Frosinone,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6432,Difensore,Pierozzi,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6433,Difensore,Huijsen,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,632,Centrocampista,Zaccagni,Lazio,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,5685,Centrocampista,Koopmeiners,Atalanta,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,2379,Centrocampista,Rabiot,Juventus,1,7,10,1,0,0,0,0,0,0,0,0,0
+2023-2024,335,Centrocampista,Felipe Anderson,Lazio,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,2085,Centrocampista,Luis Alberto,Lazio,1,6.5,7.5,0,0,0,0,0,0,1,0,0,0
+2023-2024,152,Centrocampista,Zielinski,Napoli,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,1870,Centrocampista,Barella,Inter,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,2167,Centrocampista,Orsolini,Bologna,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,2423,Centrocampista,Pulisic,Milan,1,7.5,10.5,1,0,0,0,0,0,0,0,0,0
+2023-2024,4856,Centrocampista,Chukwueze,Milan,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,4486,Centrocampista,Strefezza,Lecce,1,6,5.5,0,0,0,0,0,0,0,1,0,0
+2023-2024,5687,Centrocampista,Vlasic,Torino,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,332,Centrocampista,Candreva,Salernitana,1,8,14,2,0,0,0,0,0,0,0,0,0
+2023-2024,2848,Centrocampista,Frattesi,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4427,Centrocampista,Malinovskyi,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5858,Centrocampista,Ferguson,Bologna,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,530,Centrocampista,Pellegrini Lo.,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,795,Centrocampista,El Shaarawy,Roma,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,2194,Centrocampista,Calhanoglu,Inter,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,5119,Centrocampista,Samardzic,Udinese,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,236,Centrocampista,Lazovic,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,367,Centrocampista,Bonaventura,Fiorentina,1,7.5,11,1,0,0,0,0,0,1,1,0,0
+2023-2024,536,Centrocampista,Politano,Napoli,1,7,10,1,0,0,0,0,0,0,0,0,0
+2023-2024,4142,Centrocampista,Aouar,Roma,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,4479,Centrocampista,Elmas,Napoli,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,4711,Centrocampista,Kostic,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5823,Centrocampista,Baldanzi,Empoli,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,5850,Centrocampista,Lovric,Udinese,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,5948,Centrocampista,Kamada,Lazio,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,2077,Centrocampista,Pasalic,Atalanta,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,2741,Centrocampista,Pessina,Monza,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,4220,Centrocampista,Zambo Anguissa,Napoli,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,5800,Centrocampista,Gudmundsson A.,Genoa,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,5880,Centrocampista,Ciurria,Monza,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,2529,Centrocampista,Mkhitaryan,Inter,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,2543,Centrocampista,Renato Sanches,Roma,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,4199,Centrocampista,Loftus-Cheek,Milan,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,4287,Centrocampista,Lobotka,Napoli,1,6,5.5,0,0,0,0,0,0,0,1,0,0
+2023-2024,4465,Centrocampista,Fagioli,Juventus,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,4658,Centrocampista,Ikone',Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5451,Centrocampista,Bajrami,Sassuolo,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,5453,Centrocampista,Ricci S.,Torino,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,303,Centrocampista,Pogba,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,827,Centrocampista,Locatelli,Juventus,1,6,5.5,0,0,0,0,0,0,0,1,0,0
+2023-2024,2172,Centrocampista,Barak,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4869,Centrocampista,Dominguez,Bologna,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,5007,Centrocampista,Ilic,Torino,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,5564,Centrocampista,Ndoye,Bologna,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,6224,Centrocampista,Reijnders,Milan,1,6.5,7.5,0,0,0,0,0,0,1,0,0,0
+2023-2024,22,Centrocampista,De Roon,Atalanta,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,150,Centrocampista,Saponara,Verona,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,5063,Centrocampista,Radonjic,Torino,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,1933,Centrocampista,Mandragora,Fiorentina,1,7,10,1,0,0,0,0,0,0,0,0,0
+2023-2024,2818,Centrocampista,Bennacer,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4377,Centrocampista,Castrovilli,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4662,Centrocampista,Weah,Juventus,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,5001,Centrocampista,Miranchuk,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5792,Centrocampista,Ederson D.s.,Atalanta,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,5870,Centrocampista,Hjulmand,Lecce,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6216,Centrocampista,Mboula,Verona,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,779,Centrocampista,Cristante,Roma,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,2528,Centrocampista,Matic,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4404,Centrocampista,Thorsby,Genoa,1,4.5,4.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,4970,Centrocampista,Messias,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5295,Centrocampista,Musah,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5511,Centrocampista,Matheus Henrique,Sassuolo,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,5788,Centrocampista,Sabiri,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5878,Centrocampista,Colpani,Monza,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,5995,Centrocampista,De Ketelaere,Atalanta,1,7,10,1,0,0,0,0,0,0,0,0,0
+2023-2024,376,Centrocampista,Verdi,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,468,Centrocampista,Paredes,Roma,1,6.5,7.5,0,0,0,0,0,0,1,0,0,0
+2023-2024,2839,Centrocampista,Sottil,Fiorentina,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,4285,Centrocampista,Arthur Melo,Fiorentina,1,7,7,0,0,0,0,0,0,0,0,0,0
+2023-2024,4393,Centrocampista,Schouten,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4514,Centrocampista,Nandez,Cagliari,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,4681,Centrocampista,Lopez M.,Sassuolo,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,4890,Centrocampista,Tameze,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4965,Centrocampista,Marin,Empoli,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,4973,Centrocampista,Mckennie,Juventus,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,4992,Centrocampista,Gyasi,Empoli,1,5,5,0,0,0,0,0,0,0,0,0,0
+2023-2024,5422,Centrocampista,Zalewski,Roma,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,5504,Centrocampista,Coulibaly L.,Salernitana,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,65,Centrocampista,Mancosu,Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,333,Centrocampista,Cataldi,Lazio,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,1978,Centrocampista,Sensi,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,1987,Centrocampista,Jankto,Cagliari,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,2117,Centrocampista,Kastanos,Salernitana,1,6,5.5,0,0,0,0,0,0,0,1,0,0
+2023-2024,2392,Centrocampista,Walace,Udinese,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,4342,Centrocampista,Duda,Verona,1,6.5,7,0,0,0,0,0,0,1,1,0,0
+2023-2024,4522,Centrocampista,Amrabat,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5999,Centrocampista,Gonzalez J.,Lecce,1,5.5,5,0,0,0,0,0,0,0,1,0,0
+2023-2024,6394,Centrocampista,Ramadani,Lecce,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,6402,Centrocampista,Cajuste,Napoli,1,5,4.5,0,0,0,0,0,0,0,1,0,0
+2023-2024,148,Centrocampista,Krunic,Milan,1,6,5.5,0,0,0,0,0,0,0,1,0,0
+2023-2024,181,Centrocampista,Vecino,Lazio,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,470,Centrocampista,Strootman,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,801,Centrocampista,Gagliardini,Monza,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,5688,Centrocampista,Harroui,Frosinone,1,7,10,1,0,0,1,1,0,0,0,0,0
+2023-2024,5791,Centrocampista,Frendrup,Genoa,1,5.5,6.5,0,0,0,0,0,0,1,0,0,0
+2023-2024,5844,Centrocampista,Thorstvedt,Sassuolo,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,5869,Centrocampista,Blin,Lecce,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,6010,Centrocampista,Fazzini,Empoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6054,Centrocampista,Moro N.,Bologna,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,6219,Centrocampista,Boloca,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,27,Centrocampista,Grassi,Empoli,1,5.5,5,0,0,0,0,0,0,0,1,0,0
+2023-2024,170,Centrocampista,Badelj,Genoa,1,5,5,0,0,0,0,0,0,0,0,0,0
+2023-2024,526,Centrocampista,Duncan,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,666,Centrocampista,Machin,Monza,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,2008,Centrocampista,Linetty,Torino,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,4459,Centrocampista,Rovella,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4892,Centrocampista,Saelemaekers,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4896,Centrocampista,Maldini,Empoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4947,Centrocampista,Brescianini,Frosinone,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,5298,Centrocampista,Pobega,Milan,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,5423,Centrocampista,Bove,Roma,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,5457,Centrocampista,Maleh,Lecce,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5784,Centrocampista,Aebischer,Bologna,1,6,5.5,0,0,0,0,0,0,0,1,0,0
+2023-2024,5813,Centrocampista,Miretti,Juventus,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,5834,Centrocampista,Marcos Antonio,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5884,Centrocampista,Ranocchia F.,Empoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6206,Centrocampista,Fabbian,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6232,Centrocampista,Makoumbou,Cagliari,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,6393,Centrocampista,Infantino,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6410,Centrocampista,Kaba,Lecce,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,694,Centrocampista,Baez,Frosinone,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,1871,Centrocampista,Deiola,Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,1976,Centrocampista,Mazzitelli,Frosinone,1,5,4.5,0,0,0,0,0,0,0,1,0,0
+2023-2024,1980,Centrocampista,Aramu,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2161,Centrocampista,Haas,Empoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4787,Centrocampista,Quina,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5267,Centrocampista,Racic,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5499,Centrocampista,Hongla,Verona,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,5510,Centrocampista,Romero L.,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5674,Centrocampista,Basic,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5719,Centrocampista,Asllani,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5798,Centrocampista,Bohinen,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6024,Centrocampista,Sulemana I.,Cagliari,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,6112,Centrocampista,Iling Junior,Juventus,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,6218,Centrocampista,Oristanio,Cagliari,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,6222,Centrocampista,Rafia,Lecce,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,6448,Centrocampista,Martegani,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2183,Centrocampista,Garritano,Frosinone,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4364,Centrocampista,Gaetano,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4384,Centrocampista,Jagiello,Genoa,1,5,5,0,0,0,0,0,0,0,0,0,0
+2023-2024,4498,Centrocampista,Henderson L.,Empoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4501,Centrocampista,Obiang,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4870,Centrocampista,Adopo,Atalanta,1,6.5,7.5,0,0,0,0,0,0,1,0,0,0
+2023-2024,4988,Centrocampista,Maggiore,Salernitana,1,6,5.5,0,0,0,0,0,0,0,1,0,0
+2023-2024,5286,Centrocampista,Akpa Akpro,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5735,Centrocampista,Volpato,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5782,Centrocampista,Kourfalidis,Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5947,Centrocampista,Hrustic,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6212,Centrocampista,Zarraga,Udinese,1,5,5,0,0,0,0,0,0,0,0,0,0
+2023-2024,6221,Centrocampista,Camara E.,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,440,Centrocampista,Viola,Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,500,Centrocampista,Lulic K.,Frosinone,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2144,Centrocampista,Coulibaly M.,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2154,Centrocampista,Vignato,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2274,Centrocampista,Valoti,Monza,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4349,Centrocampista,Nicolussi Caviglia,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6106,Centrocampista,Carboni V.,Monza,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6175,Centrocampista,Barrenechea,Frosinone,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6203,Centrocampista,Belardinelli,Empoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6225,Centrocampista,El Azzouzi,Bologna,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,6252,Centrocampista,Folorunsho,Verona,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,6424,Centrocampista,Prati,Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,21,Centrocampista,D'alessandro,Monza,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,557,Centrocampista,Benassi,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2076,Centrocampista,Rog,Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2121,Centrocampista,Melegoni,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2286,Centrocampista,Crociata,Empoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4725,Centrocampista,Demme,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5425,Centrocampista,Urbanski,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5772,Centrocampista,Pyyhtia,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5824,Centrocampista,Pafundi,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5872,Centrocampista,Helgason,Lecce,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5875,Centrocampista,Adli,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5879,Centrocampista,Vignato S.,Monza,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5998,Centrocampista,Zerbin,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6005,Centrocampista,Ilkhan,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6009,Centrocampista,Degli Innocenti,Empoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6168,Centrocampista,Faticanti,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6170,Centrocampista,Gineitis,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6233,Centrocampista,Lella,Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6236,Centrocampista,Amatucci,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6240,Centrocampista,Haoudi,Frosinone,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6241,Centrocampista,Gelli,Frosinone,1,5,4.5,0,0,0,0,0,0,0,1,0,0
+2023-2024,6246,Centrocampista,Lipani,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6251,Centrocampista,Saco,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6254,Centrocampista,Joselito,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6420,Centrocampista,Pagano,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6423,Centrocampista,Legowski,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4661,Attaccante,Osimhen,Napoli,1,8,14,2,0,0,0,0,0,0,0,0,0
+2023-2024,2764,Attaccante,Martinez L.,Inter,1,8,13.5,2,0,0,0,0,0,0,1,0,0
+2023-2024,785,Attaccante,Immobile,Lazio,1,6.5,9.5,1,0,0,0,0,0,0,0,0,0
+2023-2024,4510,Attaccante,Rafael Leao,Milan,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,5839,Attaccante,Kvaratskhelia,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,309,Attaccante,Dybala,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,531,Attaccante,Berardi,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2841,Attaccante,Vlahovic,Juventus,1,7.5,11.5,1,0,0,1,1,0,1,0,0,0
+2023-2024,4730,Attaccante,Lookman,Atalanta,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,5672,Attaccante,Dia,Salernitana,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,2137,Attaccante,Scamacca,Atalanta,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,4200,Attaccante,Giroud,Milan,1,7.5,11.5,1,0,0,0,0,0,1,0,0,0
+2023-2024,479,Attaccante,Sanabria,Torino,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,4268,Attaccante,Arnautovic,Inter,1,7,8,0,0,0,0,0,0,1,0,0,0
+2023-2024,4871,Attaccante,Thuram,Inter,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,5336,Attaccante,Nzola,Fiorentina,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,6228,Attaccante,Retegui,Genoa,1,5.5,5,0,0,0,0,0,0,0,1,0,0
+2023-2024,5786,Attaccante,Cabral,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6060,Attaccante,Lauriente',Sassuolo,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,5694,Attaccante,Beto,Udinese,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,608,Attaccante,Zapata D.,Atalanta,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,2002,Attaccante,Chiesa,Juventus,1,7.5,10.5,1,0,0,0,0,0,0,0,0,0
+2023-2024,2012,Attaccante,Milik,Juventus,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,4179,Attaccante,Gonzalez N.,Fiorentina,1,7,10,1,0,0,0,0,0,0,0,0,0
+2023-2024,6227,Attaccante,Okafor,Milan,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,6229,Attaccante,Toure' E.,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6409,Attaccante,Beltran L.,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,1939,Attaccante,Lapadula,Cagliari,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2544,Attaccante,Abraham,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2819,Attaccante,Caputo,Empoli,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,507,Attaccante,Muriel,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,1958,Attaccante,Caprari,Monza,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,2119,Attaccante,Deulofeu,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2438,Attaccante,Jovic,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2719,Attaccante,Barrow,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,383,Attaccante,Petagna,Monza,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2038,Attaccante,Pinamonti,Sassuolo,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,2061,Attaccante,Simeone,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5311,Attaccante,Shomurodov,Cagliari,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,5836,Attaccante,Ceesay,Lecce,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6226,Attaccante,Castellanos,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2489,Attaccante,Pedro,Lazio,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,4184,Attaccante,Brekalo,Fiorentina,1,7,7,0,0,0,0,0,0,0,0,0,0
+2023-2024,4436,Attaccante,Cambiaghi,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4517,Attaccante,Lozano,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5529,Attaccante,Henry,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6145,Attaccante,Ngonge,Verona,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,441,Attaccante,Belotti,Roma,1,7.5,13.5,2,0,0,0,0,0,0,0,0,0
+2023-2024,495,Attaccante,Correa,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2097,Attaccante,Kean,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2369,Attaccante,Thauvin,Udinese,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,5086,Attaccante,Zirkzee,Bologna,1,6,5.5,0,0,0,0,0,0,0,1,0,0
+2023-2024,5882,Attaccante,Mota,Monza,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,6205,Attaccante,Mulattieri,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6207,Attaccante,Almqvist,Lecce,1,7.5,10.5,1,0,0,0,0,0,0,0,0,0
+2023-2024,6213,Attaccante,Brenner,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6398,Attaccante,Isaksen,Lazio,1,5.5,5,0,0,0,0,0,0,0,1,0,0
+2023-2024,6435,Attaccante,Krstovic,Lecce,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6439,Attaccante,Cheddira,Frosinone,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2325,Attaccante,Karamoh,Torino,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,4371,Attaccante,Raspadori,Napoli,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,4923,Attaccante,Colombo,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,505,Attaccante,Bonazzoli,Verona,1,7,10,1,0,0,0,0,0,0,0,0,0
+2023-2024,643,Attaccante,Defrel,Sassuolo,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,1857,Attaccante,Di Francesco F.,Lecce,1,7,10,1,0,0,0,0,0,0,0,0,0
+2023-2024,2762,Attaccante,Kouame',Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5471,Attaccante,Djuric,Verona,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,2103,Attaccante,Pellegri,Torino,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,5297,Attaccante,Luvumbo,Cagliari,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,5842,Attaccante,Botheim,Salernitana,1,5,5,0,0,0,0,0,0,0,0,0,0
+2023-2024,6001,Attaccante,Banda,Lecce,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,6119,Attaccante,Solbakken,Roma,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4359,Attaccante,Piccoli,Empoli,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,5364,Attaccante,Caso,Frosinone,1,6.5,6.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,5676,Attaccante,Success,Udinese,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,6215,Attaccante,Lucca,Udinese,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,90,Attaccante,Lasagna,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,2190,Attaccante,Coda M.,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5500,Attaccante,Cancellieri,Empoli,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,5845,Attaccante,Alvarez A.,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,247,Attaccante,Pavoletti,Cagliari,1,6,5.5,0,0,0,0,0,0,0,1,0,0
+2023-2024,5734,Attaccante,Soule',Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6214,Attaccante,Cuni,Frosinone,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,2466,Attaccante,Origi,Milan,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,4463,Attaccante,Esposito,Inter,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5446,Attaccante,Van Hooijdonk,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5806,Attaccante,Seck,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6204,Attaccante,Kvernadze,Frosinone,1,5.5,5.5,0,0,0,0,0,0,0,0,0,0
+2023-2024,281,Attaccante,Puscas,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5439,Attaccante,Kallon,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5506,Attaccante,Ekuban,Genoa,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,6243,Attaccante,Borrelli,Frosinone,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,6250,Attaccante,Maric,Monza,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,6395,Attaccante,Shpendi S.,Empoli,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,6418,Attaccante,Burnete,Lecce,1,6,6,0,0,0,0,0,0,0,0,0,0
+2023-2024,2122,Attaccante,Latte Lath,Atalanta,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5060,Attaccante,Ake' M.,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5391,Attaccante,Kokorin,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5395,Attaccante,Braaf,Verona,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5436,Attaccante,Raimondo,Bologna,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5505,Attaccante,Kaio Jorge,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5776,Attaccante,Ceide,Sassuolo,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5837,Attaccante,Voelkerling Persson,Lecce,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5843,Attaccante,Valencia D.,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,5874,Attaccante,Rodriguez P.,Lecce,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6011,Attaccante,Ekong,Empoli,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6160,Attaccante,Vivaldo,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6242,Attaccante,Bidaoui,Frosinone,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6247,Attaccante,Yalcin,Genoa,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6249,Attaccante,Diaw,Monza,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6419,Attaccante,Corfitzen,Lecce,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6425,Attaccante,Ikwuemesi,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6427,Attaccante,Stewart,Salernitana,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-2024,6434,Attaccante,Yildiz,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0
