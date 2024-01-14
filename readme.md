@@ -1,38 +1,28 @@
-# Dashboard di Analisi dei Consumi Energetici
 
-Questa dashboard, realizzata con Dash e Plotly, permette di analizzare e visualizzare i consumi energetici. L'applicazione offre funzionalità di caricamento dati, elaborazione e visualizzazione grafica dei consumi.
+# FantaDash Football Analytics Dashboard
 
-## Funzionalità Principali
+## Overview
+FantaDash is a Dash-based web application designed for in-depth analysis and visualization of football players' performances. It integrates data analysis, interactive filtering, and visual representations to offer a comprehensive view of players' statistics over various seasons and matches.
 
-### Caricamento e Analisi dei Dati
-- **Parsing dei File CSV**: Supporto per il caricamento di file CSV contenenti dati sui consumi energetici.
-- **Elaborazione Dati**: Formattazione e preparazione dei dati per l'analisi.
+## Features
+- **Data Integration**: Utilizes `pandas` and `pandasql` for data handling and SQL-like querying.
+- **Interactive Dashboard**: Built with `dash` and `dash_bootstrap_components`, enabling dynamic user interactions.
+- **Data Visualization**: Incorporates `plotly.express` and `plotly.graph_objects` for creating insightful graphs and charts.
+- **Fantasy Football Insights**: Specialized modules for fantasy football analytics.
+- **FantaBot**: An AI chat interface using `pandasai` for conversational AI capabilities.
 
-### Visualizzazione dei Dati
-- **Grafici Interattivi**: Utilizzo di grafici Plotly per una rappresentazione dettagliata dei consumi.
-  - Grafico a ciambella per le fasce orarie.
-  - Grafico di tendenza per i consumi giornalieri.
-  - Heatmap per l'analisi settimanale.
-- **Report Dinamici**: Creazione di report interattivi basati sui dati caricati.
+## Installation
+1. Ensure Python 3.x is installed on your system.
+2. Install required packages:
+   ```
+   pip install pandas pandasql dash dash-bootstrap-components plotly dash-ag-grid numpy pandasai
+   ```
+3. Clone the repository or download the source code.
 
-### Interazione Utente
-- **Interfaccia Utente Intuitiva**: Interfaccia facile da usare con componenti di input per il caricamento dei dati.
-- **Feedback in Tempo Reale**: Risposte immediate all'interazione dell'utente.
 
-## Tecnologie Utilizzate
-- [Dash](https://dash.plotly.com/): Framework per la creazione di applicazioni web in Python.
-- [Plotly](https://plotly.com/): Libreria per la creazione di grafici interattivi.
-- [Pandas](https://pandas.pydata.org/): Libreria per la manipolazione e l'analisi dei dati.
-- [BigQuery](https://cloud.google.com/bigquery): Servizio di data warehouse per l'analisi dei grandi dataset.
+## Data Source
+The application uses publicly available football player data, which can be updated or modified by uploading CSV files through the dashboard.
 
-## Installazione e Avvio
+## Contributing
+Contributions to FantaDash are welcome. Please ensure to follow the coding standards and pull request process.
 
-Per eseguire la dashboard:
-
-1. Clonare il repository.
-2. Installare le dipendenze utilizzando `pip install -r requirements.txt`.
-3. Avviare l'applicazione con `python app.py`.
-
-## Contribuire
-
-Ogni contributo alla dashboard è benvenuto. Sentiti libero di forkare il progetto, aprire issue e inviare pull request.
