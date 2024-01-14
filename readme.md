@@ -1,4 +1,4 @@
-#Dashboard di Analisi dei Consumi Energetici
+# Dashboard di Analisi dei Consumi Energetici
 
 Questa dashboard, realizzata con Dash e Plotly, permette di analizzare e visualizzare i consumi energetici. L'applicazione offre funzionalità di caricamento dati, elaborazione e visualizzazione grafica dei consumi.
 
